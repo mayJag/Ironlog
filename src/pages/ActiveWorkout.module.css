@@ -357,3 +357,18 @@
   text-transform: capitalize;
 }
 
+.tutorialBadge {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-1);
+  text-decoration: none;
+  cursor: pointer;
+  transition: transform var(--duration-fast) var(--ease-out), filter var(--duration-fast);
+}
+
+.tutorialBadge:hover {
+  transform: translateY(-1px);
+  filter: brightness(1.1);
+}
+
+

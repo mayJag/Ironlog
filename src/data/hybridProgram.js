@@ -26,14 +26,15 @@ export const hybridProgram = {
               "percentRM": "75-80%",
               "rpe": "7.5",
               "rest": "3-4 min",
-              "notes": "Top set – explosive power",
+              "notes": "Top set \u2013 explosive power",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=bEv6CCg2BC8&t"
             },
             {
               "name": "Back Squat (Back-off)",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 2,
               "reps": "8",
               "percentRM": "70%",
@@ -42,7 +43,8 @@ export const hybridProgram = {
               "notes": "Consistent form",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=bEv6CCg2BC8&t"
             },
             {
               "name": "Overhead Press",
@@ -55,7 +57,8 @@ export const hybridProgram = {
               "notes": "Reset each rep",
               "category": "compound",
               "muscleGroup": "shoulders",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://www.youtube.com/watch?v=_RlRDWO2jfg"
             },
             {
               "name": "Weighted Pull-Up",
@@ -68,20 +71,22 @@ export const hybridProgram = {
               "notes": "1.5x shoulder-width grip",
               "category": "compound",
               "muscleGroup": "back",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://www.youtube.com/watch?v=Hdc7Mw6BIEE"
             },
             {
               "name": "Face Pull superset Hammer Curl",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "15 / 20",
               "percentRM": "N/A",
               "rpe": "9/10",
               "rest": "1 min",
-              "notes": "Superset – keep elbows locked",
+              "notes": "Superset \u2013 keep elbows locked",
               "category": "compound",
               "muscleGroup": "back",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://www.youtube.com/watch?v=qfc70k40318"
             }
           ]
         },
@@ -102,7 +107,8 @@ export const hybridProgram = {
               "notes": "Conventional or Sumo",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=VL5Ab0T07e4&"
             },
             {
               "name": "Barbell Bench Press (Top)",
@@ -112,14 +118,15 @@ export const hybridProgram = {
               "percentRM": "82.5-87.5%",
               "rpe": "8.5",
               "rest": "4-5 min",
-              "notes": "Hard top set – 1-2 RIR",
+              "notes": "Hard top set \u2013 1-2 RIR",
               "category": "compound",
               "muscleGroup": "chest",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=vcBig73ojpE"
             },
             {
               "name": "Barbell Bench Press (Back-off)",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 2,
               "reps": "10",
               "percentRM": "67.5%",
@@ -128,11 +135,12 @@ export const hybridProgram = {
               "notes": "1-sec pause on chest",
               "category": "compound",
               "muscleGroup": "chest",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=vcBig73ojpE"
             },
             {
               "name": "Hip Abduction",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "15-20",
               "percentRM": "N/A",
@@ -141,7 +149,8 @@ export const hybridProgram = {
               "notes": "1-sec hold at top",
               "category": "compound",
               "muscleGroup": "full_body",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/zfUWbpdjczg"
             },
             {
               "name": "Glute Ham Raise / Nordic Curl",
@@ -154,7 +163,8 @@ export const hybridProgram = {
               "notes": "Keep hips straight",
               "category": "compound",
               "muscleGroup": "arms",
-              "equipment": "cable"
+              "equipment": "cable",
+              "youtubeUrl": "https://youtu.be/psdbgvbdd_M"
             }
           ]
         },
@@ -175,7 +185,8 @@ export const hybridProgram = {
               "notes": "Drive upper back into bar",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=bEv6CCg2BC8&t"
             },
             {
               "name": "Weighted Dip",
@@ -188,7 +199,8 @@ export const hybridProgram = {
               "notes": "Sub DB floor press if needed",
               "category": "compound",
               "muscleGroup": "chest",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://www.youtube.com/watch?v=yN6Q1UI_xkE&"
             },
             {
               "name": "Lat Pull-over",
@@ -201,7 +213,8 @@ export const hybridProgram = {
               "notes": "Stretch and squeeze lats",
               "category": "compound",
               "muscleGroup": "back",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://www.youtube.com/watch?v=qfc70k40318"
             },
             {
               "name": "Incline DB Curl",
@@ -214,11 +227,12 @@ export const hybridProgram = {
               "notes": "One arm at a time",
               "category": "compound",
               "muscleGroup": "arms",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/Kd3tbUnbueU"
             },
             {
               "name": "Hanging Leg Raise",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "10-12",
               "percentRM": "N/A",
@@ -227,7 +241,8 @@ export const hybridProgram = {
               "notes": "Knees to chest",
               "category": "core",
               "muscleGroup": "core",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/2RrGnjxSsiA?t=247"
             }
           ]
         },
@@ -248,7 +263,8 @@ export const hybridProgram = {
               "notes": "3-sec pause off floor",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://youtu.be/KHcTYUf3JEs"
             },
             {
               "name": "Pause Bench Press",
@@ -261,7 +277,8 @@ export const hybridProgram = {
               "notes": "2-3 sec pause on chest",
               "category": "compound",
               "muscleGroup": "chest",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://www.youtube.com/watch?v=_RlRDWO2jfg"
             },
             {
               "name": "Chest-Supported Row / Pendlay Row",
@@ -274,11 +291,12 @@ export const hybridProgram = {
               "notes": "Minimize cheating",
               "category": "compound",
               "muscleGroup": "back",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=axoeDmW0oAY"
             },
             {
               "name": "DB Shrug",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "20-25",
               "percentRM": "N/A",
@@ -287,7 +305,8 @@ export const hybridProgram = {
               "notes": "Squeeze at top",
               "category": "compound",
               "muscleGroup": "full_body",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/C6sYjDFuq9I?t=326"
             },
             {
               "name": "Standing Calf Raise",
@@ -300,7 +319,8 @@ export const hybridProgram = {
               "notes": "Full ROM, pause at bottom",
               "category": "compound",
               "muscleGroup": "full_body",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-qsRtp_PbVM"
             }
           ]
         },
@@ -321,11 +341,12 @@ export const hybridProgram = {
               "notes": "Superset A1/A2",
               "category": "compound",
               "muscleGroup": "arms",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://youtu.be/popGXI-qs98?t=154"
             },
             {
               "name": "Incline DB Curl (Reverse 21s)",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "21",
               "percentRM": "N/A",
@@ -334,11 +355,12 @@ export const hybridProgram = {
               "notes": "7+7+7 partials",
               "category": "compound",
               "muscleGroup": "arms",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/Kd3tbUnbueU"
             },
             {
               "name": "Triceps Pressdown (Reverse 21s)",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "21",
               "percentRM": "N/A",
@@ -347,11 +369,12 @@ export const hybridProgram = {
               "notes": "7+7+7 partials",
               "category": "compound",
               "muscleGroup": "shoulders",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/p47spIApw0Q"
             },
             {
               "name": "DB Lateral Raise superset Band Pull-Apart",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "20/20",
               "percentRM": "N/A",
@@ -360,11 +383,12 @@ export const hybridProgram = {
               "notes": "Mind-muscle delts/rear delts",
               "category": "compound",
               "muscleGroup": "back",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/bN_lGBqZURw"
             },
             {
               "name": "Bicycle Crunch superset Calf Raise",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "15/12",
               "percentRM": "N/A",
@@ -373,7 +397,8 @@ export const hybridProgram = {
               "notes": "Round back on crunch",
               "category": "core",
               "muscleGroup": "core",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/2RrGnjxSsiA?t=371"
             }
           ]
         },
@@ -385,16 +410,17 @@ export const hybridProgram = {
           "exercises": [
             {
               "name": "Jump Rope / High Knees Warm-up",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 1,
               "reps": "5 min",
               "percentRM": "N/A",
               "rpe": "4",
-              "rest": "–",
+              "rest": "\u2013",
               "notes": "Get heart rate up",
               "category": "plyometric",
               "muscleGroup": "legs",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://www.youtube.com/watch?v=Hdc7Mw6BIEE"
             },
             {
               "name": "Squat Jumps",
@@ -407,7 +433,8 @@ export const hybridProgram = {
               "notes": "Explode off floor, soft landing",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/8KMh_1UIHzo"
             },
             {
               "name": "Broad Jumps",
@@ -420,11 +447,12 @@ export const hybridProgram = {
               "notes": "Max horizontal distance",
               "category": "plyometric",
               "muscleGroup": "legs",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/V0q2NAPUUAA"
             },
             {
               "name": "Single-Leg Hop & Stick (each leg)",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "6",
               "percentRM": "N/A",
@@ -436,8 +464,8 @@ export const hybridProgram = {
               "equipment": "bodyweight"
             },
             {
-              "name": "Depth Drop → Vertical Jump",
-              "warmupSets": "–",
+              "name": "Depth Drop \u2192 Vertical Jump",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "5",
               "percentRM": "N/A",
@@ -450,7 +478,7 @@ export const hybridProgram = {
             },
             {
               "name": "Lateral Bounds",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "8 each",
               "percentRM": "N/A",
@@ -463,7 +491,7 @@ export const hybridProgram = {
             },
             {
               "name": "Bodyweight Bulgarian Split Squat",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "12 each",
               "percentRM": "N/A",
@@ -472,11 +500,12 @@ export const hybridProgram = {
               "notes": "Torso upright",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/htDXu61MPio"
             },
             {
               "name": "Nordic Curl (partner/door)",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "6-8",
               "percentRM": "N/A",
@@ -485,11 +514,12 @@ export const hybridProgram = {
               "notes": "Control the negative",
               "category": "compound",
               "muscleGroup": "arms",
-              "equipment": "cable"
+              "equipment": "cable",
+              "youtubeUrl": "https://youtu.be/Kd3tbUnbueU"
             },
             {
               "name": "Ankle Hops (fast)",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "20",
               "percentRM": "N/A",
@@ -498,11 +528,12 @@ export const hybridProgram = {
               "notes": "Minimal ground contact",
               "category": "plyometric",
               "muscleGroup": "legs",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/mXqeQUX8hl8"
             },
             {
               "name": "Core: Hollow Body Hold",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "30 sec",
               "percentRM": "N/A",
@@ -511,7 +542,8 @@ export const hybridProgram = {
               "notes": "Lower back flat to floor",
               "category": "core",
               "muscleGroup": "core",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/rD_JaUSxe3s"
             }
           ]
         },
@@ -542,14 +574,15 @@ export const hybridProgram = {
               "percentRM": "75-80%",
               "rpe": "7.5",
               "rest": "3-4 min",
-              "notes": "Top set – explosive power [Even: lighter, hypertrophy focus, +5kg accessories]",
+              "notes": "Top set \u2013 explosive power [Even: lighter, hypertrophy focus, +5kg accessories]",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=bEv6CCg2BC8&t"
             },
             {
               "name": "Back Squat (Back-off)",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 2,
               "reps": "8",
               "percentRM": "70%",
@@ -558,7 +591,8 @@ export const hybridProgram = {
               "notes": "Consistent form [Even: lighter, hypertrophy focus, +5kg accessories]",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=bEv6CCg2BC8&t"
             },
             {
               "name": "Overhead Press",
@@ -571,7 +605,8 @@ export const hybridProgram = {
               "notes": "Reset each rep [Even: lighter, hypertrophy focus, +5kg accessories]",
               "category": "compound",
               "muscleGroup": "shoulders",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://www.youtube.com/watch?v=_RlRDWO2jfg"
             },
             {
               "name": "Weighted Pull-Up",
@@ -584,20 +619,22 @@ export const hybridProgram = {
               "notes": "1.5x shoulder-width grip [Even: lighter, hypertrophy focus, +5kg accessories]",
               "category": "compound",
               "muscleGroup": "back",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://www.youtube.com/watch?v=Hdc7Mw6BIEE"
             },
             {
               "name": "Face Pull superset Hammer Curl",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "15 / 20",
               "percentRM": "N/A",
               "rpe": "9/10",
               "rest": "1 min",
-              "notes": "Superset – keep elbows locked [Even: lighter, hypertrophy focus, +5kg accessories]",
+              "notes": "Superset \u2013 keep elbows locked [Even: lighter, hypertrophy focus, +5kg accessories]",
               "category": "compound",
               "muscleGroup": "back",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://www.youtube.com/watch?v=qfc70k40318"
             }
           ]
         },
@@ -618,7 +655,8 @@ export const hybridProgram = {
               "notes": "Conventional or Sumo [Even: lighter, hypertrophy focus, +5kg accessories]",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=VL5Ab0T07e4&"
             },
             {
               "name": "Barbell Bench Press (Top)",
@@ -628,14 +666,15 @@ export const hybridProgram = {
               "percentRM": "82.5-87.5%",
               "rpe": "8.5",
               "rest": "4-5 min",
-              "notes": "Hard top set – 1-2 RIR [Even: lighter, hypertrophy focus, +5kg accessories]",
+              "notes": "Hard top set \u2013 1-2 RIR [Even: lighter, hypertrophy focus, +5kg accessories]",
               "category": "compound",
               "muscleGroup": "chest",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=vcBig73ojpE"
             },
             {
               "name": "Barbell Bench Press (Back-off)",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 2,
               "reps": "10",
               "percentRM": "67.5%",
@@ -644,11 +683,12 @@ export const hybridProgram = {
               "notes": "1-sec pause on chest [Even: lighter, hypertrophy focus, +5kg accessories]",
               "category": "compound",
               "muscleGroup": "chest",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=vcBig73ojpE"
             },
             {
               "name": "Hip Abduction",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "15-20",
               "percentRM": "N/A",
@@ -657,7 +697,8 @@ export const hybridProgram = {
               "notes": "1-sec hold at top [Even: lighter, hypertrophy focus, +5kg accessories]",
               "category": "compound",
               "muscleGroup": "full_body",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/zfUWbpdjczg"
             },
             {
               "name": "Glute Ham Raise / Nordic Curl",
@@ -670,7 +711,8 @@ export const hybridProgram = {
               "notes": "Keep hips straight [Even: lighter, hypertrophy focus, +5kg accessories]",
               "category": "compound",
               "muscleGroup": "arms",
-              "equipment": "cable"
+              "equipment": "cable",
+              "youtubeUrl": "https://youtu.be/psdbgvbdd_M"
             }
           ]
         },
@@ -691,7 +733,8 @@ export const hybridProgram = {
               "notes": "Drive upper back into bar [Even: lighter, hypertrophy focus, +5kg accessories]",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=bEv6CCg2BC8&t"
             },
             {
               "name": "Weighted Dip",
@@ -704,7 +747,8 @@ export const hybridProgram = {
               "notes": "Sub DB floor press if needed [Even: lighter, hypertrophy focus, +5kg accessories]",
               "category": "compound",
               "muscleGroup": "chest",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://www.youtube.com/watch?v=yN6Q1UI_xkE&"
             },
             {
               "name": "Lat Pull-over",
@@ -717,7 +761,8 @@ export const hybridProgram = {
               "notes": "Stretch and squeeze lats [Even: lighter, hypertrophy focus, +5kg accessories]",
               "category": "compound",
               "muscleGroup": "back",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://www.youtube.com/watch?v=qfc70k40318"
             },
             {
               "name": "Incline DB Curl",
@@ -730,11 +775,12 @@ export const hybridProgram = {
               "notes": "One arm at a time [Even: lighter, hypertrophy focus, +5kg accessories]",
               "category": "compound",
               "muscleGroup": "arms",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/Kd3tbUnbueU"
             },
             {
               "name": "Hanging Leg Raise",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "10-12",
               "percentRM": "N/A",
@@ -743,7 +789,8 @@ export const hybridProgram = {
               "notes": "Knees to chest [Even: lighter, hypertrophy focus, +5kg accessories]",
               "category": "core",
               "muscleGroup": "core",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/2RrGnjxSsiA?t=247"
             }
           ]
         },
@@ -764,7 +811,8 @@ export const hybridProgram = {
               "notes": "3-sec pause off floor [Even: lighter, hypertrophy focus, +5kg accessories]",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://youtu.be/KHcTYUf3JEs"
             },
             {
               "name": "Pause Bench Press",
@@ -777,7 +825,8 @@ export const hybridProgram = {
               "notes": "2-3 sec pause on chest [Even: lighter, hypertrophy focus, +5kg accessories]",
               "category": "compound",
               "muscleGroup": "chest",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://www.youtube.com/watch?v=_RlRDWO2jfg"
             },
             {
               "name": "Chest-Supported Row / Pendlay Row",
@@ -790,11 +839,12 @@ export const hybridProgram = {
               "notes": "Minimize cheating [Even: lighter, hypertrophy focus, +5kg accessories]",
               "category": "compound",
               "muscleGroup": "back",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=axoeDmW0oAY"
             },
             {
               "name": "DB Shrug",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "20-25",
               "percentRM": "N/A",
@@ -803,7 +853,8 @@ export const hybridProgram = {
               "notes": "Squeeze at top [Even: lighter, hypertrophy focus, +5kg accessories]",
               "category": "compound",
               "muscleGroup": "full_body",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/C6sYjDFuq9I?t=326"
             },
             {
               "name": "Standing Calf Raise",
@@ -816,7 +867,8 @@ export const hybridProgram = {
               "notes": "Full ROM, pause at bottom [Even: lighter, hypertrophy focus, +5kg accessories]",
               "category": "compound",
               "muscleGroup": "full_body",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-qsRtp_PbVM"
             }
           ]
         },
@@ -837,11 +889,12 @@ export const hybridProgram = {
               "notes": "Superset A1/A2 [Even: lighter, hypertrophy focus, +5kg accessories]",
               "category": "compound",
               "muscleGroup": "arms",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://youtu.be/popGXI-qs98?t=154"
             },
             {
               "name": "Incline DB Curl (Reverse 21s)",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "21",
               "percentRM": "N/A",
@@ -850,11 +903,12 @@ export const hybridProgram = {
               "notes": "7+7+7 partials [Even: lighter, hypertrophy focus, +5kg accessories]",
               "category": "compound",
               "muscleGroup": "arms",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/Kd3tbUnbueU"
             },
             {
               "name": "Triceps Pressdown (Reverse 21s)",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "21",
               "percentRM": "N/A",
@@ -863,11 +917,12 @@ export const hybridProgram = {
               "notes": "7+7+7 partials [Even: lighter, hypertrophy focus, +5kg accessories]",
               "category": "compound",
               "muscleGroup": "shoulders",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/p47spIApw0Q"
             },
             {
               "name": "DB Lateral Raise superset Band Pull-Apart",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "20/20",
               "percentRM": "N/A",
@@ -876,11 +931,12 @@ export const hybridProgram = {
               "notes": "Mind-muscle delts/rear delts [Even: lighter, hypertrophy focus, +5kg accessories]",
               "category": "compound",
               "muscleGroup": "back",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/bN_lGBqZURw"
             },
             {
               "name": "Bicycle Crunch superset Calf Raise",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "15/12",
               "percentRM": "N/A",
@@ -889,7 +945,8 @@ export const hybridProgram = {
               "notes": "Round back on crunch [Even: lighter, hypertrophy focus, +5kg accessories]",
               "category": "core",
               "muscleGroup": "core",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/2RrGnjxSsiA?t=371"
             }
           ]
         },
@@ -901,16 +958,17 @@ export const hybridProgram = {
           "exercises": [
             {
               "name": "Jump Rope / High Knees Warm-up",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 1,
               "reps": "5 min",
               "percentRM": "N/A",
               "rpe": "4",
-              "rest": "–",
+              "rest": "\u2013",
               "notes": "Get heart rate up [Even: lighter, hypertrophy focus, +5kg accessories]",
               "category": "plyometric",
               "muscleGroup": "legs",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://www.youtube.com/watch?v=Hdc7Mw6BIEE"
             },
             {
               "name": "Squat Jumps",
@@ -923,7 +981,8 @@ export const hybridProgram = {
               "notes": "Explode off floor, soft landing [Even: lighter, hypertrophy focus, +5kg accessories]",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/8KMh_1UIHzo"
             },
             {
               "name": "Broad Jumps",
@@ -936,11 +995,12 @@ export const hybridProgram = {
               "notes": "Max horizontal distance [Even: lighter, hypertrophy focus, +5kg accessories]",
               "category": "plyometric",
               "muscleGroup": "legs",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/V0q2NAPUUAA"
             },
             {
               "name": "Single-Leg Hop & Stick (each leg)",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "6",
               "percentRM": "N/A",
@@ -952,8 +1012,8 @@ export const hybridProgram = {
               "equipment": "bodyweight"
             },
             {
-              "name": "Depth Drop → Vertical Jump",
-              "warmupSets": "–",
+              "name": "Depth Drop \u2192 Vertical Jump",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "5",
               "percentRM": "N/A",
@@ -966,7 +1026,7 @@ export const hybridProgram = {
             },
             {
               "name": "Lateral Bounds",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "8 each",
               "percentRM": "N/A",
@@ -979,7 +1039,7 @@ export const hybridProgram = {
             },
             {
               "name": "Bodyweight Bulgarian Split Squat",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "12 each",
               "percentRM": "N/A",
@@ -988,11 +1048,12 @@ export const hybridProgram = {
               "notes": "Torso upright [Even: lighter, hypertrophy focus, +5kg accessories]",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/htDXu61MPio"
             },
             {
               "name": "Nordic Curl (partner/door)",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "6-8",
               "percentRM": "N/A",
@@ -1001,11 +1062,12 @@ export const hybridProgram = {
               "notes": "Control the negative [Even: lighter, hypertrophy focus, +5kg accessories]",
               "category": "compound",
               "muscleGroup": "arms",
-              "equipment": "cable"
+              "equipment": "cable",
+              "youtubeUrl": "https://youtu.be/Kd3tbUnbueU"
             },
             {
               "name": "Ankle Hops (fast)",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "20",
               "percentRM": "N/A",
@@ -1014,11 +1076,12 @@ export const hybridProgram = {
               "notes": "Minimal ground contact [Even: lighter, hypertrophy focus, +5kg accessories]",
               "category": "plyometric",
               "muscleGroup": "legs",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/mXqeQUX8hl8"
             },
             {
               "name": "Core: Hollow Body Hold",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "30 sec",
               "percentRM": "N/A",
@@ -1027,7 +1090,8 @@ export const hybridProgram = {
               "notes": "Lower back flat to floor [Even: lighter, hypertrophy focus, +5kg accessories]",
               "category": "core",
               "muscleGroup": "core",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/rD_JaUSxe3s"
             }
           ]
         },
@@ -1058,23 +1122,25 @@ export const hybridProgram = {
               "percentRM": "75-80%",
               "rpe": "7.5",
               "rest": "3-4 min",
-              "notes": "Top set – explosive power [Near-PR top sets – push the bracket]",
+              "notes": "Top set \u2013 explosive power [Near-PR top sets \u2013 push the bracket]",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=bEv6CCg2BC8&t"
             },
             {
               "name": "Back Squat (Back-off)",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 2,
               "reps": "8",
               "percentRM": "70%",
               "rpe": "N/A",
               "rest": "3-4 min",
-              "notes": "Consistent form [Near-PR top sets – push the bracket]",
+              "notes": "Consistent form [Near-PR top sets \u2013 push the bracket]",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=bEv6CCg2BC8&t"
             },
             {
               "name": "Overhead Press",
@@ -1084,10 +1150,11 @@ export const hybridProgram = {
               "percentRM": "70%",
               "rpe": "N/A",
               "rest": "2 min",
-              "notes": "Reset each rep [Near-PR top sets – push the bracket]",
+              "notes": "Reset each rep [Near-PR top sets \u2013 push the bracket]",
               "category": "compound",
               "muscleGroup": "shoulders",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://www.youtube.com/watch?v=_RlRDWO2jfg"
             },
             {
               "name": "Weighted Pull-Up",
@@ -1097,23 +1164,25 @@ export const hybridProgram = {
               "percentRM": "N/A",
               "rpe": "8",
               "rest": "2-3 min",
-              "notes": "1.5x shoulder-width grip [Near-PR top sets – push the bracket]",
+              "notes": "1.5x shoulder-width grip [Near-PR top sets \u2013 push the bracket]",
               "category": "compound",
               "muscleGroup": "back",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://www.youtube.com/watch?v=Hdc7Mw6BIEE"
             },
             {
               "name": "Face Pull superset Hammer Curl",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "15 / 20",
               "percentRM": "N/A",
               "rpe": "9/10",
               "rest": "1 min",
-              "notes": "Superset – keep elbows locked [Near-PR top sets – push the bracket]",
+              "notes": "Superset \u2013 keep elbows locked [Near-PR top sets \u2013 push the bracket]",
               "category": "compound",
               "muscleGroup": "back",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://www.youtube.com/watch?v=qfc70k40318"
             }
           ]
         },
@@ -1131,10 +1200,11 @@ export const hybridProgram = {
               "percentRM": "80%",
               "rpe": "N/A",
               "rest": "3-5 min",
-              "notes": "Conventional or Sumo [Near-PR top sets – push the bracket]",
+              "notes": "Conventional or Sumo [Near-PR top sets \u2013 push the bracket]",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=VL5Ab0T07e4&"
             },
             {
               "name": "Barbell Bench Press (Top)",
@@ -1144,36 +1214,39 @@ export const hybridProgram = {
               "percentRM": "82.5-87.5%",
               "rpe": "8.5",
               "rest": "4-5 min",
-              "notes": "Hard top set – 1-2 RIR [Near-PR top sets – push the bracket]",
+              "notes": "Hard top set \u2013 1-2 RIR [Near-PR top sets \u2013 push the bracket]",
               "category": "compound",
               "muscleGroup": "chest",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=vcBig73ojpE"
             },
             {
               "name": "Barbell Bench Press (Back-off)",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 2,
               "reps": "10",
               "percentRM": "67.5%",
               "rpe": "N/A",
               "rest": "2-3 min",
-              "notes": "1-sec pause on chest [Near-PR top sets – push the bracket]",
+              "notes": "1-sec pause on chest [Near-PR top sets \u2013 push the bracket]",
               "category": "compound",
               "muscleGroup": "chest",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=vcBig73ojpE"
             },
             {
               "name": "Hip Abduction",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "15-20",
               "percentRM": "N/A",
               "rpe": "9",
               "rest": "1 min",
-              "notes": "1-sec hold at top [Near-PR top sets – push the bracket]",
+              "notes": "1-sec hold at top [Near-PR top sets \u2013 push the bracket]",
               "category": "compound",
               "muscleGroup": "full_body",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/zfUWbpdjczg"
             },
             {
               "name": "Glute Ham Raise / Nordic Curl",
@@ -1183,10 +1256,11 @@ export const hybridProgram = {
               "percentRM": "N/A",
               "rpe": "7",
               "rest": "1 min",
-              "notes": "Keep hips straight [Near-PR top sets – push the bracket]",
+              "notes": "Keep hips straight [Near-PR top sets \u2013 push the bracket]",
               "category": "compound",
               "muscleGroup": "arms",
-              "equipment": "cable"
+              "equipment": "cable",
+              "youtubeUrl": "https://youtu.be/psdbgvbdd_M"
             }
           ]
         },
@@ -1204,10 +1278,11 @@ export const hybridProgram = {
               "percentRM": "80%",
               "rpe": "N/A",
               "rest": "3-4 min",
-              "notes": "Drive upper back into bar [Near-PR top sets – push the bracket]",
+              "notes": "Drive upper back into bar [Near-PR top sets \u2013 push the bracket]",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=bEv6CCg2BC8&t"
             },
             {
               "name": "Weighted Dip",
@@ -1217,10 +1292,11 @@ export const hybridProgram = {
               "percentRM": "N/A",
               "rpe": "8",
               "rest": "2-3 min",
-              "notes": "Sub DB floor press if needed [Near-PR top sets – push the bracket]",
+              "notes": "Sub DB floor press if needed [Near-PR top sets \u2013 push the bracket]",
               "category": "compound",
               "muscleGroup": "chest",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://www.youtube.com/watch?v=yN6Q1UI_xkE&"
             },
             {
               "name": "Lat Pull-over",
@@ -1230,10 +1306,11 @@ export const hybridProgram = {
               "percentRM": "N/A",
               "rpe": "8",
               "rest": "1 min",
-              "notes": "Stretch and squeeze lats [Near-PR top sets – push the bracket]",
+              "notes": "Stretch and squeeze lats [Near-PR top sets \u2013 push the bracket]",
               "category": "compound",
               "muscleGroup": "back",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://www.youtube.com/watch?v=qfc70k40318"
             },
             {
               "name": "Incline DB Curl",
@@ -1243,23 +1320,25 @@ export const hybridProgram = {
               "percentRM": "N/A",
               "rpe": "9",
               "rest": "1 min",
-              "notes": "One arm at a time [Near-PR top sets – push the bracket]",
+              "notes": "One arm at a time [Near-PR top sets \u2013 push the bracket]",
               "category": "compound",
               "muscleGroup": "arms",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/Kd3tbUnbueU"
             },
             {
               "name": "Hanging Leg Raise",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "10-12",
               "percentRM": "N/A",
               "rpe": "9",
               "rest": "1 min",
-              "notes": "Knees to chest [Near-PR top sets – push the bracket]",
+              "notes": "Knees to chest [Near-PR top sets \u2013 push the bracket]",
               "category": "core",
               "muscleGroup": "core",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/2RrGnjxSsiA?t=247"
             }
           ]
         },
@@ -1277,10 +1356,11 @@ export const hybridProgram = {
               "percentRM": "75%",
               "rpe": "N/A",
               "rest": "3-4 min",
-              "notes": "3-sec pause off floor [Near-PR top sets – push the bracket]",
+              "notes": "3-sec pause off floor [Near-PR top sets \u2013 push the bracket]",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://youtu.be/KHcTYUf3JEs"
             },
             {
               "name": "Pause Bench Press",
@@ -1290,10 +1370,11 @@ export const hybridProgram = {
               "percentRM": "75%",
               "rpe": "N/A",
               "rest": "2-3 min",
-              "notes": "2-3 sec pause on chest [Near-PR top sets – push the bracket]",
+              "notes": "2-3 sec pause on chest [Near-PR top sets \u2013 push the bracket]",
               "category": "compound",
               "muscleGroup": "chest",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://www.youtube.com/watch?v=_RlRDWO2jfg"
             },
             {
               "name": "Chest-Supported Row / Pendlay Row",
@@ -1303,23 +1384,25 @@ export const hybridProgram = {
               "percentRM": "N/A",
               "rpe": "7",
               "rest": "2 min",
-              "notes": "Minimize cheating [Near-PR top sets – push the bracket]",
+              "notes": "Minimize cheating [Near-PR top sets \u2013 push the bracket]",
               "category": "compound",
               "muscleGroup": "back",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=axoeDmW0oAY"
             },
             {
               "name": "DB Shrug",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "20-25",
               "percentRM": "N/A",
               "rpe": "9",
               "rest": "1 min",
-              "notes": "Squeeze at top [Near-PR top sets – push the bracket]",
+              "notes": "Squeeze at top [Near-PR top sets \u2013 push the bracket]",
               "category": "compound",
               "muscleGroup": "full_body",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/C6sYjDFuq9I?t=326"
             },
             {
               "name": "Standing Calf Raise",
@@ -1329,10 +1412,11 @@ export const hybridProgram = {
               "percentRM": "N/A",
               "rpe": "9",
               "rest": "2 min",
-              "notes": "Full ROM, pause at bottom [Near-PR top sets – push the bracket]",
+              "notes": "Full ROM, pause at bottom [Near-PR top sets \u2013 push the bracket]",
               "category": "compound",
               "muscleGroup": "full_body",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-qsRtp_PbVM"
             }
           ]
         },
@@ -1350,62 +1434,67 @@ export const hybridProgram = {
               "percentRM": "N/A",
               "rpe": "8",
               "rest": "30 sec",
-              "notes": "Superset A1/A2 [Near-PR top sets – push the bracket]",
+              "notes": "Superset A1/A2 [Near-PR top sets \u2013 push the bracket]",
               "category": "compound",
               "muscleGroup": "arms",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://youtu.be/popGXI-qs98?t=154"
             },
             {
               "name": "Incline DB Curl (Reverse 21s)",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "21",
               "percentRM": "N/A",
               "rpe": "10",
               "rest": "30 sec",
-              "notes": "7+7+7 partials [Near-PR top sets – push the bracket]",
+              "notes": "7+7+7 partials [Near-PR top sets \u2013 push the bracket]",
               "category": "compound",
               "muscleGroup": "arms",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/Kd3tbUnbueU"
             },
             {
               "name": "Triceps Pressdown (Reverse 21s)",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "21",
               "percentRM": "N/A",
               "rpe": "10",
               "rest": "30 sec",
-              "notes": "7+7+7 partials [Near-PR top sets – push the bracket]",
+              "notes": "7+7+7 partials [Near-PR top sets \u2013 push the bracket]",
               "category": "compound",
               "muscleGroup": "shoulders",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/p47spIApw0Q"
             },
             {
               "name": "DB Lateral Raise superset Band Pull-Apart",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "20/20",
               "percentRM": "N/A",
               "rpe": "9",
               "rest": "30 sec",
-              "notes": "Mind-muscle delts/rear delts [Near-PR top sets – push the bracket]",
+              "notes": "Mind-muscle delts/rear delts [Near-PR top sets \u2013 push the bracket]",
               "category": "compound",
               "muscleGroup": "back",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/bN_lGBqZURw"
             },
             {
               "name": "Bicycle Crunch superset Calf Raise",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "15/12",
               "percentRM": "N/A",
               "rpe": "9",
               "rest": "30 sec",
-              "notes": "Round back on crunch [Near-PR top sets – push the bracket]",
+              "notes": "Round back on crunch [Near-PR top sets \u2013 push the bracket]",
               "category": "core",
               "muscleGroup": "core",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/2RrGnjxSsiA?t=371"
             }
           ]
         },
@@ -1417,16 +1506,17 @@ export const hybridProgram = {
           "exercises": [
             {
               "name": "Jump Rope / High Knees Warm-up",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 1,
               "reps": "5 min",
               "percentRM": "N/A",
               "rpe": "4",
-              "rest": "–",
-              "notes": "Get heart rate up [Near-PR top sets – push the bracket]",
+              "rest": "\u2013",
+              "notes": "Get heart rate up [Near-PR top sets \u2013 push the bracket]",
               "category": "plyometric",
               "muscleGroup": "legs",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://www.youtube.com/watch?v=Hdc7Mw6BIEE"
             },
             {
               "name": "Squat Jumps",
@@ -1436,10 +1526,11 @@ export const hybridProgram = {
               "percentRM": "N/A",
               "rpe": "8",
               "rest": "90 sec",
-              "notes": "Explode off floor, soft landing [Near-PR top sets – push the bracket]",
+              "notes": "Explode off floor, soft landing [Near-PR top sets \u2013 push the bracket]",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/8KMh_1UIHzo"
             },
             {
               "name": "Broad Jumps",
@@ -1449,101 +1540,106 @@ export const hybridProgram = {
               "percentRM": "N/A",
               "rpe": "8",
               "rest": "90 sec",
-              "notes": "Max horizontal distance [Near-PR top sets – push the bracket]",
+              "notes": "Max horizontal distance [Near-PR top sets \u2013 push the bracket]",
               "category": "plyometric",
               "muscleGroup": "legs",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/V0q2NAPUUAA"
             },
             {
               "name": "Single-Leg Hop & Stick (each leg)",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "6",
               "percentRM": "N/A",
               "rpe": "8",
               "rest": "60 sec",
-              "notes": "Land and balance 2 sec [Near-PR top sets – push the bracket]",
+              "notes": "Land and balance 2 sec [Near-PR top sets \u2013 push the bracket]",
               "category": "plyometric",
               "muscleGroup": "legs",
               "equipment": "bodyweight"
             },
             {
-              "name": "Depth Drop → Vertical Jump",
-              "warmupSets": "–",
+              "name": "Depth Drop \u2192 Vertical Jump",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "5",
               "percentRM": "N/A",
               "rpe": "8",
               "rest": "90 sec",
-              "notes": "Step off low surface, react fast [Near-PR top sets – push the bracket]",
+              "notes": "Step off low surface, react fast [Near-PR top sets \u2013 push the bracket]",
               "category": "plyometric",
               "muscleGroup": "legs",
               "equipment": "bodyweight"
             },
             {
               "name": "Lateral Bounds",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "8 each",
               "percentRM": "N/A",
               "rpe": "8",
               "rest": "60 sec",
-              "notes": "Drive off outside foot [Near-PR top sets – push the bracket]",
+              "notes": "Drive off outside foot [Near-PR top sets \u2013 push the bracket]",
               "category": "compound",
               "muscleGroup": "back",
               "equipment": "bodyweight"
             },
             {
               "name": "Bodyweight Bulgarian Split Squat",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "12 each",
               "percentRM": "N/A",
               "rpe": "8",
               "rest": "60 sec",
-              "notes": "Torso upright [Near-PR top sets – push the bracket]",
+              "notes": "Torso upright [Near-PR top sets \u2013 push the bracket]",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/htDXu61MPio"
             },
             {
               "name": "Nordic Curl (partner/door)",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "6-8",
               "percentRM": "N/A",
               "rpe": "8",
               "rest": "90 sec",
-              "notes": "Control the negative [Near-PR top sets – push the bracket]",
+              "notes": "Control the negative [Near-PR top sets \u2013 push the bracket]",
               "category": "compound",
               "muscleGroup": "arms",
-              "equipment": "cable"
+              "equipment": "cable",
+              "youtubeUrl": "https://youtu.be/Kd3tbUnbueU"
             },
             {
               "name": "Ankle Hops (fast)",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "20",
               "percentRM": "N/A",
               "rpe": "8",
               "rest": "45 sec",
-              "notes": "Minimal ground contact [Near-PR top sets – push the bracket]",
+              "notes": "Minimal ground contact [Near-PR top sets \u2013 push the bracket]",
               "category": "plyometric",
               "muscleGroup": "legs",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/mXqeQUX8hl8"
             },
             {
               "name": "Core: Hollow Body Hold",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "30 sec",
               "percentRM": "N/A",
               "rpe": "8",
               "rest": "45 sec",
-              "notes": "Lower back flat to floor [Near-PR top sets – push the bracket]",
+              "notes": "Lower back flat to floor [Near-PR top sets \u2013 push the bracket]",
               "category": "core",
               "muscleGroup": "core",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/rD_JaUSxe3s"
             }
           ]
         },
@@ -1574,14 +1670,15 @@ export const hybridProgram = {
               "percentRM": "75-80%",
               "rpe": "7.5",
               "rest": "3-4 min",
-              "notes": "Top set – explosive power [Semi-deload: drop RPE by 1-2; squat heavy single at 90%+]",
+              "notes": "Top set \u2013 explosive power [Semi-deload: drop RPE by 1-2; squat heavy single at 90%+]",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=bEv6CCg2BC8&t"
             },
             {
               "name": "Back Squat (Back-off)",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 2,
               "reps": "8",
               "percentRM": "70%",
@@ -1590,7 +1687,8 @@ export const hybridProgram = {
               "notes": "Consistent form [Semi-deload: drop RPE by 1-2; squat heavy single at 90%+]",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=bEv6CCg2BC8&t"
             },
             {
               "name": "Overhead Press",
@@ -1603,7 +1701,8 @@ export const hybridProgram = {
               "notes": "Reset each rep [Semi-deload: drop RPE by 1-2; squat heavy single at 90%+]",
               "category": "compound",
               "muscleGroup": "shoulders",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://www.youtube.com/watch?v=_RlRDWO2jfg"
             },
             {
               "name": "Weighted Pull-Up",
@@ -1616,20 +1715,22 @@ export const hybridProgram = {
               "notes": "1.5x shoulder-width grip [Semi-deload: drop RPE by 1-2; squat heavy single at 90%+]",
               "category": "compound",
               "muscleGroup": "back",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://www.youtube.com/watch?v=Hdc7Mw6BIEE"
             },
             {
               "name": "Face Pull superset Hammer Curl",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "15 / 20",
               "percentRM": "N/A",
               "rpe": "9/10",
               "rest": "1 min",
-              "notes": "Superset – keep elbows locked [Semi-deload: drop RPE by 1-2; squat heavy single at 90%+]",
+              "notes": "Superset \u2013 keep elbows locked [Semi-deload: drop RPE by 1-2; squat heavy single at 90%+]",
               "category": "compound",
               "muscleGroup": "back",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://www.youtube.com/watch?v=qfc70k40318"
             }
           ]
         },
@@ -1650,7 +1751,8 @@ export const hybridProgram = {
               "notes": "Conventional or Sumo [Semi-deload: drop RPE by 1-2; squat heavy single at 90%+]",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=VL5Ab0T07e4&"
             },
             {
               "name": "Barbell Bench Press (Top)",
@@ -1660,14 +1762,15 @@ export const hybridProgram = {
               "percentRM": "82.5-87.5%",
               "rpe": "8.5",
               "rest": "4-5 min",
-              "notes": "Hard top set – 1-2 RIR [Semi-deload: drop RPE by 1-2; squat heavy single at 90%+]",
+              "notes": "Hard top set \u2013 1-2 RIR [Semi-deload: drop RPE by 1-2; squat heavy single at 90%+]",
               "category": "compound",
               "muscleGroup": "chest",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=vcBig73ojpE"
             },
             {
               "name": "Barbell Bench Press (Back-off)",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 2,
               "reps": "10",
               "percentRM": "67.5%",
@@ -1676,11 +1779,12 @@ export const hybridProgram = {
               "notes": "1-sec pause on chest [Semi-deload: drop RPE by 1-2; squat heavy single at 90%+]",
               "category": "compound",
               "muscleGroup": "chest",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=vcBig73ojpE"
             },
             {
               "name": "Hip Abduction",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "15-20",
               "percentRM": "N/A",
@@ -1689,7 +1793,8 @@ export const hybridProgram = {
               "notes": "1-sec hold at top [Semi-deload: drop RPE by 1-2; squat heavy single at 90%+]",
               "category": "compound",
               "muscleGroup": "full_body",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/zfUWbpdjczg"
             },
             {
               "name": "Glute Ham Raise / Nordic Curl",
@@ -1702,7 +1807,8 @@ export const hybridProgram = {
               "notes": "Keep hips straight [Semi-deload: drop RPE by 1-2; squat heavy single at 90%+]",
               "category": "compound",
               "muscleGroup": "arms",
-              "equipment": "cable"
+              "equipment": "cable",
+              "youtubeUrl": "https://youtu.be/psdbgvbdd_M"
             }
           ]
         },
@@ -1723,7 +1829,8 @@ export const hybridProgram = {
               "notes": "Drive upper back into bar [Semi-deload: drop RPE by 1-2; squat heavy single at 90%+]",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=bEv6CCg2BC8&t"
             },
             {
               "name": "Weighted Dip",
@@ -1736,7 +1843,8 @@ export const hybridProgram = {
               "notes": "Sub DB floor press if needed [Semi-deload: drop RPE by 1-2; squat heavy single at 90%+]",
               "category": "compound",
               "muscleGroup": "chest",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://www.youtube.com/watch?v=yN6Q1UI_xkE&"
             },
             {
               "name": "Lat Pull-over",
@@ -1749,7 +1857,8 @@ export const hybridProgram = {
               "notes": "Stretch and squeeze lats [Semi-deload: drop RPE by 1-2; squat heavy single at 90%+]",
               "category": "compound",
               "muscleGroup": "back",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://www.youtube.com/watch?v=qfc70k40318"
             },
             {
               "name": "Incline DB Curl",
@@ -1762,11 +1871,12 @@ export const hybridProgram = {
               "notes": "One arm at a time [Semi-deload: drop RPE by 1-2; squat heavy single at 90%+]",
               "category": "compound",
               "muscleGroup": "arms",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/Kd3tbUnbueU"
             },
             {
               "name": "Hanging Leg Raise",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "10-12",
               "percentRM": "N/A",
@@ -1775,7 +1885,8 @@ export const hybridProgram = {
               "notes": "Knees to chest [Semi-deload: drop RPE by 1-2; squat heavy single at 90%+]",
               "category": "core",
               "muscleGroup": "core",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/2RrGnjxSsiA?t=247"
             }
           ]
         },
@@ -1796,7 +1907,8 @@ export const hybridProgram = {
               "notes": "3-sec pause off floor [Semi-deload: drop RPE by 1-2; squat heavy single at 90%+]",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://youtu.be/KHcTYUf3JEs"
             },
             {
               "name": "Pause Bench Press",
@@ -1809,7 +1921,8 @@ export const hybridProgram = {
               "notes": "2-3 sec pause on chest [Semi-deload: drop RPE by 1-2; squat heavy single at 90%+]",
               "category": "compound",
               "muscleGroup": "chest",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://www.youtube.com/watch?v=_RlRDWO2jfg"
             },
             {
               "name": "Chest-Supported Row / Pendlay Row",
@@ -1822,11 +1935,12 @@ export const hybridProgram = {
               "notes": "Minimize cheating [Semi-deload: drop RPE by 1-2; squat heavy single at 90%+]",
               "category": "compound",
               "muscleGroup": "back",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=axoeDmW0oAY"
             },
             {
               "name": "DB Shrug",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "20-25",
               "percentRM": "N/A",
@@ -1835,7 +1949,8 @@ export const hybridProgram = {
               "notes": "Squeeze at top [Semi-deload: drop RPE by 1-2; squat heavy single at 90%+]",
               "category": "compound",
               "muscleGroup": "full_body",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/C6sYjDFuq9I?t=326"
             },
             {
               "name": "Standing Calf Raise",
@@ -1848,7 +1963,8 @@ export const hybridProgram = {
               "notes": "Full ROM, pause at bottom [Semi-deload: drop RPE by 1-2; squat heavy single at 90%+]",
               "category": "compound",
               "muscleGroup": "full_body",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-qsRtp_PbVM"
             }
           ]
         },
@@ -1869,11 +1985,12 @@ export const hybridProgram = {
               "notes": "Superset A1/A2 [Semi-deload: drop RPE by 1-2; squat heavy single at 90%+]",
               "category": "compound",
               "muscleGroup": "arms",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://youtu.be/popGXI-qs98?t=154"
             },
             {
               "name": "Incline DB Curl (Reverse 21s)",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "21",
               "percentRM": "N/A",
@@ -1882,11 +1999,12 @@ export const hybridProgram = {
               "notes": "7+7+7 partials [Semi-deload: drop RPE by 1-2; squat heavy single at 90%+]",
               "category": "compound",
               "muscleGroup": "arms",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/Kd3tbUnbueU"
             },
             {
               "name": "Triceps Pressdown (Reverse 21s)",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "21",
               "percentRM": "N/A",
@@ -1895,11 +2013,12 @@ export const hybridProgram = {
               "notes": "7+7+7 partials [Semi-deload: drop RPE by 1-2; squat heavy single at 90%+]",
               "category": "compound",
               "muscleGroup": "shoulders",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/p47spIApw0Q"
             },
             {
               "name": "DB Lateral Raise superset Band Pull-Apart",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "20/20",
               "percentRM": "N/A",
@@ -1908,11 +2027,12 @@ export const hybridProgram = {
               "notes": "Mind-muscle delts/rear delts [Semi-deload: drop RPE by 1-2; squat heavy single at 90%+]",
               "category": "compound",
               "muscleGroup": "back",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/bN_lGBqZURw"
             },
             {
               "name": "Bicycle Crunch superset Calf Raise",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "15/12",
               "percentRM": "N/A",
@@ -1921,7 +2041,8 @@ export const hybridProgram = {
               "notes": "Round back on crunch [Semi-deload: drop RPE by 1-2; squat heavy single at 90%+]",
               "category": "core",
               "muscleGroup": "core",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/2RrGnjxSsiA?t=371"
             }
           ]
         },
@@ -1933,16 +2054,17 @@ export const hybridProgram = {
           "exercises": [
             {
               "name": "Jump Rope / High Knees Warm-up",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 1,
               "reps": "5 min",
               "percentRM": "N/A",
               "rpe": "4",
-              "rest": "–",
+              "rest": "\u2013",
               "notes": "Get heart rate up [Semi-deload: drop RPE by 1-2; squat heavy single at 90%+]",
               "category": "plyometric",
               "muscleGroup": "legs",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://www.youtube.com/watch?v=Hdc7Mw6BIEE"
             },
             {
               "name": "Squat Jumps",
@@ -1955,7 +2077,8 @@ export const hybridProgram = {
               "notes": "Explode off floor, soft landing [Semi-deload: drop RPE by 1-2; squat heavy single at 90%+]",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/8KMh_1UIHzo"
             },
             {
               "name": "Broad Jumps",
@@ -1968,11 +2091,12 @@ export const hybridProgram = {
               "notes": "Max horizontal distance [Semi-deload: drop RPE by 1-2; squat heavy single at 90%+]",
               "category": "plyometric",
               "muscleGroup": "legs",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/V0q2NAPUUAA"
             },
             {
               "name": "Single-Leg Hop & Stick (each leg)",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "6",
               "percentRM": "N/A",
@@ -1984,8 +2108,8 @@ export const hybridProgram = {
               "equipment": "bodyweight"
             },
             {
-              "name": "Depth Drop → Vertical Jump",
-              "warmupSets": "–",
+              "name": "Depth Drop \u2192 Vertical Jump",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "5",
               "percentRM": "N/A",
@@ -1998,7 +2122,7 @@ export const hybridProgram = {
             },
             {
               "name": "Lateral Bounds",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "8 each",
               "percentRM": "N/A",
@@ -2011,7 +2135,7 @@ export const hybridProgram = {
             },
             {
               "name": "Bodyweight Bulgarian Split Squat",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "12 each",
               "percentRM": "N/A",
@@ -2020,11 +2144,12 @@ export const hybridProgram = {
               "notes": "Torso upright [Semi-deload: drop RPE by 1-2; squat heavy single at 90%+]",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/htDXu61MPio"
             },
             {
               "name": "Nordic Curl (partner/door)",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "6-8",
               "percentRM": "N/A",
@@ -2033,11 +2158,12 @@ export const hybridProgram = {
               "notes": "Control the negative [Semi-deload: drop RPE by 1-2; squat heavy single at 90%+]",
               "category": "compound",
               "muscleGroup": "arms",
-              "equipment": "cable"
+              "equipment": "cable",
+              "youtubeUrl": "https://youtu.be/Kd3tbUnbueU"
             },
             {
               "name": "Ankle Hops (fast)",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "20",
               "percentRM": "N/A",
@@ -2046,11 +2172,12 @@ export const hybridProgram = {
               "notes": "Minimal ground contact [Semi-deload: drop RPE by 1-2; squat heavy single at 90%+]",
               "category": "plyometric",
               "muscleGroup": "legs",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/mXqeQUX8hl8"
             },
             {
               "name": "Core: Hollow Body Hold",
-              "warmupSets": "–",
+              "warmupSets": "\u2013",
               "sets": 3,
               "reps": "30 sec",
               "percentRM": "N/A",
@@ -2059,7 +2186,8 @@ export const hybridProgram = {
               "notes": "Lower back flat to floor [Semi-deload: drop RPE by 1-2; squat heavy single at 90%+]",
               "category": "core",
               "muscleGroup": "core",
-              "equipment": "bodyweight"
+              "equipment": "bodyweight",
+              "youtubeUrl": "https://youtu.be/rD_JaUSxe3s"
             }
           ]
         },

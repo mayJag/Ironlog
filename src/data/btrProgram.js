@@ -29,7 +29,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Foam Rolling",
@@ -39,7 +40,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Poliquin Step Ups",
@@ -49,7 +51,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/1TjCp7kgvvY"
                 },
                 {
                   "name": "Kot Lunges On An 18-Inch Box",
@@ -59,7 +62,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "box"
+                  "equipment": "box",
+                  "youtubeUrl": "https://youtu.be/CtQQhB9W3mg"
                 },
                 {
                   "name": "Eccentric Squats On A Slanted Board",
@@ -69,7 +73,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/inQRFmUbLyg"
                 },
                 {
                   "name": "Kot Squats On An 18-Inch Pad",
@@ -79,7 +84,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/jq_zJl6lFj8"
                 },
                 {
                   "name": "Jumpers Knee Stretching Routine",
@@ -89,7 +95,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -99,7 +106,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 },
                 {
                   "name": "The Major Causes Of Jumpers Knee",
@@ -136,7 +144,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Foam Rolling",
@@ -146,7 +155,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Poliquin Step Ups",
@@ -156,7 +166,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/1TjCp7kgvvY"
                 },
                 {
                   "name": "Glute Bridges With Mini Band",
@@ -166,7 +177,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/cXQdZb66Q9A"
                 },
                 {
                   "name": "Clams With Mini Band",
@@ -176,7 +188,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/UKOugqCKgT8"
                 },
                 {
                   "name": "Tke'S With Mini Band",
@@ -186,7 +199,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/K74VjnU5ksA"
                 },
                 {
                   "name": "Single Leg Rdl",
@@ -196,7 +210,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/djfObUhaAcM"
                 },
                 {
                   "name": "Tibialis Raises",
@@ -206,7 +221,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/QBKbXYB4VhI"
                 },
                 {
                   "name": "Single Leg Calf Raises",
@@ -216,7 +232,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PR0G6AWppBM"
                 },
                 {
                   "name": "Jumpers Knee Stretching Routine",
@@ -226,7 +243,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -236,7 +254,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 },
                 {
                   "name": "Here Is A Link To The Mini Bands That I Use For The Glute Bridges And Clams",
@@ -246,7 +265,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://amzn.to/2Dix4hV"
                 }
               ]
             },
@@ -263,7 +283,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Foam Rolling",
@@ -273,7 +294,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Poliquin Step Ups",
@@ -283,7 +305,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/1TjCp7kgvvY"
                 },
                 {
                   "name": "Backward Running At 25%",
@@ -293,7 +316,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/k2m3aFeiDAU"
                 },
                 {
                   "name": "Skipping At 25%",
@@ -303,7 +327,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/NZgmB4Mfe14"
                 },
                 {
                   "name": "Forward Running At 25%",
@@ -313,7 +338,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/bKvKaCq5KaE"
                 },
                 {
                   "name": "Shock Pause Jumps",
@@ -323,7 +349,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/SvFaI5c_cDI"
                 },
                 {
                   "name": "Stretching Routine",
@@ -333,7 +360,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -343,7 +371,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -360,7 +389,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/u8xxroQrqjU"
                 },
                 {
                   "name": "Foam Rolling",
@@ -370,7 +400,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Hip Mobility Routine",
@@ -380,7 +411,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/j4QNIVwI3cg"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -390,7 +422,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 },
                 {
                   "name": "Read A Book About Mindset Or Your Sport",
@@ -417,7 +450,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Foam Rolling",
@@ -427,7 +461,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Poliquin Step Ups",
@@ -437,7 +472,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/1TjCp7kgvvY"
                 },
                 {
                   "name": "Kot Lunges On An 18-Inch Box",
@@ -447,7 +483,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "box"
+                  "equipment": "box",
+                  "youtubeUrl": "https://youtu.be/CtQQhB9W3mg"
                 },
                 {
                   "name": "Eccentric Squats On A Slanted Board",
@@ -457,7 +494,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/inQRFmUbLyg"
                 },
                 {
                   "name": "Kot Squats On An 18-Inch Pad",
@@ -467,7 +505,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/jq_zJl6lFj8"
                 },
                 {
                   "name": "Jumpers Knee Stretching Routine",
@@ -477,7 +516,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -487,7 +527,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -504,7 +545,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Foam Rolling",
@@ -514,7 +556,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Poliquin Step Ups",
@@ -524,7 +567,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/1TjCp7kgvvY"
                 },
                 {
                   "name": "Glute Bridges With Mini Band",
@@ -534,7 +578,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/cXQdZb66Q9A"
                 },
                 {
                   "name": "Clams With Mini Band",
@@ -544,7 +589,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/UKOugqCKgT8"
                 },
                 {
                   "name": "Tke'S With Mini Band",
@@ -554,7 +600,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/K74VjnU5ksA"
                 },
                 {
                   "name": "Single Leg Rdl",
@@ -564,7 +611,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/djfObUhaAcM"
                 },
                 {
                   "name": "Tibialis Raises",
@@ -574,7 +622,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/QBKbXYB4VhI"
                 },
                 {
                   "name": "Single Leg Calf Raises",
@@ -584,7 +633,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PR0G6AWppBM"
                 },
                 {
                   "name": "Jumpers Knee Stretching Routine",
@@ -594,7 +644,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -604,7 +655,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -621,7 +673,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Foam Rolling",
@@ -631,7 +684,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Poliquin Step Ups",
@@ -641,7 +695,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/1TjCp7kgvvY"
                 },
                 {
                   "name": "Backward Running At 25%",
@@ -651,7 +706,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/k2m3aFeiDAU"
                 },
                 {
                   "name": "Skipping At 25%",
@@ -661,7 +717,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/NZgmB4Mfe14"
                 },
                 {
                   "name": "Forward Running At 25%",
@@ -671,7 +728,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/bKvKaCq5KaE"
                 },
                 {
                   "name": "Shock Pause Jumps",
@@ -681,7 +739,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/SvFaI5c_cDI"
                 },
                 {
                   "name": "Stretching Routine",
@@ -691,7 +750,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -701,7 +761,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             }
@@ -723,7 +784,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Foam Rolling",
@@ -733,7 +795,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Poliquin Step Ups",
@@ -743,7 +806,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/1TjCp7kgvvY"
                 },
                 {
                   "name": "Kot Lunges On A 12-Inch Box",
@@ -753,7 +817,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "box"
+                  "equipment": "box",
+                  "youtubeUrl": "https://youtu.be/CtQQhB9W3mg"
                 },
                 {
                   "name": "Eccentric Squats On A Slanted Board",
@@ -763,7 +828,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/inQRFmUbLyg"
                 },
                 {
                   "name": "Leg E Ccentric Squats On A Slanted Board",
@@ -773,7 +839,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-jrfRkWKuDQ"
                 },
                 {
                   "name": "Kot Squats On An 12-Inch Pad",
@@ -783,7 +850,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/jq_zJl6lFj8"
                 },
                 {
                   "name": "Jumpers Knee Stretching Routine",
@@ -793,7 +861,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -803,7 +872,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -820,7 +890,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Foam Rolling",
@@ -830,7 +901,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Poliquin Step Ups",
@@ -840,7 +912,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/1TjCp7kgvvY"
                 },
                 {
                   "name": "Glute Bridges With Mini Band",
@@ -850,7 +923,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/cXQdZb66Q9A"
                 },
                 {
                   "name": "Clams With Mini Band",
@@ -860,7 +934,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/UKOugqCKgT8"
                 },
                 {
                   "name": "Monster Walks With Mini Band",
@@ -870,7 +945,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/P9K7vau2Bs0"
                 },
                 {
                   "name": "Lateral Side Steps With Mini Band",
@@ -880,7 +956,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/LWp-ekVkgL8"
                 },
                 {
                   "name": "Nordic Curls On A 24-Inch Pad",
@@ -890,7 +967,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/t630FhAooug"
                 },
                 {
                   "name": "Tibialis Raises",
@@ -900,7 +978,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/QBKbXYB4VhI"
                 },
                 {
                   "name": "Single Leg Calf Raises",
@@ -910,7 +989,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PR0G6AWppBM"
                 },
                 {
                   "name": "Jumpers Knee Stretching Routine",
@@ -920,7 +1000,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -930,7 +1011,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -947,7 +1029,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Foam Rolling",
@@ -957,7 +1040,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Poliquin Step Ups",
@@ -967,7 +1051,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/1TjCp7kgvvY"
                 },
                 {
                   "name": "Backward Running At 25%",
@@ -977,7 +1062,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/k2m3aFeiDAU"
                 },
                 {
                   "name": "Skipping At 25%",
@@ -987,7 +1073,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/NZgmB4Mfe14"
                 },
                 {
                   "name": "Forward Running At 25%",
@@ -997,7 +1084,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/bKvKaCq5KaE"
                 },
                 {
                   "name": "Backward Running At 50%",
@@ -1007,7 +1095,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Y2TfvQvlq_E"
                 },
                 {
                   "name": "Skipping At 50%",
@@ -1017,7 +1106,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/UZXFPScsV7g"
                 },
                 {
                   "name": "Forward Running At 50%",
@@ -1027,7 +1117,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/a-VuaW0l348"
                 },
                 {
                   "name": "Shock Pause Jumps",
@@ -1037,7 +1128,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/SvFaI5c_cDI"
                 },
                 {
                   "name": "Stretching Routine",
@@ -1047,7 +1139,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -1057,7 +1150,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -1074,7 +1168,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/u8xxroQrqjU"
                 },
                 {
                   "name": "Foam Rolling",
@@ -1084,7 +1179,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Hip Mobility Routine",
@@ -1094,7 +1190,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/j4QNIVwI3cg"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -1104,7 +1201,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 },
                 {
                   "name": "Read A Book About Mindset Or Your Sport",
@@ -1131,7 +1229,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Foam Rolling",
@@ -1141,7 +1240,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Poliquin Step Ups",
@@ -1151,7 +1251,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/1TjCp7kgvvY"
                 },
                 {
                   "name": "Kot Lunges On A 12-Inch Box",
@@ -1161,7 +1262,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "box"
+                  "equipment": "box",
+                  "youtubeUrl": "https://youtu.be/CtQQhB9W3mg"
                 },
                 {
                   "name": "Eccentric Squats On A Slanted Board",
@@ -1171,7 +1273,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/inQRFmUbLyg"
                 },
                 {
                   "name": "Leg E Ccentric Squats On A Slanted Board",
@@ -1181,7 +1284,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-jrfRkWKuDQ"
                 },
                 {
                   "name": "Kot Squats On An 12-Inch Pad",
@@ -1191,7 +1295,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/jq_zJl6lFj8"
                 },
                 {
                   "name": "Jumpers Knee Stretching Routine",
@@ -1201,7 +1306,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -1211,7 +1317,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -1228,7 +1335,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Foam Rolling",
@@ -1238,7 +1346,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Poliquin Step Ups",
@@ -1248,7 +1357,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/1TjCp7kgvvY"
                 },
                 {
                   "name": "Glute Bridges With Mini Band",
@@ -1258,7 +1368,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/cXQdZb66Q9A"
                 },
                 {
                   "name": "Clams With Mini Band",
@@ -1268,7 +1379,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/UKOugqCKgT8"
                 },
                 {
                   "name": "Monster Walks With Mini Band",
@@ -1278,7 +1390,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/P9K7vau2Bs0"
                 },
                 {
                   "name": "Lateral Side Steps With Mini Band",
@@ -1288,7 +1401,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/LWp-ekVkgL8"
                 },
                 {
                   "name": "Nordic Curls On A 24-Inch Pad",
@@ -1298,7 +1412,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/t630FhAooug"
                 },
                 {
                   "name": "Tibialis Raises",
@@ -1308,7 +1423,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/QBKbXYB4VhI"
                 },
                 {
                   "name": "Single Leg Calf Raises",
@@ -1318,7 +1434,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PR0G6AWppBM"
                 },
                 {
                   "name": "Jumpers Knee Stretching Routine",
@@ -1328,7 +1445,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -1338,7 +1456,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -1355,7 +1474,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Foam Rolling",
@@ -1365,7 +1485,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Poliquin Step Ups",
@@ -1375,7 +1496,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/1TjCp7kgvvY"
                 },
                 {
                   "name": "Backward Running At 25%",
@@ -1385,7 +1507,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/k2m3aFeiDAU"
                 },
                 {
                   "name": "Skipping At 25%",
@@ -1395,7 +1518,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/NZgmB4Mfe14"
                 },
                 {
                   "name": "Forward Running At 25%",
@@ -1405,7 +1529,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/bKvKaCq5KaE"
                 },
                 {
                   "name": "Backward Running At 50%",
@@ -1415,7 +1540,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Y2TfvQvlq_E"
                 },
                 {
                   "name": "Skipping At 50%",
@@ -1425,7 +1551,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/UZXFPScsV7g"
                 },
                 {
                   "name": "Forward Running At 50%",
@@ -1435,7 +1562,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/a-VuaW0l348"
                 },
                 {
                   "name": "Shock Pause Jumps",
@@ -1445,7 +1573,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/SvFaI5c_cDI"
                 },
                 {
                   "name": "Stretching Routine",
@@ -1455,7 +1584,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -1465,7 +1595,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             }
@@ -1487,7 +1618,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Foam Rolling",
@@ -1497,7 +1629,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Poliquin Step Ups",
@@ -1507,7 +1640,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/1TjCp7kgvvY"
                 },
                 {
                   "name": "Kot Lunges On A 6-Inch Box",
@@ -1517,7 +1651,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "box"
+                  "equipment": "box",
+                  "youtubeUrl": "https://youtu.be/CtQQhB9W3mg"
                 },
                 {
                   "name": "Eccentric Squats On A Slanted Board",
@@ -1527,7 +1662,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/inQRFmUbLyg"
                 },
                 {
                   "name": "Leg Chair Stands",
@@ -1537,7 +1673,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ba-vUBq5EW8"
                 },
                 {
                   "name": "Kot Squats On A 6-Inch Pad",
@@ -1547,7 +1684,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/jq_zJl6lFj8"
                 },
                 {
                   "name": "Jumpers Knee Stretching Routine",
@@ -1557,7 +1695,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -1567,7 +1706,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -1584,7 +1724,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Foam Rolling",
@@ -1594,7 +1735,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Poliquin Step Ups",
@@ -1604,7 +1746,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/1TjCp7kgvvY"
                 },
                 {
                   "name": "Glute Bridges With Mini Band",
@@ -1614,7 +1757,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/cXQdZb66Q9A"
                 },
                 {
                   "name": "Clams With Mini Band",
@@ -1624,7 +1768,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/UKOugqCKgT8"
                 },
                 {
                   "name": "Monster Walks With Mini Band",
@@ -1634,7 +1779,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/P9K7vau2Bs0"
                 },
                 {
                   "name": "Lateral Side Steps With Mini Band",
@@ -1644,7 +1790,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/LWp-ekVkgL8"
                 },
                 {
                   "name": "Nordic Curls On An 18-Inch Pad",
@@ -1654,7 +1801,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/t630FhAooug"
                 },
                 {
                   "name": "Tibialis Raises",
@@ -1664,7 +1812,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/QBKbXYB4VhI"
                 },
                 {
                   "name": "Single Leg Calf Raises",
@@ -1674,7 +1823,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PR0G6AWppBM"
                 },
                 {
                   "name": "Jumpers Knee Stretching Routine",
@@ -1684,7 +1834,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -1694,7 +1845,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -1711,7 +1863,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Foam Rolling",
@@ -1721,7 +1874,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Poliquin Step Ups",
@@ -1731,7 +1885,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/1TjCp7kgvvY"
                 },
                 {
                   "name": "Backward Running At 25%",
@@ -1741,7 +1896,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/k2m3aFeiDAU"
                 },
                 {
                   "name": "Skipping At 25%",
@@ -1751,7 +1907,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/NZgmB4Mfe14"
                 },
                 {
                   "name": "Forward Running At 25%",
@@ -1761,7 +1918,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/bKvKaCq5KaE"
                 },
                 {
                   "name": "Backward Running At 50%",
@@ -1771,7 +1929,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Y2TfvQvlq_E"
                 },
                 {
                   "name": "Skipping At 50%",
@@ -1781,7 +1940,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/UZXFPScsV7g"
                 },
                 {
                   "name": "Forward Running At 50%",
@@ -1791,7 +1951,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/a-VuaW0l348"
                 },
                 {
                   "name": "Backward Running At 75%",
@@ -1801,7 +1962,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/TqBKaEMhcTQ"
                 },
                 {
                   "name": "Skipping At 75%",
@@ -1811,7 +1973,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/VYi9E8htBFk"
                 },
                 {
                   "name": "Forward Running At 75%",
@@ -1821,7 +1984,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/JNPpBwu9CBQ"
                 },
                 {
                   "name": "Shock Pause Jumps",
@@ -1831,7 +1995,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/SvFaI5c_cDI"
                 },
                 {
                   "name": "Stretching Routine",
@@ -1841,7 +2006,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -1851,7 +2017,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -1868,7 +2035,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/u8xxroQrqjU"
                 },
                 {
                   "name": "Foam Rolling",
@@ -1878,7 +2046,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Hip Mobility Routine",
@@ -1888,7 +2057,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/j4QNIVwI3cg"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -1898,7 +2068,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 },
                 {
                   "name": "Read A Book About Mindset Or Your Sport",
@@ -1925,7 +2096,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Foam Rolling",
@@ -1935,7 +2107,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Poliquin Step Ups",
@@ -1945,7 +2118,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/1TjCp7kgvvY"
                 },
                 {
                   "name": "Kot Lunges On A 6-Inch Box",
@@ -1955,7 +2129,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "box"
+                  "equipment": "box",
+                  "youtubeUrl": "https://youtu.be/CtQQhB9W3mg"
                 },
                 {
                   "name": "Eccentric Squats On A Slanted Board",
@@ -1965,7 +2140,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/inQRFmUbLyg"
                 },
                 {
                   "name": "Leg Chair Stands",
@@ -1975,7 +2151,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ba-vUBq5EW8"
                 },
                 {
                   "name": "Kot Squats On A 6-Inch Pad",
@@ -1985,7 +2162,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/jq_zJl6lFj8"
                 },
                 {
                   "name": "Jumpers Knee Stretching Routine",
@@ -1995,7 +2173,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -2005,7 +2184,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -2022,7 +2202,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Foam Rolling",
@@ -2032,7 +2213,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Poliquin Step Ups",
@@ -2042,7 +2224,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/1TjCp7kgvvY"
                 },
                 {
                   "name": "Glute Bridges With Mini Band",
@@ -2052,7 +2235,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/cXQdZb66Q9A"
                 },
                 {
                   "name": "Clams With Mini Band",
@@ -2062,7 +2246,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/UKOugqCKgT8"
                 },
                 {
                   "name": "Monster Walks With Mini Band",
@@ -2072,7 +2257,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/P9K7vau2Bs0"
                 },
                 {
                   "name": "Lateral Side Steps With Mini Band",
@@ -2082,7 +2268,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/LWp-ekVkgL8"
                 },
                 {
                   "name": "Nordic Curls On An 18-Inch Pad",
@@ -2092,7 +2279,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/t630FhAooug"
                 },
                 {
                   "name": "Tibialis Raises",
@@ -2102,7 +2290,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/QBKbXYB4VhI"
                 },
                 {
                   "name": "Single Leg Calf Raises",
@@ -2112,7 +2301,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PR0G6AWppBM"
                 },
                 {
                   "name": "Jumpers Knee Stretching Routine",
@@ -2122,7 +2312,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -2132,7 +2323,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -2149,7 +2341,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Foam Rolling",
@@ -2159,7 +2352,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Poliquin Step Ups",
@@ -2169,7 +2363,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/1TjCp7kgvvY"
                 },
                 {
                   "name": "Backward Running At 25%",
@@ -2179,7 +2374,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/k2m3aFeiDAU"
                 },
                 {
                   "name": "Skipping At 25%",
@@ -2189,7 +2385,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/NZgmB4Mfe14"
                 },
                 {
                   "name": "Forward Running At 25%",
@@ -2199,7 +2396,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/bKvKaCq5KaE"
                 },
                 {
                   "name": "Backward Running At 50%",
@@ -2209,7 +2407,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Y2TfvQvlq_E"
                 },
                 {
                   "name": "Skipping At 50%",
@@ -2219,7 +2418,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/UZXFPScsV7g"
                 },
                 {
                   "name": "Forward Running At 50%",
@@ -2229,7 +2429,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/a-VuaW0l348"
                 },
                 {
                   "name": "Backward Running At 75%",
@@ -2239,7 +2440,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/TqBKaEMhcTQ"
                 },
                 {
                   "name": "Skipping At 75%",
@@ -2249,7 +2451,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/VYi9E8htBFk"
                 },
                 {
                   "name": "Forward Running At 75%",
@@ -2259,7 +2462,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/JNPpBwu9CBQ"
                 },
                 {
                   "name": "Shock Pause Jumps",
@@ -2269,7 +2473,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/SvFaI5c_cDI"
                 },
                 {
                   "name": "Stretching Routine",
@@ -2279,7 +2484,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -2289,7 +2495,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             }
@@ -2311,7 +2518,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Foam Rolling",
@@ -2321,7 +2529,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Poliquin Step Ups",
@@ -2331,7 +2540,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/1TjCp7kgvvY"
                 },
                 {
                   "name": "Kot Lunges On The Floor",
@@ -2341,7 +2551,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CtQQhB9W3mg"
                 },
                 {
                   "name": "Eccentric Squats On A Slanted Board",
@@ -2351,7 +2562,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/inQRFmUbLyg"
                 },
                 {
                   "name": "Leg Eccentric Squats On A Slant Board",
@@ -2361,7 +2573,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/NqF2tP9MZ68"
                 },
                 {
                   "name": "Kot Squats On A 6-Inch Pad",
@@ -2371,7 +2584,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/jq_zJl6lFj8"
                 },
                 {
                   "name": "Kot Squats On A 2-Inch Pad",
@@ -2381,7 +2595,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/jq_zJl6lFj8"
                 },
                 {
                   "name": "Jumpers Knee Stretching Routine",
@@ -2391,7 +2606,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -2401,7 +2617,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -2418,7 +2635,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Foam Rolling",
@@ -2428,7 +2646,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Poliquin Step Ups",
@@ -2438,7 +2657,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/1TjCp7kgvvY"
                 },
                 {
                   "name": "Glute Bridges With Mini Band",
@@ -2448,7 +2668,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/cXQdZb66Q9A"
                 },
                 {
                   "name": "Clams With Mini Band",
@@ -2458,7 +2679,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/UKOugqCKgT8"
                 },
                 {
                   "name": "Monster Walks With Mini Band",
@@ -2468,7 +2690,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/P9K7vau2Bs0"
                 },
                 {
                   "name": "Lateral Side Steps With Mini Band",
@@ -2478,7 +2701,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/LWp-ekVkgL8"
                 },
                 {
                   "name": "Nordic Curls On A 12-Inch Pad",
@@ -2488,7 +2712,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/t630FhAooug"
                 },
                 {
                   "name": "Tibialis Raises",
@@ -2498,7 +2723,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/QBKbXYB4VhI"
                 },
                 {
                   "name": "Single Leg Calf Raises",
@@ -2508,7 +2734,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PR0G6AWppBM"
                 },
                 {
                   "name": "Jumpers Knee Stretching Routine",
@@ -2518,7 +2745,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -2528,7 +2756,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -2545,7 +2774,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Foam Rolling",
@@ -2555,7 +2785,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Poliquin Step Ups",
@@ -2565,7 +2796,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/1TjCp7kgvvY"
                 },
                 {
                   "name": "Backward Running At 25%",
@@ -2575,7 +2807,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/k2m3aFeiDAU"
                 },
                 {
                   "name": "Skipping At 25%",
@@ -2585,7 +2818,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/NZgmB4Mfe14"
                 },
                 {
                   "name": "Forward Running At 25%",
@@ -2595,7 +2829,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/bKvKaCq5KaE"
                 },
                 {
                   "name": "Backward Running At 50%",
@@ -2605,7 +2840,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Y2TfvQvlq_E"
                 },
                 {
                   "name": "Skipping At 50%",
@@ -2615,7 +2851,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/UZXFPScsV7g"
                 },
                 {
                   "name": "Forward Running At 50%",
@@ -2625,7 +2862,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/a-VuaW0l348"
                 },
                 {
                   "name": "Backward Running At 75%",
@@ -2635,7 +2873,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/TqBKaEMhcTQ"
                 },
                 {
                   "name": "Skipping At 75%",
@@ -2645,7 +2884,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/VYi9E8htBFk"
                 },
                 {
                   "name": "Forward Running At 75%",
@@ -2655,7 +2895,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/JNPpBwu9CBQ"
                 },
                 {
                   "name": "Backward Sprints At 100%",
@@ -2665,7 +2906,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fLaOWSd5xJ8"
                 },
                 {
                   "name": "Power Skips At 100%",
@@ -2675,7 +2917,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lGalT8luBJI"
                 },
                 {
                   "name": "Sprints At 100%",
@@ -2685,7 +2928,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/qZrRATn-yRM"
                 },
                 {
                   "name": "Shock Pause Jumps",
@@ -2695,7 +2939,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/SvFaI5c_cDI"
                 },
                 {
                   "name": "Stretching Routine",
@@ -2705,7 +2950,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -2715,7 +2961,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -2732,7 +2979,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/u8xxroQrqjU"
                 },
                 {
                   "name": "Foam Rolling",
@@ -2742,7 +2990,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Hip Mobility Routine",
@@ -2752,7 +3001,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/j4QNIVwI3cg"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -2762,7 +3012,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 },
                 {
                   "name": "Read A Book About Mindset Or Your Sport",
@@ -2789,7 +3040,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Foam Rolling",
@@ -2799,7 +3051,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Poliquin Step Ups",
@@ -2809,7 +3062,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/1TjCp7kgvvY"
                 },
                 {
                   "name": "Kot Lunges On The Floor",
@@ -2819,7 +3073,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CtQQhB9W3mg"
                 },
                 {
                   "name": "Eccentric Squats On A Slanted Board",
@@ -2829,7 +3084,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/inQRFmUbLyg"
                 },
                 {
                   "name": "Leg Eccentric Squats On A Slant Board",
@@ -2839,7 +3095,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/NqF2tP9MZ68"
                 },
                 {
                   "name": "Kot Squats On A 6-Inch Pad",
@@ -2849,7 +3106,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/jq_zJl6lFj8"
                 },
                 {
                   "name": "Kot Squats On A 2-Inch Pad",
@@ -2859,7 +3117,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/jq_zJl6lFj8"
                 },
                 {
                   "name": "Jumpers Knee Stretching Routine",
@@ -2869,7 +3128,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -2879,7 +3139,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -2896,7 +3157,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Foam Rolling",
@@ -2906,7 +3168,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Poliquin Step Ups",
@@ -2916,7 +3179,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/1TjCp7kgvvY"
                 },
                 {
                   "name": "Glute Bridges With Mini Band",
@@ -2926,7 +3190,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/cXQdZb66Q9A"
                 },
                 {
                   "name": "Clams With Mini Band",
@@ -2936,7 +3201,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/UKOugqCKgT8"
                 },
                 {
                   "name": "Monster Walks With Mini Band",
@@ -2946,7 +3212,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/P9K7vau2Bs0"
                 },
                 {
                   "name": "Lateral Side Steps With Mini Band",
@@ -2956,7 +3223,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/LWp-ekVkgL8"
                 },
                 {
                   "name": "Nordic Curls On A 12-Inch Pad",
@@ -2966,7 +3234,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/t630FhAooug"
                 },
                 {
                   "name": "Tibialis Raises",
@@ -2976,7 +3245,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/QBKbXYB4VhI"
                 },
                 {
                   "name": "Single Leg Calf Raises",
@@ -2986,7 +3256,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PR0G6AWppBM"
                 },
                 {
                   "name": "Jumpers Knee Stretching Routine",
@@ -2996,7 +3267,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -3006,7 +3278,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -3023,7 +3296,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Foam Rolling",
@@ -3033,7 +3307,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Poliquin Step Ups",
@@ -3043,7 +3318,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/1TjCp7kgvvY"
                 },
                 {
                   "name": "Backward Running At 25%",
@@ -3053,7 +3329,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/k2m3aFeiDAU"
                 },
                 {
                   "name": "Skipping At 25%",
@@ -3063,7 +3340,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/NZgmB4Mfe14"
                 },
                 {
                   "name": "Forward Running At 25%",
@@ -3073,7 +3351,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/bKvKaCq5KaE"
                 },
                 {
                   "name": "Backward Running At 50%",
@@ -3083,7 +3362,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Y2TfvQvlq_E"
                 },
                 {
                   "name": "Skipping At 50%",
@@ -3093,7 +3373,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/UZXFPScsV7g"
                 },
                 {
                   "name": "Forward Running At 50%",
@@ -3103,7 +3384,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/a-VuaW0l348"
                 },
                 {
                   "name": "Backward Running At 75%",
@@ -3113,7 +3395,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/TqBKaEMhcTQ"
                 },
                 {
                   "name": "Skipping At 75%",
@@ -3123,7 +3406,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/VYi9E8htBFk"
                 },
                 {
                   "name": "Forward Running At 75%",
@@ -3133,7 +3417,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/JNPpBwu9CBQ"
                 },
                 {
                   "name": "Backward Sprints At 100%",
@@ -3143,7 +3428,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fLaOWSd5xJ8"
                 },
                 {
                   "name": "Power Skips At 100%",
@@ -3153,7 +3439,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lGalT8luBJI"
                 },
                 {
                   "name": "Sprints At 100%",
@@ -3163,7 +3450,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/qZrRATn-yRM"
                 },
                 {
                   "name": "Shock Pause Jumps",
@@ -3173,7 +3461,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/SvFaI5c_cDI"
                 },
                 {
                   "name": "Stretching Routine",
@@ -3183,7 +3472,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -3193,7 +3483,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             }
@@ -3223,7 +3514,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -3233,7 +3525,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -3243,7 +3536,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -3253,7 +3547,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Shock Pause Jumps",
@@ -3263,7 +3558,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/SvFaI5c_cDI"
                 },
                 {
                   "name": "Baby Ankle Jumps",
@@ -3273,7 +3569,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-XMfLikgr9Q"
                 },
                 {
                   "name": "Baby Lateral Line Jumps",
@@ -3283,7 +3580,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/cn9nMji7Xy8"
                 },
                 {
                   "name": "Split Leg Lunge Jumps",
@@ -3293,7 +3591,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wO-bq1D0pv8"
                 },
                 {
                   "name": "Squat Jumps",
@@ -3303,7 +3602,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/8KMh_1UIHzo"
                 },
                 {
                   "name": "Wall Sit",
@@ -3313,7 +3613,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ECcZj6_BBPU"
                 },
                 {
                   "name": "Lunge Hold",
@@ -3323,7 +3624,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IYjIaP-3-E0"
                 },
                 {
                   "name": "Tip Toe Squat Hold",
@@ -3333,7 +3635,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ndDBKfKi174"
                 },
                 {
                   "name": "Glute Bridge Hold",
@@ -3343,7 +3646,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/loaBTTHoO9s"
                 },
                 {
                   "name": "Core Workout 1",
@@ -3353,7 +3657,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/rD_JaUSxe3s"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -3363,7 +3668,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -3373,7 +3679,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -3390,7 +3697,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -3400,7 +3708,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Push Up Jack Pyramid",
@@ -3410,7 +3719,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mFTC1MFxoOY"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -3420,7 +3730,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -3430,7 +3741,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -3440,7 +3752,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -3450,7 +3763,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Push Up Plank Transitions",
@@ -3460,7 +3774,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CfP5DlG8sSE"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -3470,7 +3785,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "Pike Hold",
@@ -3480,7 +3796,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/sWz0R2Jxz2g"
                 },
                 {
                   "name": "Pull Up Hold",
@@ -3490,7 +3807,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/6LBcPv5xTME"
                 },
                 {
                   "name": "Push Up Hold",
@@ -3500,7 +3818,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/9JymXtKLwYA"
                 },
                 {
                   "name": "L Sit Hold",
@@ -3510,7 +3829,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -3520,7 +3840,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -3537,7 +3858,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -3547,7 +3869,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -3557,7 +3880,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -3567,7 +3891,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Lateral Direction Switches",
@@ -3577,7 +3902,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/6F_KDIyge2Y"
                 },
                 {
                   "name": "F&B Direction Switches",
@@ -3587,7 +3913,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/FusKUT_5qv4"
                 },
                 {
                   "name": "Curved Cone Touch",
@@ -3597,7 +3924,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/hMSX8z6SvVU"
                 },
                 {
                   "name": "First Step 1-2 Pushes",
@@ -3607,7 +3935,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/LCCk9F0KWPQ"
                 },
                 {
                   "name": "Hip Flip 1-2 Pushes",
@@ -3617,7 +3946,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/huwk9VUOwmA"
                 },
                 {
                   "name": "Wall Sit",
@@ -3627,7 +3957,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ECcZj6_BBPU"
                 },
                 {
                   "name": "Lunge Hold",
@@ -3637,7 +3968,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IYjIaP-3-E0"
                 },
                 {
                   "name": "Tip Toe Squat Hold",
@@ -3647,7 +3979,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ndDBKfKi174"
                 },
                 {
                   "name": "Glute Bridge Hold",
@@ -3657,7 +3990,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/loaBTTHoO9s"
                 },
                 {
                   "name": "Core Workout 2",
@@ -3667,7 +4001,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/JCxrdS-F4TY"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -3677,7 +4012,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -3687,7 +4023,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -3704,7 +4041,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -3714,7 +4052,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Push Up Jack Pyramid",
@@ -3724,7 +4063,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mFTC1MFxoOY"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -3734,7 +4074,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -3744,7 +4085,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -3754,7 +4096,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -3764,7 +4107,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Push Up Plank Transitions",
@@ -3774,7 +4118,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CfP5DlG8sSE"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -3784,7 +4129,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "Pike Hold",
@@ -3794,7 +4140,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/sWz0R2Jxz2g"
                 },
                 {
                   "name": "Pull Up Hold",
@@ -3804,7 +4151,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/6LBcPv5xTME"
                 },
                 {
                   "name": "Push Up Hold",
@@ -3814,7 +4162,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/9JymXtKLwYA"
                 },
                 {
                   "name": "L Sit Hold",
@@ -3824,7 +4173,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -3834,7 +4184,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -3851,7 +4202,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -3861,7 +4213,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -3871,7 +4224,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -3881,7 +4235,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Shock Pause Jumps",
@@ -3891,7 +4246,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/SvFaI5c_cDI"
                 },
                 {
                   "name": "Baby Ankle Jumps",
@@ -3901,7 +4257,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-XMfLikgr9Q"
                 },
                 {
                   "name": "Baby Lateral Line Jumps",
@@ -3911,7 +4268,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/cn9nMji7Xy8"
                 },
                 {
                   "name": "Split Leg Lunge Jumps",
@@ -3921,7 +4279,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wO-bq1D0pv8"
                 },
                 {
                   "name": "Squat Jumps",
@@ -3931,7 +4290,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/8KMh_1UIHzo"
                 },
                 {
                   "name": "Wall Sit",
@@ -3941,7 +4301,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ECcZj6_BBPU"
                 },
                 {
                   "name": "Lunge Hold",
@@ -3951,7 +4312,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IYjIaP-3-E0"
                 },
                 {
                   "name": "Tip Toe Squat Hold",
@@ -3961,7 +4323,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ndDBKfKi174"
                 },
                 {
                   "name": "Glute Bridge Hold",
@@ -3971,7 +4334,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/loaBTTHoO9s"
                 },
                 {
                   "name": "Core Workout 3",
@@ -3981,7 +4345,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/2UUiE4VxRaE"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -3991,7 +4356,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -4001,7 +4367,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -4018,7 +4385,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -4028,7 +4396,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Push Up Jack Pyramid",
@@ -4038,7 +4407,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mFTC1MFxoOY"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -4048,7 +4418,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -4058,7 +4429,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -4068,7 +4440,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -4078,7 +4451,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Push Up Plank Transitions",
@@ -4088,7 +4462,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CfP5DlG8sSE"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -4098,7 +4473,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "Pike Hold",
@@ -4108,7 +4484,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/sWz0R2Jxz2g"
                 },
                 {
                   "name": "Pull Up Hold",
@@ -4118,7 +4495,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/6LBcPv5xTME"
                 },
                 {
                   "name": "Push Up Hold",
@@ -4128,7 +4506,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/9JymXtKLwYA"
                 },
                 {
                   "name": "L Sit Hold",
@@ -4138,7 +4517,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -4148,7 +4528,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -4165,7 +4546,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/u8xxroQrqjU"
                 },
                 {
                   "name": "Foam Rolling",
@@ -4175,7 +4557,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Hip Mobility Routine",
@@ -4185,7 +4568,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/j4QNIVwI3cg"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -4195,7 +4579,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 },
                 {
                   "name": "Read A Book About Mindset Or Your Sport",
@@ -4237,7 +4622,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -4247,7 +4633,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -4257,7 +4644,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -4267,7 +4655,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Backward Sprints",
@@ -4277,7 +4666,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fLaOWSd5xJ8"
                 },
                 {
                   "name": "Power Skips",
@@ -4287,7 +4677,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lGalT8luBJI"
                 },
                 {
                   "name": "Sprints",
@@ -4297,7 +4688,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/qZrRATn-yRM"
                 },
                 {
                   "name": "Full Jump Session",
@@ -4307,7 +4699,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CZcoaT-a0YA"
                 },
                 {
                   "name": "Wall Sit",
@@ -4317,7 +4710,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ECcZj6_BBPU"
                 },
                 {
                   "name": "Lunge Hold",
@@ -4327,7 +4721,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IYjIaP-3-E0"
                 },
                 {
                   "name": "Tip Toe Squat Hold",
@@ -4337,7 +4732,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ndDBKfKi174"
                 },
                 {
                   "name": "Glute Bridge Hold",
@@ -4347,7 +4743,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/loaBTTHoO9s"
                 },
                 {
                   "name": "Core Workout 4",
@@ -4357,7 +4754,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/BhM5srYN7hM"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -4367,7 +4765,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -4377,7 +4776,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -4394,7 +4794,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -4404,7 +4805,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Push Up Jack Pyramid",
@@ -4414,7 +4816,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mFTC1MFxoOY"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -4424,7 +4827,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -4434,7 +4838,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -4444,7 +4849,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -4454,7 +4860,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Push Up Plank Transitions",
@@ -4464,7 +4871,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CfP5DlG8sSE"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -4474,7 +4882,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "Pike Hold",
@@ -4484,7 +4893,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/sWz0R2Jxz2g"
                 },
                 {
                   "name": "Pull Up Hold",
@@ -4494,7 +4904,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/6LBcPv5xTME"
                 },
                 {
                   "name": "Push Up Hold",
@@ -4504,7 +4915,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/9JymXtKLwYA"
                 },
                 {
                   "name": "L Sit Hold",
@@ -4514,7 +4926,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -4524,7 +4937,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -4541,7 +4955,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -4551,7 +4966,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -4561,7 +4977,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -4571,7 +4988,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Shock Pause Jumps",
@@ -4581,7 +4999,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/SvFaI5c_cDI"
                 },
                 {
                   "name": "Baby Ankle Jumps",
@@ -4591,7 +5010,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-XMfLikgr9Q"
                 },
                 {
                   "name": "Baby Lateral Line Jumps",
@@ -4601,7 +5021,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/cn9nMji7Xy8"
                 },
                 {
                   "name": "Split Leg Lunge Jumps",
@@ -4611,7 +5032,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wO-bq1D0pv8"
                 },
                 {
                   "name": "Squat Jumps",
@@ -4621,7 +5043,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/8KMh_1UIHzo"
                 },
                 {
                   "name": "Wall Sit",
@@ -4631,7 +5054,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ECcZj6_BBPU"
                 },
                 {
                   "name": "Lunge Hold",
@@ -4641,7 +5065,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IYjIaP-3-E0"
                 },
                 {
                   "name": "Tip Toe Squat Hold",
@@ -4651,7 +5076,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ndDBKfKi174"
                 },
                 {
                   "name": "Glute Bridge Hold",
@@ -4661,7 +5087,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/loaBTTHoO9s"
                 },
                 {
                   "name": "Core Workout 1",
@@ -4671,7 +5098,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/rD_JaUSxe3s"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -4681,7 +5109,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -4691,7 +5120,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -4708,7 +5138,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -4718,7 +5149,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Push Up Jack Pyramid",
@@ -4728,7 +5160,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mFTC1MFxoOY"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -4738,7 +5171,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -4748,7 +5182,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -4758,7 +5193,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -4768,7 +5204,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Push Up Plank Transitions",
@@ -4778,7 +5215,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CfP5DlG8sSE"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -4788,7 +5226,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "Pike Hold",
@@ -4798,7 +5237,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/sWz0R2Jxz2g"
                 },
                 {
                   "name": "Pull Up Hold",
@@ -4808,7 +5248,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/6LBcPv5xTME"
                 },
                 {
                   "name": "Push Up Hold",
@@ -4818,7 +5259,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/9JymXtKLwYA"
                 },
                 {
                   "name": "L Sit Hold",
@@ -4828,7 +5270,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -4838,7 +5281,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -4855,7 +5299,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -4865,7 +5310,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -4875,7 +5321,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -4885,7 +5332,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Lateral Direction Switches",
@@ -4895,7 +5343,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/6F_KDIyge2Y"
                 },
                 {
                   "name": "F&B Direction Switches",
@@ -4905,7 +5354,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/FusKUT_5qv4"
                 },
                 {
                   "name": "Curved Cone Touch",
@@ -4915,7 +5365,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/hMSX8z6SvVU"
                 },
                 {
                   "name": "First Step 1-2 Pushes",
@@ -4925,7 +5376,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/LCCk9F0KWPQ"
                 },
                 {
                   "name": "Hip Flip 1-2 Pushes",
@@ -4935,7 +5387,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/huwk9VUOwmA"
                 },
                 {
                   "name": "Wall Sit",
@@ -4945,7 +5398,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ECcZj6_BBPU"
                 },
                 {
                   "name": "Lunge Hold",
@@ -4955,7 +5409,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IYjIaP-3-E0"
                 },
                 {
                   "name": "Tip Toe Squat Hold",
@@ -4965,7 +5420,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ndDBKfKi174"
                 },
                 {
                   "name": "Glute Bridge Hold",
@@ -4975,7 +5431,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/loaBTTHoO9s"
                 },
                 {
                   "name": "Core Workout 2",
@@ -4985,7 +5442,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/JCxrdS-F4TY"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -4995,7 +5453,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -5005,7 +5464,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -5022,7 +5482,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -5032,7 +5493,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Push Up Jack Pyramid",
@@ -5042,7 +5504,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mFTC1MFxoOY"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -5052,7 +5515,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -5062,7 +5526,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -5072,7 +5537,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -5082,7 +5548,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Push Up Plank Transitions",
@@ -5092,7 +5559,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CfP5DlG8sSE"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -5102,7 +5570,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "Pike Hold",
@@ -5112,7 +5581,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/sWz0R2Jxz2g"
                 },
                 {
                   "name": "Pull Up Hold",
@@ -5122,7 +5592,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/6LBcPv5xTME"
                 },
                 {
                   "name": "Push Up Hold",
@@ -5132,7 +5603,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/9JymXtKLwYA"
                 },
                 {
                   "name": "L Sit Hold",
@@ -5142,7 +5614,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -5152,7 +5625,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -5169,7 +5643,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/u8xxroQrqjU"
                 },
                 {
                   "name": "Foam Rolling",
@@ -5179,7 +5654,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Hip Mobility Routine",
@@ -5189,7 +5665,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/j4QNIVwI3cg"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -5199,7 +5676,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             }
@@ -5231,7 +5709,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -5241,7 +5720,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -5251,7 +5731,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -5261,7 +5742,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Shock Pause Jumps",
@@ -5271,7 +5753,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/SvFaI5c_cDI"
                 },
                 {
                   "name": "Baby Ankle Jumps",
@@ -5281,7 +5764,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-XMfLikgr9Q"
                 },
                 {
                   "name": "Baby Lateral Line Jumps",
@@ -5291,7 +5775,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/cn9nMji7Xy8"
                 },
                 {
                   "name": "Split Leg Lunge Jumps",
@@ -5301,7 +5786,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wO-bq1D0pv8"
                 },
                 {
                   "name": "Squat Jumps",
@@ -5311,7 +5797,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/8KMh_1UIHzo"
                 },
                 {
                   "name": "Wall Sit",
@@ -5321,7 +5808,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ECcZj6_BBPU"
                 },
                 {
                   "name": "Lunge Hold",
@@ -5331,7 +5819,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IYjIaP-3-E0"
                 },
                 {
                   "name": "Tip Toe Squat Hold",
@@ -5341,7 +5830,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ndDBKfKi174"
                 },
                 {
                   "name": "Glute Bridge Hold",
@@ -5351,7 +5841,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/loaBTTHoO9s"
                 },
                 {
                   "name": "Core Workout 3",
@@ -5361,7 +5852,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/2UUiE4VxRaE"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -5371,7 +5863,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -5381,7 +5874,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -5398,7 +5892,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -5408,7 +5903,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Push Up Jack Pyramid",
@@ -5418,7 +5914,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mFTC1MFxoOY"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -5428,7 +5925,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -5438,7 +5936,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -5448,7 +5947,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -5458,7 +5958,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Push Up Plank Transitions",
@@ -5468,7 +5969,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CfP5DlG8sSE"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -5478,7 +5980,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "Pike Hold",
@@ -5488,7 +5991,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/sWz0R2Jxz2g"
                 },
                 {
                   "name": "Pull Up Hold",
@@ -5498,7 +6002,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/6LBcPv5xTME"
                 },
                 {
                   "name": "Push Up Hold",
@@ -5508,7 +6013,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/9JymXtKLwYA"
                 },
                 {
                   "name": "L Sit Hold",
@@ -5518,7 +6024,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -5528,7 +6035,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -5545,7 +6053,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -5555,7 +6064,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -5565,7 +6075,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -5575,7 +6086,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Backward Sprints",
@@ -5585,7 +6097,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fLaOWSd5xJ8"
                 },
                 {
                   "name": "Power Skips",
@@ -5595,7 +6108,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lGalT8luBJI"
                 },
                 {
                   "name": "Sprints",
@@ -5605,7 +6119,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/qZrRATn-yRM"
                 },
                 {
                   "name": "Jump Session",
@@ -5615,7 +6130,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CZcoaT-a0YA"
                 },
                 {
                   "name": "Wall Sit",
@@ -5625,7 +6141,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ECcZj6_BBPU"
                 },
                 {
                   "name": "Lunge Hold",
@@ -5635,7 +6152,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IYjIaP-3-E0"
                 },
                 {
                   "name": "Tip Toe Squat Hold",
@@ -5645,7 +6163,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ndDBKfKi174"
                 },
                 {
                   "name": "Glute Bridge Hold",
@@ -5655,7 +6174,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/loaBTTHoO9s"
                 },
                 {
                   "name": "Core Workout 4",
@@ -5665,7 +6185,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/BhM5srYN7hM"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -5675,7 +6196,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -5685,7 +6207,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -5702,7 +6225,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -5712,7 +6236,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Push Up Jack Pyramid",
@@ -5722,7 +6247,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mFTC1MFxoOY"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -5732,7 +6258,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -5742,7 +6269,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -5752,7 +6280,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -5762,7 +6291,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Push Up Plank Transitions",
@@ -5772,7 +6302,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CfP5DlG8sSE"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -5782,7 +6313,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "Pike Hold",
@@ -5792,7 +6324,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/sWz0R2Jxz2g"
                 },
                 {
                   "name": "Pull Up Hold",
@@ -5802,7 +6335,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/6LBcPv5xTME"
                 },
                 {
                   "name": "Push Up Hold",
@@ -5812,7 +6346,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/9JymXtKLwYA"
                 },
                 {
                   "name": "L Sit Hold",
@@ -5822,7 +6357,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -5832,7 +6368,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -5849,7 +6386,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -5859,7 +6397,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -5869,7 +6408,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -5879,7 +6419,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Shock Pause Jumps",
@@ -5889,7 +6430,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/SvFaI5c_cDI"
                 },
                 {
                   "name": "Baby Ankle Jumps",
@@ -5899,7 +6441,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-XMfLikgr9Q"
                 },
                 {
                   "name": "Baby Lateral Line Jumps",
@@ -5909,7 +6452,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/cn9nMji7Xy8"
                 },
                 {
                   "name": "Split Leg Lunge Jumps",
@@ -5919,7 +6463,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wO-bq1D0pv8"
                 },
                 {
                   "name": "Squat Jumps",
@@ -5929,7 +6474,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/8KMh_1UIHzo"
                 },
                 {
                   "name": "Wall Sit",
@@ -5939,7 +6485,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ECcZj6_BBPU"
                 },
                 {
                   "name": "Lunge Hold",
@@ -5949,7 +6496,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IYjIaP-3-E0"
                 },
                 {
                   "name": "Tip Toe Squat Hold",
@@ -5959,7 +6507,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ndDBKfKi174"
                 },
                 {
                   "name": "Glute Bridge Hold",
@@ -5969,7 +6518,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/loaBTTHoO9s"
                 },
                 {
                   "name": "Core Workout 1",
@@ -5979,7 +6529,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/rD_JaUSxe3s"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -5989,7 +6540,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -5999,7 +6551,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -6016,7 +6569,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -6026,7 +6580,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Push Up Jack Pyramid",
@@ -6036,7 +6591,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mFTC1MFxoOY"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -6046,7 +6602,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -6056,7 +6613,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -6066,7 +6624,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -6076,7 +6635,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Push Up Plank Transitions",
@@ -6086,7 +6646,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CfP5DlG8sSE"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -6096,7 +6657,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "Pike Hold",
@@ -6106,7 +6668,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/sWz0R2Jxz2g"
                 },
                 {
                   "name": "Pull Up Hold",
@@ -6116,7 +6679,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/6LBcPv5xTME"
                 },
                 {
                   "name": "Push Up Hold",
@@ -6126,7 +6690,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/9JymXtKLwYA"
                 },
                 {
                   "name": "L Sit Hold",
@@ -6136,7 +6701,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -6146,7 +6712,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -6163,7 +6730,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/u8xxroQrqjU"
                 },
                 {
                   "name": "Foam Rolling",
@@ -6173,7 +6741,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Hip Mobility Routine",
@@ -6183,7 +6752,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/j4QNIVwI3cg"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -6193,7 +6763,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             }
@@ -6225,7 +6796,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -6235,7 +6807,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -6245,7 +6818,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -6255,7 +6829,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Lateral Direction Switches",
@@ -6265,7 +6840,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/6F_KDIyge2Y"
                 },
                 {
                   "name": "F&B Direction Switches",
@@ -6275,7 +6851,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/FusKUT_5qv4"
                 },
                 {
                   "name": "Curved Cone Touch",
@@ -6285,7 +6862,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/hMSX8z6SvVU"
                 },
                 {
                   "name": "First Step 1-2 Pushes",
@@ -6295,7 +6873,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/LCCk9F0KWPQ"
                 },
                 {
                   "name": "Hip Flip 1-2 Pushes",
@@ -6305,7 +6884,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/huwk9VUOwmA"
                 },
                 {
                   "name": "Wall Sit",
@@ -6315,7 +6895,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ECcZj6_BBPU"
                 },
                 {
                   "name": "Lunge Hold",
@@ -6325,7 +6906,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IYjIaP-3-E0"
                 },
                 {
                   "name": "Tip Toe Squat Hold",
@@ -6335,7 +6917,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ndDBKfKi174"
                 },
                 {
                   "name": "Glute Bridge Hold",
@@ -6345,7 +6928,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/loaBTTHoO9s"
                 },
                 {
                   "name": "Core Workout 2",
@@ -6355,7 +6939,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/JCxrdS-F4TY"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -6365,7 +6950,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -6375,7 +6961,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -6392,7 +6979,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -6402,7 +6990,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Push Up Jack Pyramid",
@@ -6412,7 +7001,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mFTC1MFxoOY"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -6422,7 +7012,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -6432,7 +7023,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -6442,7 +7034,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -6452,7 +7045,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Push Up Plank Transitions",
@@ -6462,7 +7056,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CfP5DlG8sSE"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -6472,7 +7067,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "Pike Hold",
@@ -6482,7 +7078,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/sWz0R2Jxz2g"
                 },
                 {
                   "name": "Pull Up Hold",
@@ -6492,7 +7089,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/6LBcPv5xTME"
                 },
                 {
                   "name": "Push Up Hold",
@@ -6502,7 +7100,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/9JymXtKLwYA"
                 },
                 {
                   "name": "L Sit Hold",
@@ -6512,7 +7111,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -6522,7 +7122,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -6539,7 +7140,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -6549,7 +7151,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -6559,7 +7162,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -6569,7 +7173,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Shock Pause Jumps",
@@ -6579,7 +7184,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/SvFaI5c_cDI"
                 },
                 {
                   "name": "Baby Ankle Jumps",
@@ -6589,7 +7195,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-XMfLikgr9Q"
                 },
                 {
                   "name": "Baby Lateral Line Jumps",
@@ -6599,7 +7206,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/cn9nMji7Xy8"
                 },
                 {
                   "name": "Split Leg Lunge Jumps",
@@ -6609,7 +7217,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wO-bq1D0pv8"
                 },
                 {
                   "name": "Squat Jumps",
@@ -6619,7 +7228,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/8KMh_1UIHzo"
                 },
                 {
                   "name": "Wall Sit",
@@ -6629,7 +7239,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ECcZj6_BBPU"
                 },
                 {
                   "name": "Lunge Hold",
@@ -6639,7 +7250,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IYjIaP-3-E0"
                 },
                 {
                   "name": "Tip Toe Squat Hold",
@@ -6649,7 +7261,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ndDBKfKi174"
                 },
                 {
                   "name": "Glute Bridge Hold",
@@ -6659,7 +7272,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/loaBTTHoO9s"
                 },
                 {
                   "name": "Core Workout 3",
@@ -6669,7 +7283,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/2UUiE4VxRaE"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -6679,7 +7294,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -6689,7 +7305,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -6706,7 +7323,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -6716,7 +7334,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Push Up Jack Pyramid",
@@ -6726,7 +7345,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mFTC1MFxoOY"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -6736,7 +7356,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -6746,7 +7367,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -6756,7 +7378,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -6766,7 +7389,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Push Up Plank Transitions",
@@ -6776,7 +7400,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CfP5DlG8sSE"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -6786,7 +7411,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "Pike Hold",
@@ -6796,7 +7422,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/sWz0R2Jxz2g"
                 },
                 {
                   "name": "Pull Up Hold",
@@ -6806,7 +7433,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/6LBcPv5xTME"
                 },
                 {
                   "name": "Push Up Hold",
@@ -6816,7 +7444,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/9JymXtKLwYA"
                 },
                 {
                   "name": "L Sit Hold",
@@ -6826,7 +7455,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -6836,7 +7466,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -6853,7 +7484,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -6863,7 +7495,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -6873,7 +7506,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -6883,7 +7517,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Backward Sprints",
@@ -6893,7 +7528,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fLaOWSd5xJ8"
                 },
                 {
                   "name": "Power Skips",
@@ -6903,7 +7539,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lGalT8luBJI"
                 },
                 {
                   "name": "Sprints",
@@ -6913,7 +7550,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/qZrRATn-yRM"
                 },
                 {
                   "name": "Jump Session",
@@ -6923,7 +7561,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CZcoaT-a0YA"
                 },
                 {
                   "name": "Wall Sit",
@@ -6933,7 +7572,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ECcZj6_BBPU"
                 },
                 {
                   "name": "Lunge Hold",
@@ -6943,7 +7583,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IYjIaP-3-E0"
                 },
                 {
                   "name": "Tip Toe Squat Hold",
@@ -6953,7 +7594,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ndDBKfKi174"
                 },
                 {
                   "name": "Glute Bridge Hold",
@@ -6963,7 +7605,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/loaBTTHoO9s"
                 },
                 {
                   "name": "Core Workout 4",
@@ -6973,7 +7616,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/BhM5srYN7hM"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -6983,7 +7627,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -6993,7 +7638,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -7010,7 +7656,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -7020,7 +7667,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Push Up Jack Pyramid",
@@ -7030,7 +7678,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mFTC1MFxoOY"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -7040,7 +7689,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -7050,7 +7700,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -7060,7 +7711,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -7070,7 +7722,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Push Up Plank Transitions",
@@ -7080,7 +7733,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CfP5DlG8sSE"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -7090,7 +7744,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "Pike Hold",
@@ -7100,7 +7755,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/sWz0R2Jxz2g"
                 },
                 {
                   "name": "Pull Up Hold",
@@ -7110,7 +7766,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/6LBcPv5xTME"
                 },
                 {
                   "name": "Push Up Hold",
@@ -7120,7 +7777,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/9JymXtKLwYA"
                 },
                 {
                   "name": "L Sit Hold",
@@ -7130,7 +7788,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -7140,7 +7799,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -7157,7 +7817,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/u8xxroQrqjU"
                 },
                 {
                   "name": "Foam Rolling",
@@ -7167,7 +7828,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Hip Mobility Routine",
@@ -7177,7 +7839,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/j4QNIVwI3cg"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -7187,7 +7850,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             }
@@ -7217,7 +7881,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/u8xxroQrqjU"
                 },
                 {
                   "name": "Foam Rolling",
@@ -7227,7 +7892,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Hip Mobility Routine",
@@ -7237,7 +7903,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/j4QNIVwI3cg"
                 },
                 {
                   "name": "Light Skills Sessions",
@@ -7257,7 +7924,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -7274,7 +7942,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/u8xxroQrqjU"
                 },
                 {
                   "name": "Foam Rolling",
@@ -7284,7 +7953,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Hip Mobility Routine",
@@ -7294,7 +7964,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/j4QNIVwI3cg"
                 },
                 {
                   "name": "Light Skills Sessions",
@@ -7314,7 +7985,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -7331,7 +8003,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -7341,7 +8014,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -7351,7 +8025,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -7361,7 +8036,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Shock Pause Jumps",
@@ -7371,7 +8047,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/SvFaI5c_cDI"
                 },
                 {
                   "name": "Sl Baby Ankle Jumps",
@@ -7381,7 +8058,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IsGbPAIICCY"
                 },
                 {
                   "name": "Sl Baby Lateral Line Jumps",
@@ -7391,7 +8069,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/DfkOMPuEgDI"
                 },
                 {
                   "name": "Squat Jumps",
@@ -7401,7 +8080,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/8KMh_1UIHzo"
                 },
                 {
                   "name": "Bulgarian Split Squat",
@@ -7411,7 +8091,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/htDXu61MPio"
                 },
                 {
                   "name": "Single Leg Rdl",
@@ -7421,7 +8102,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/djfObUhaAcM"
                 },
                 {
                   "name": "Dynamic Step Up",
@@ -7431,7 +8113,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mxOddjJwkY4"
                 },
                 {
                   "name": "Nordic Curls",
@@ -7441,7 +8124,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/t630FhAooug"
                 },
                 {
                   "name": "One Leg Chair Stands",
@@ -7451,7 +8135,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ba-vUBq5EW8"
                 },
                 {
                   "name": "Kot Lunges",
@@ -7461,7 +8146,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CtQQhB9W3mg"
                 },
                 {
                   "name": "Core Workout 1",
@@ -7471,7 +8157,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/rD_JaUSxe3s"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -7481,7 +8168,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -7491,7 +8179,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -7508,7 +8197,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -7518,7 +8208,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Push Up Jack Pyramid",
@@ -7528,7 +8219,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mFTC1MFxoOY"
                 },
                 {
                   "name": "One Arm Plank Kickbacks",
@@ -7538,7 +8230,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-kVX46slFyw"
                 },
                 {
                   "name": "One Arm Plank Shoulder Press",
@@ -7548,7 +8241,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/tms1FrxNPgA"
                 },
                 {
                   "name": "Ecc. Db Shoulder Press",
@@ -7558,7 +8252,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Rmf3whitR2g"
                 },
                 {
                   "name": "Ecc. Pull Ups",
@@ -7568,7 +8263,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/drBbiyaa9rE"
                 },
                 {
                   "name": "Ecc. Push Ups",
@@ -7578,7 +8274,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yIuMKsAxx_s"
                 },
                 {
                   "name": "Ecc. Db Bicep Curls",
@@ -7588,7 +8285,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/D0lQQftcbck"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -7598,7 +8296,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -7608,7 +8307,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -7618,7 +8318,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -7628,7 +8329,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -7638,7 +8340,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -7648,7 +8351,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -7658,7 +8362,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -7675,7 +8380,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -7685,7 +8391,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -7695,7 +8402,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -7705,7 +8413,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Lateral Direction Switches",
@@ -7715,7 +8424,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/6F_KDIyge2Y"
                 },
                 {
                   "name": "F&B Direction Switches",
@@ -7725,7 +8435,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/FusKUT_5qv4"
                 },
                 {
                   "name": "Curved Cone Touch",
@@ -7735,7 +8446,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/hMSX8z6SvVU"
                 },
                 {
                   "name": "First Step 1-2 Pushes",
@@ -7745,7 +8457,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/LCCk9F0KWPQ"
                 },
                 {
                   "name": "Hip Flip 1-2 Pushes",
@@ -7755,7 +8468,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/huwk9VUOwmA"
                 },
                 {
                   "name": "Banded Laterals",
@@ -7765,7 +8479,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/GBOpYJqwl6Y"
                 },
                 {
                   "name": "Backward Sprints",
@@ -7775,7 +8490,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fLaOWSd5xJ8"
                 },
                 {
                   "name": "Power Skips",
@@ -7785,7 +8501,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lGalT8luBJI"
                 },
                 {
                   "name": "Bounding Level 1",
@@ -7795,7 +8512,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/rwV0ZDQhYEc"
                 },
                 {
                   "name": "Sled Pulls",
@@ -7805,7 +8523,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/OkKyajsZAXY"
                 },
                 {
                   "name": "Core Workout 2",
@@ -7815,7 +8534,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/JCxrdS-F4TY"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -7825,7 +8545,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -7835,7 +8556,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -7852,7 +8574,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -7862,7 +8585,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Push Up Jack Pyramid",
@@ -7872,7 +8596,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mFTC1MFxoOY"
                 },
                 {
                   "name": "One Arm Plank Kickbacks",
@@ -7882,7 +8607,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-kVX46slFyw"
                 },
                 {
                   "name": "One Arm Plank Shoulder Press",
@@ -7892,7 +8618,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/tms1FrxNPgA"
                 },
                 {
                   "name": "Ecc. Db Shoulder Press",
@@ -7902,7 +8629,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Rmf3whitR2g"
                 },
                 {
                   "name": "Ecc. Pull Ups",
@@ -7912,7 +8640,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/drBbiyaa9rE"
                 },
                 {
                   "name": "Ecc. Push Ups",
@@ -7922,7 +8651,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yIuMKsAxx_s"
                 },
                 {
                   "name": "Ecc. Db Bicep Curls",
@@ -7932,7 +8662,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/D0lQQftcbck"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -7942,7 +8673,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -7952,7 +8684,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -7962,7 +8695,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -7972,7 +8706,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -7982,7 +8717,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -7992,7 +8728,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -8002,7 +8739,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -8019,7 +8757,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/u8xxroQrqjU"
                 },
                 {
                   "name": "Foam Rolling",
@@ -8029,7 +8768,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Hip Mobility Routine",
@@ -8039,7 +8779,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/j4QNIVwI3cg"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -8049,7 +8790,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             }
@@ -8071,7 +8813,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -8081,7 +8824,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -8091,7 +8835,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -8101,7 +8846,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Shock Pause Jumps",
@@ -8111,7 +8857,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/SvFaI5c_cDI"
                 },
                 {
                   "name": "Sl Baby Ankle Jumps",
@@ -8121,7 +8868,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IsGbPAIICCY"
                 },
                 {
                   "name": "Sl Baby Lateral Line Jumps",
@@ -8131,7 +8879,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/DfkOMPuEgDI"
                 },
                 {
                   "name": "Squat Jumps",
@@ -8141,7 +8890,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/8KMh_1UIHzo"
                 },
                 {
                   "name": "Bulgarian Split Squat",
@@ -8151,7 +8901,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/htDXu61MPio"
                 },
                 {
                   "name": "Single Leg Rdl",
@@ -8161,7 +8912,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/djfObUhaAcM"
                 },
                 {
                   "name": "Dynamic Step Up",
@@ -8171,7 +8923,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mxOddjJwkY4"
                 },
                 {
                   "name": "Nordic Curls",
@@ -8181,7 +8934,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/t630FhAooug"
                 },
                 {
                   "name": "One Leg Chair Stands",
@@ -8191,7 +8945,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ba-vUBq5EW8"
                 },
                 {
                   "name": "Kot Lunges",
@@ -8201,7 +8956,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CtQQhB9W3mg"
                 },
                 {
                   "name": "Core Workout 3",
@@ -8211,7 +8967,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/2UUiE4VxRaE"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -8221,7 +8978,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -8231,7 +8989,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -8248,7 +9007,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -8258,7 +9018,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Push Up Jack Pyramid",
@@ -8268,7 +9029,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mFTC1MFxoOY"
                 },
                 {
                   "name": "One Arm Plank Kickbacks",
@@ -8278,7 +9040,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-kVX46slFyw"
                 },
                 {
                   "name": "One Arm Plank Shoulder Press",
@@ -8288,7 +9051,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/tms1FrxNPgA"
                 },
                 {
                   "name": "Ecc. Db Shoulder Press",
@@ -8298,7 +9062,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Rmf3whitR2g"
                 },
                 {
                   "name": "Ecc. Pull Ups",
@@ -8308,7 +9073,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/drBbiyaa9rE"
                 },
                 {
                   "name": "Ecc. Push Ups",
@@ -8318,7 +9084,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yIuMKsAxx_s"
                 },
                 {
                   "name": "Ecc. Db Bicep Curls",
@@ -8328,7 +9095,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/D0lQQftcbck"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -8338,7 +9106,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -8348,7 +9117,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -8358,7 +9128,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -8368,7 +9139,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -8378,7 +9150,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -8388,7 +9161,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -8398,7 +9172,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -8415,7 +9190,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -8425,7 +9201,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -8435,7 +9212,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -8445,7 +9223,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Backward Sprints",
@@ -8455,7 +9234,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fLaOWSd5xJ8"
                 },
                 {
                   "name": "Power Skips",
@@ -8465,7 +9245,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lGalT8luBJI"
                 },
                 {
                   "name": "Sprints",
@@ -8475,7 +9256,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/qZrRATn-yRM"
                 },
                 {
                   "name": "Bounding Level 1",
@@ -8485,7 +9267,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/rwV0ZDQhYEc"
                 },
                 {
                   "name": "Jump Session",
@@ -8495,7 +9278,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CZcoaT-a0YA"
                 },
                 {
                   "name": "Bulgarian Split Squat",
@@ -8505,7 +9289,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/htDXu61MPio"
                 },
                 {
                   "name": "Single Leg Rdl",
@@ -8515,7 +9300,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/djfObUhaAcM"
                 },
                 {
                   "name": "Dynamic Step Up",
@@ -8525,7 +9311,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mxOddjJwkY4"
                 },
                 {
                   "name": "Nordic Curls",
@@ -8535,7 +9322,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/t630FhAooug"
                 },
                 {
                   "name": "One Leg Chair Stands",
@@ -8545,7 +9333,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ba-vUBq5EW8"
                 },
                 {
                   "name": "Kot Lunges",
@@ -8555,7 +9344,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CtQQhB9W3mg"
                 },
                 {
                   "name": "Core Workout 4",
@@ -8565,7 +9355,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/BhM5srYN7hM"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -8575,7 +9366,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -8585,7 +9377,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -8602,7 +9395,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -8612,7 +9406,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Push Up Jack Pyramid",
@@ -8622,7 +9417,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mFTC1MFxoOY"
                 },
                 {
                   "name": "One Arm Plank Kickbacks",
@@ -8632,7 +9428,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-kVX46slFyw"
                 },
                 {
                   "name": "One Arm Plank Shoulder Press",
@@ -8642,7 +9439,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/tms1FrxNPgA"
                 },
                 {
                   "name": "Ecc. Db Shoulder Press",
@@ -8652,7 +9450,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Rmf3whitR2g"
                 },
                 {
                   "name": "Ecc. Pull Ups",
@@ -8662,7 +9461,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/drBbiyaa9rE"
                 },
                 {
                   "name": "Ecc. Push Ups",
@@ -8672,7 +9472,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yIuMKsAxx_s"
                 },
                 {
                   "name": "Ecc. Db Bicep Curls",
@@ -8682,7 +9483,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/D0lQQftcbck"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -8692,7 +9494,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -8702,7 +9505,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -8712,7 +9516,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -8722,7 +9527,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -8732,7 +9538,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -8742,7 +9549,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -8752,7 +9560,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -8769,7 +9578,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -8779,7 +9589,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -8789,7 +9600,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -8799,7 +9611,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Shock Pause Jumps",
@@ -8809,7 +9622,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/SvFaI5c_cDI"
                 },
                 {
                   "name": "Sl Baby Ankle Jumps",
@@ -8819,7 +9633,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IsGbPAIICCY"
                 },
                 {
                   "name": "Sl Baby Lateral Line Jumps",
@@ -8829,7 +9644,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/DfkOMPuEgDI"
                 },
                 {
                   "name": "Squat Jumps",
@@ -8839,7 +9655,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/8KMh_1UIHzo"
                 },
                 {
                   "name": "Bulgarian Split Squat",
@@ -8849,7 +9666,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/htDXu61MPio"
                 },
                 {
                   "name": "Single Leg Rdl",
@@ -8859,7 +9677,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/djfObUhaAcM"
                 },
                 {
                   "name": "Dynamic Step Up",
@@ -8869,7 +9688,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mxOddjJwkY4"
                 },
                 {
                   "name": "Nordic Curls",
@@ -8879,7 +9699,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/t630FhAooug"
                 },
                 {
                   "name": "One Leg Chair Stands",
@@ -8889,7 +9710,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ba-vUBq5EW8"
                 },
                 {
                   "name": "Kot Lunges",
@@ -8899,7 +9721,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CtQQhB9W3mg"
                 },
                 {
                   "name": "Core Workout 1",
@@ -8909,7 +9732,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/rD_JaUSxe3s"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -8919,7 +9743,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -8929,7 +9754,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -8946,7 +9772,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -8956,7 +9783,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Push Up Jack Pyramid",
@@ -8966,7 +9794,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mFTC1MFxoOY"
                 },
                 {
                   "name": "One Arm Plank Kickbacks",
@@ -8976,7 +9805,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-kVX46slFyw"
                 },
                 {
                   "name": "One Arm Plank Shoulder Press",
@@ -8986,7 +9816,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/tms1FrxNPgA"
                 },
                 {
                   "name": "Ecc. Db Shoulder Press",
@@ -8996,7 +9827,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Rmf3whitR2g"
                 },
                 {
                   "name": "Ecc. Pull Ups",
@@ -9006,7 +9838,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/drBbiyaa9rE"
                 },
                 {
                   "name": "Ecc. Push Ups",
@@ -9016,7 +9849,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yIuMKsAxx_s"
                 },
                 {
                   "name": "Ecc. Db Bicep Curls",
@@ -9026,7 +9860,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/D0lQQftcbck"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -9036,7 +9871,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -9046,7 +9882,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -9056,7 +9893,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -9066,7 +9904,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -9076,7 +9915,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -9086,7 +9926,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -9096,7 +9937,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -9113,7 +9955,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/u8xxroQrqjU"
                 },
                 {
                   "name": "Foam Rolling",
@@ -9123,7 +9966,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Hip Mobility Routine",
@@ -9133,7 +9977,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/j4QNIVwI3cg"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -9143,7 +9988,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             }
@@ -9165,7 +10011,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -9175,7 +10022,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -9185,7 +10033,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -9195,7 +10044,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Lateral Direction Switches",
@@ -9205,7 +10055,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/6F_KDIyge2Y"
                 },
                 {
                   "name": "F&B Direction Switches",
@@ -9215,7 +10066,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/FusKUT_5qv4"
                 },
                 {
                   "name": "Curved Cone Touch",
@@ -9225,7 +10077,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/hMSX8z6SvVU"
                 },
                 {
                   "name": "First Step 1-2 Pushes",
@@ -9235,7 +10088,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/LCCk9F0KWPQ"
                 },
                 {
                   "name": "Hip Flip 1-2 Pushes",
@@ -9245,7 +10099,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/huwk9VUOwmA"
                 },
                 {
                   "name": "Banded Laterals",
@@ -9255,7 +10110,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/GBOpYJqwl6Y"
                 },
                 {
                   "name": "Backward Sprints",
@@ -9265,7 +10121,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fLaOWSd5xJ8"
                 },
                 {
                   "name": "Power Skips",
@@ -9275,7 +10132,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lGalT8luBJI"
                 },
                 {
                   "name": "Bounding Level 1",
@@ -9285,7 +10143,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/rwV0ZDQhYEc"
                 },
                 {
                   "name": "Sled Pulls",
@@ -9295,7 +10154,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/OkKyajsZAXY"
                 },
                 {
                   "name": "Core Workout 2",
@@ -9305,7 +10165,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/JCxrdS-F4TY"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -9315,7 +10176,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -9325,7 +10187,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -9342,7 +10205,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -9352,7 +10216,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Push Up Jack Pyramid",
@@ -9362,7 +10227,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mFTC1MFxoOY"
                 },
                 {
                   "name": "One Arm Plank Kickbacks",
@@ -9372,7 +10238,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-kVX46slFyw"
                 },
                 {
                   "name": "One Arm Plank Shoulder Press",
@@ -9382,7 +10249,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/tms1FrxNPgA"
                 },
                 {
                   "name": "Ecc. Db Shoulder Press",
@@ -9392,7 +10260,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Rmf3whitR2g"
                 },
                 {
                   "name": "Ecc. Pull Ups",
@@ -9402,7 +10271,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/drBbiyaa9rE"
                 },
                 {
                   "name": "Ecc. Push Ups",
@@ -9412,7 +10282,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yIuMKsAxx_s"
                 },
                 {
                   "name": "Ecc. Db Bicep Curls",
@@ -9422,7 +10293,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/D0lQQftcbck"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -9432,7 +10304,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -9442,7 +10315,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -9452,7 +10326,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -9462,7 +10337,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -9472,7 +10348,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -9482,7 +10359,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -9492,7 +10370,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -9509,7 +10388,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -9519,7 +10399,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -9529,7 +10410,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -9539,7 +10421,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Shock Pause Jumps",
@@ -9549,7 +10432,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/SvFaI5c_cDI"
                 },
                 {
                   "name": "Sl Baby Ankle Jumps",
@@ -9559,7 +10443,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IsGbPAIICCY"
                 },
                 {
                   "name": "Sl Baby Lateral Line Jumps",
@@ -9569,7 +10454,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/DfkOMPuEgDI"
                 },
                 {
                   "name": "Squat Jumps",
@@ -9579,7 +10465,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/8KMh_1UIHzo"
                 },
                 {
                   "name": "Bulgarian Split Squat",
@@ -9589,7 +10476,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/htDXu61MPio"
                 },
                 {
                   "name": "Single Leg Rdl",
@@ -9599,7 +10487,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/djfObUhaAcM"
                 },
                 {
                   "name": "Dynamic Step Up",
@@ -9609,7 +10498,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mxOddjJwkY4"
                 },
                 {
                   "name": "Nordic Curls",
@@ -9619,7 +10509,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/t630FhAooug"
                 },
                 {
                   "name": "One Leg Chair Stands",
@@ -9629,7 +10520,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ba-vUBq5EW8"
                 },
                 {
                   "name": "Kot Lunges",
@@ -9639,7 +10531,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CtQQhB9W3mg"
                 },
                 {
                   "name": "Core Workout 3",
@@ -9649,7 +10542,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/2UUiE4VxRaE"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -9659,7 +10553,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -9669,7 +10564,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -9686,7 +10582,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -9696,7 +10593,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Push Up Jack Pyramid",
@@ -9706,7 +10604,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mFTC1MFxoOY"
                 },
                 {
                   "name": "One Arm Plank Kickbacks",
@@ -9716,7 +10615,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-kVX46slFyw"
                 },
                 {
                   "name": "One Arm Plank Shoulder Press",
@@ -9726,7 +10626,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/tms1FrxNPgA"
                 },
                 {
                   "name": "Ecc. Db Shoulder Press",
@@ -9736,7 +10637,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Rmf3whitR2g"
                 },
                 {
                   "name": "Ecc. Pull Ups",
@@ -9746,7 +10648,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/drBbiyaa9rE"
                 },
                 {
                   "name": "Ecc. Push Ups",
@@ -9756,7 +10659,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yIuMKsAxx_s"
                 },
                 {
                   "name": "Ecc. Db Bicep Curls",
@@ -9766,7 +10670,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/D0lQQftcbck"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -9776,7 +10681,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -9786,7 +10692,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -9796,7 +10703,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -9806,7 +10714,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -9816,7 +10725,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -9826,7 +10736,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -9836,7 +10747,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -9853,7 +10765,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -9863,7 +10776,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -9873,7 +10787,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -9883,7 +10798,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Backward Sprints",
@@ -9893,7 +10809,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fLaOWSd5xJ8"
                 },
                 {
                   "name": "Power Skips",
@@ -9903,7 +10820,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lGalT8luBJI"
                 },
                 {
                   "name": "Sprints",
@@ -9913,7 +10831,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/qZrRATn-yRM"
                 },
                 {
                   "name": "Bounding Level 1",
@@ -9923,7 +10842,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/rwV0ZDQhYEc"
                 },
                 {
                   "name": "Jump Session",
@@ -9933,7 +10853,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CZcoaT-a0YA"
                 },
                 {
                   "name": "Bulgarian Split Squat",
@@ -9943,7 +10864,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/htDXu61MPio"
                 },
                 {
                   "name": "Single Leg Rdl",
@@ -9953,7 +10875,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/djfObUhaAcM"
                 },
                 {
                   "name": "Dynamic Step Up",
@@ -9963,7 +10886,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mxOddjJwkY4"
                 },
                 {
                   "name": "Nordic Curls",
@@ -9973,7 +10897,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/t630FhAooug"
                 },
                 {
                   "name": "One Leg Chair Stands",
@@ -9983,7 +10908,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ba-vUBq5EW8"
                 },
                 {
                   "name": "Kot Lunges",
@@ -9993,7 +10919,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CtQQhB9W3mg"
                 },
                 {
                   "name": "Core Workout 4",
@@ -10003,7 +10930,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/BhM5srYN7hM"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -10013,7 +10941,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -10023,7 +10952,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -10040,7 +10970,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -10050,7 +10981,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Push Up Jack Pyramid",
@@ -10060,7 +10992,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mFTC1MFxoOY"
                 },
                 {
                   "name": "One Arm Plank Kickbacks",
@@ -10070,7 +11003,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-kVX46slFyw"
                 },
                 {
                   "name": "One Arm Plank Shoulder Press",
@@ -10080,7 +11014,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/tms1FrxNPgA"
                 },
                 {
                   "name": "Ecc. Db Shoulder Press",
@@ -10090,7 +11025,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Rmf3whitR2g"
                 },
                 {
                   "name": "Ecc. Pull Ups",
@@ -10100,7 +11036,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/drBbiyaa9rE"
                 },
                 {
                   "name": "Ecc. Push Ups",
@@ -10110,7 +11047,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yIuMKsAxx_s"
                 },
                 {
                   "name": "Ecc. Db Bicep Curls",
@@ -10120,7 +11058,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/D0lQQftcbck"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -10130,7 +11069,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -10140,7 +11080,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -10150,7 +11091,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -10160,7 +11102,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -10170,7 +11113,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -10180,7 +11124,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -10190,7 +11135,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -10217,7 +11163,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/u8xxroQrqjU"
                 },
                 {
                   "name": "Foam Rolling",
@@ -10227,7 +11174,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Hip Mobility Routine",
@@ -10237,7 +11185,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/j4QNIVwI3cg"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -10247,7 +11196,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             }
@@ -10269,7 +11219,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -10279,7 +11230,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -10289,7 +11241,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -10299,7 +11252,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Shock Pause Jumps",
@@ -10309,7 +11263,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/SvFaI5c_cDI"
                 },
                 {
                   "name": "Sl Baby Ankle Jumps",
@@ -10319,7 +11274,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IsGbPAIICCY"
                 },
                 {
                   "name": "Sl Baby Lateral Line Jumps",
@@ -10329,7 +11285,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/DfkOMPuEgDI"
                 },
                 {
                   "name": "Squat Jumps",
@@ -10339,7 +11296,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/8KMh_1UIHzo"
                 },
                 {
                   "name": "Bulgarian Split Squat",
@@ -10349,7 +11307,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/htDXu61MPio"
                 },
                 {
                   "name": "Single Leg Rdl",
@@ -10359,7 +11318,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/djfObUhaAcM"
                 },
                 {
                   "name": "Dynamic Step Up",
@@ -10369,7 +11329,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mxOddjJwkY4"
                 },
                 {
                   "name": "Nordic Curls",
@@ -10379,7 +11340,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/t630FhAooug"
                 },
                 {
                   "name": "One Leg Chair Stands",
@@ -10389,7 +11351,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ba-vUBq5EW8"
                 },
                 {
                   "name": "Kot Lunges",
@@ -10399,7 +11362,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CtQQhB9W3mg"
                 },
                 {
                   "name": "Core Workout 1",
@@ -10409,7 +11373,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/rD_JaUSxe3s"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -10419,7 +11384,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -10429,7 +11395,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -10446,7 +11413,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -10456,7 +11424,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Push Up Jack Pyramid",
@@ -10466,7 +11435,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mFTC1MFxoOY"
                 },
                 {
                   "name": "One Arm Plank Kickbacks",
@@ -10476,7 +11446,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-kVX46slFyw"
                 },
                 {
                   "name": "One Arm Plank Shoulder Press",
@@ -10486,7 +11457,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/tms1FrxNPgA"
                 },
                 {
                   "name": "Ecc. Db Shoulder Press",
@@ -10496,7 +11468,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Rmf3whitR2g"
                 },
                 {
                   "name": "Ecc. Pull Ups",
@@ -10506,7 +11479,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/drBbiyaa9rE"
                 },
                 {
                   "name": "Ecc. Push Ups",
@@ -10516,7 +11490,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yIuMKsAxx_s"
                 },
                 {
                   "name": "Ecc. Db Bicep Curls",
@@ -10526,7 +11501,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/D0lQQftcbck"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -10536,7 +11512,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -10546,7 +11523,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -10556,7 +11534,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -10566,7 +11545,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -10576,7 +11556,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -10586,7 +11567,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -10596,7 +11578,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -10613,7 +11596,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -10623,7 +11607,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -10633,7 +11618,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -10643,7 +11629,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Lateral Direction Switches",
@@ -10653,7 +11640,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/6F_KDIyge2Y"
                 },
                 {
                   "name": "F&B Direction Switches",
@@ -10663,7 +11651,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/FusKUT_5qv4"
                 },
                 {
                   "name": "Curved Cone Touch",
@@ -10673,7 +11662,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/hMSX8z6SvVU"
                 },
                 {
                   "name": "First Step 1-2 Pushes",
@@ -10683,7 +11673,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/LCCk9F0KWPQ"
                 },
                 {
                   "name": "Hip Flip 1-2 Pushes",
@@ -10693,7 +11684,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/huwk9VUOwmA"
                 },
                 {
                   "name": "Banded Laterals",
@@ -10703,7 +11695,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/GBOpYJqwl6Y"
                 },
                 {
                   "name": "Backward Sprints",
@@ -10713,7 +11706,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fLaOWSd5xJ8"
                 },
                 {
                   "name": "Power Skips",
@@ -10723,7 +11717,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lGalT8luBJI"
                 },
                 {
                   "name": "Bounding Level 1",
@@ -10733,7 +11728,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/rwV0ZDQhYEc"
                 },
                 {
                   "name": "Sled Pulls",
@@ -10743,7 +11739,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/OkKyajsZAXY"
                 },
                 {
                   "name": "Core Workout 2",
@@ -10753,7 +11750,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/JCxrdS-F4TY"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -10763,7 +11761,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -10773,7 +11772,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -10790,7 +11790,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -10800,7 +11801,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Push Up Jack Pyramid",
@@ -10810,7 +11812,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mFTC1MFxoOY"
                 },
                 {
                   "name": "One Arm Plank Kickbacks",
@@ -10820,7 +11823,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-kVX46slFyw"
                 },
                 {
                   "name": "One Arm Plank Shoulder Press",
@@ -10830,7 +11834,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/tms1FrxNPgA"
                 },
                 {
                   "name": "Ecc. Db Shoulder Press",
@@ -10840,7 +11845,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Rmf3whitR2g"
                 },
                 {
                   "name": "Ecc. Pull Ups",
@@ -10850,7 +11856,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/drBbiyaa9rE"
                 },
                 {
                   "name": "Ecc. Push Ups",
@@ -10860,7 +11867,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yIuMKsAxx_s"
                 },
                 {
                   "name": "Ecc. Db Bicep Curls",
@@ -10870,7 +11878,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/D0lQQftcbck"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -10880,7 +11889,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -10890,7 +11900,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -10900,7 +11911,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -10910,7 +11922,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -10920,7 +11933,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -10930,7 +11944,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -10940,7 +11955,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -10957,7 +11973,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -10967,7 +11984,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -10977,7 +11995,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -10987,7 +12006,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Shock Pause Jumps",
@@ -10997,7 +12017,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/SvFaI5c_cDI"
                 },
                 {
                   "name": "Sl Baby Ankle Jumps",
@@ -11007,7 +12028,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IsGbPAIICCY"
                 },
                 {
                   "name": "Sl Baby Lateral Line Jumps",
@@ -11017,7 +12039,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/DfkOMPuEgDI"
                 },
                 {
                   "name": "Squat Jumps",
@@ -11027,7 +12050,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/8KMh_1UIHzo"
                 },
                 {
                   "name": "Bulgarian Split Squat",
@@ -11037,7 +12061,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/htDXu61MPio"
                 },
                 {
                   "name": "Single Leg Rdl",
@@ -11047,7 +12072,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/djfObUhaAcM"
                 },
                 {
                   "name": "Dynamic Step Up",
@@ -11057,7 +12083,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mxOddjJwkY4"
                 },
                 {
                   "name": "Nordic Curls",
@@ -11067,7 +12094,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/t630FhAooug"
                 },
                 {
                   "name": "One Leg Chair Stands",
@@ -11077,7 +12105,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ba-vUBq5EW8"
                 },
                 {
                   "name": "Kot Lunges",
@@ -11087,7 +12116,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CtQQhB9W3mg"
                 },
                 {
                   "name": "Core Workout 3",
@@ -11097,7 +12127,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/2UUiE4VxRaE"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -11107,7 +12138,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -11117,7 +12149,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -11134,7 +12167,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -11144,7 +12178,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Push Up Jack Pyramid",
@@ -11154,7 +12189,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mFTC1MFxoOY"
                 },
                 {
                   "name": "One Arm Plank Kickbacks",
@@ -11164,7 +12200,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-kVX46slFyw"
                 },
                 {
                   "name": "One Arm Plank Shoulder Press",
@@ -11174,7 +12211,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/tms1FrxNPgA"
                 },
                 {
                   "name": "Ecc. Db Shoulder Press",
@@ -11184,7 +12222,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Rmf3whitR2g"
                 },
                 {
                   "name": "Ecc. Pull Ups",
@@ -11194,7 +12233,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/drBbiyaa9rE"
                 },
                 {
                   "name": "Ecc. Push Ups",
@@ -11204,7 +12244,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yIuMKsAxx_s"
                 },
                 {
                   "name": "Ecc. Db Bicep Curls",
@@ -11214,7 +12255,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/D0lQQftcbck"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -11224,7 +12266,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -11234,7 +12277,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -11244,7 +12288,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -11254,7 +12299,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -11264,7 +12310,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -11274,7 +12321,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -11284,7 +12332,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -11301,7 +12350,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/u8xxroQrqjU"
                 },
                 {
                   "name": "Foam Rolling",
@@ -11311,7 +12361,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Hip Mobility Routine",
@@ -11321,7 +12372,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/j4QNIVwI3cg"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -11331,7 +12383,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             }
@@ -11361,7 +12414,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/u8xxroQrqjU"
                 },
                 {
                   "name": "Foam Rolling",
@@ -11371,7 +12425,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Hip Mobility Routine",
@@ -11381,7 +12436,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/j4QNIVwI3cg"
                 },
                 {
                   "name": "Light Skills Sessions",
@@ -11401,7 +12457,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -11418,7 +12475,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/u8xxroQrqjU"
                 },
                 {
                   "name": "Foam Rolling",
@@ -11428,7 +12486,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Hip Mobility Routine",
@@ -11438,7 +12497,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/j4QNIVwI3cg"
                 },
                 {
                   "name": "Light Skills Sessions",
@@ -11458,7 +12518,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -11475,7 +12536,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -11485,7 +12547,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -11495,7 +12558,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -11505,7 +12569,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Backward Sprints",
@@ -11515,7 +12580,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fLaOWSd5xJ8"
                 },
                 {
                   "name": "Power Skips",
@@ -11525,7 +12591,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lGalT8luBJI"
                 },
                 {
                   "name": "Sprints",
@@ -11535,7 +12602,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/qZrRATn-yRM"
                 },
                 {
                   "name": "Bounding Level 2",
@@ -11545,7 +12613,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/hGeKS_UomZw"
                 },
                 {
                   "name": "Jump Session",
@@ -11555,7 +12624,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CZcoaT-a0YA"
                 },
                 {
                   "name": "Explosive Bss",
@@ -11565,7 +12635,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/VJp2zyzcPWE"
                 },
                 {
                   "name": "Single Leg Rdl",
@@ -11575,7 +12646,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/djfObUhaAcM"
                 },
                 {
                   "name": "Explosive Step Up",
@@ -11585,7 +12657,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/FWB7oRkA0Os"
                 },
                 {
                   "name": "Nordic Curls",
@@ -11595,7 +12668,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/t630FhAooug"
                 },
                 {
                   "name": "One Leg Squats",
@@ -11605,7 +12679,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/syrNPiLBBoE"
                 },
                 {
                   "name": "Core Workout 4",
@@ -11615,7 +12690,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/BhM5srYN7hM"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -11625,7 +12701,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -11635,7 +12712,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -11652,7 +12730,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -11662,7 +12741,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Plyo Push Up Jack Pyramid",
@@ -11672,7 +12752,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fCEoF_qSXZI"
                 },
                 {
                   "name": "One Arm Plank Kb To Sp",
@@ -11682,7 +12763,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gxQe9hXxPYs"
                 },
                 {
                   "name": "Db Shoulder Press",
@@ -11692,7 +12774,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lfaGv2TOR48"
                 },
                 {
                   "name": "Pull Ups",
@@ -11702,7 +12785,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lr_TgToAvSY"
                 },
                 {
                   "name": "Push Ups",
@@ -11712,7 +12796,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/HlloKo4qox4"
                 },
                 {
                   "name": "Db Hammer Curls",
@@ -11722,7 +12807,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/9QpdYOG3ZPo"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -11732,7 +12818,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -11742,7 +12829,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -11752,7 +12840,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -11762,7 +12851,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -11772,7 +12862,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -11782,7 +12873,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -11792,7 +12884,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -11809,7 +12902,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -11819,7 +12913,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -11829,7 +12924,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -11839,7 +12935,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Ankle Jumps",
@@ -11849,7 +12946,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mXqeQUX8hl8"
                 },
                 {
                   "name": "Lateral Line Jumps",
@@ -11859,7 +12957,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/qi1FODxeGXw"
                 },
                 {
                   "name": "Depth Jumps",
@@ -11869,7 +12968,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/jwRuAn13JZg"
                 },
                 {
                   "name": "Squat Jumps",
@@ -11879,7 +12979,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/8KMh_1UIHzo"
                 },
                 {
                   "name": "Explosive Bss",
@@ -11889,7 +12990,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/VJp2zyzcPWE"
                 },
                 {
                   "name": "Single Leg Rdl",
@@ -11899,7 +13001,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/djfObUhaAcM"
                 },
                 {
                   "name": "Explosive Step Up",
@@ -11909,7 +13012,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/FWB7oRkA0Os"
                 },
                 {
                   "name": "Nordic Curls",
@@ -11919,7 +13023,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/t630FhAooug"
                 },
                 {
                   "name": "One Leg Squats",
@@ -11929,7 +13034,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/syrNPiLBBoE"
                 },
                 {
                   "name": "Core Workout 1",
@@ -11939,7 +13045,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/rD_JaUSxe3s"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -11949,7 +13056,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -11959,7 +13067,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -11976,7 +13085,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -11986,7 +13096,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Plyo Push Up Jack Pyramid",
@@ -11996,7 +13107,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fCEoF_qSXZI"
                 },
                 {
                   "name": "One Arm Plank Kb To Sp",
@@ -12006,7 +13118,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gxQe9hXxPYs"
                 },
                 {
                   "name": "Db Shoulder Press",
@@ -12016,7 +13129,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lfaGv2TOR48"
                 },
                 {
                   "name": "Pull Ups",
@@ -12026,7 +13140,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lr_TgToAvSY"
                 },
                 {
                   "name": "Push Ups",
@@ -12036,7 +13151,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/HlloKo4qox4"
                 },
                 {
                   "name": "Db Hammer Curls",
@@ -12046,7 +13162,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/9QpdYOG3ZPo"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -12056,7 +13173,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -12066,7 +13184,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -12076,7 +13195,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -12086,7 +13206,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -12096,7 +13217,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -12106,7 +13228,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -12116,7 +13239,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -12133,7 +13257,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/u8xxroQrqjU"
                 },
                 {
                   "name": "Foam Rolling",
@@ -12143,7 +13268,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Hip Mobility Routine",
@@ -12153,7 +13279,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/j4QNIVwI3cg"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -12163,7 +13290,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             }
@@ -12185,7 +13313,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -12195,7 +13324,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -12205,7 +13335,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -12215,7 +13346,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Lateral Mirror Drill",
@@ -12225,7 +13357,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/tJMR8atUtOs"
                 },
                 {
                   "name": "F&B Mirror Drill",
@@ -12235,7 +13368,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/RhnVlIIwb2Q"
                 },
                 {
                   "name": "Curved Cone Touch",
@@ -12245,7 +13379,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/hMSX8z6SvVU"
                 },
                 {
                   "name": "Banded First Step 1-2 Pushes",
@@ -12255,7 +13390,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/gvurNWOZsig"
                 },
                 {
                   "name": "Hip Flip 1-2 Pushes",
@@ -12265,7 +13401,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/huwk9VUOwmA"
                 },
                 {
                   "name": "Banded Laterals",
@@ -12275,7 +13412,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/GBOpYJqwl6Y"
                 },
                 {
                   "name": "Backward Sprints",
@@ -12285,7 +13423,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fLaOWSd5xJ8"
                 },
                 {
                   "name": "Power Skips",
@@ -12295,7 +13434,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lGalT8luBJI"
                 },
                 {
                   "name": "Bounding Level 2",
@@ -12305,7 +13445,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/hGeKS_UomZw"
                 },
                 {
                   "name": "Sled Pulls",
@@ -12315,7 +13456,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/OkKyajsZAXY"
                 },
                 {
                   "name": "Core Workout 2",
@@ -12325,7 +13467,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/JCxrdS-F4TY"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -12335,7 +13478,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -12345,7 +13489,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -12362,7 +13507,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -12372,7 +13518,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Plyo Push Up Jack Pyramid",
@@ -12382,7 +13529,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fCEoF_qSXZI"
                 },
                 {
                   "name": "One Arm Plank Kb To Sp",
@@ -12392,7 +13540,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gxQe9hXxPYs"
                 },
                 {
                   "name": "Db Shoulder Press",
@@ -12402,7 +13551,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lfaGv2TOR48"
                 },
                 {
                   "name": "Pull Ups",
@@ -12412,7 +13562,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lr_TgToAvSY"
                 },
                 {
                   "name": "Push Ups",
@@ -12422,7 +13573,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/HlloKo4qox4"
                 },
                 {
                   "name": "Db Hammer Curls",
@@ -12432,7 +13584,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/9QpdYOG3ZPo"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -12442,7 +13595,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -12452,7 +13606,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -12462,7 +13617,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -12472,7 +13628,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -12482,7 +13639,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -12492,7 +13650,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -12502,7 +13661,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -12519,7 +13679,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -12529,7 +13690,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -12539,7 +13701,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -12549,7 +13712,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Ankle Jumps",
@@ -12559,7 +13723,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mXqeQUX8hl8"
                 },
                 {
                   "name": "Lateral Line Jumps",
@@ -12569,7 +13734,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/qi1FODxeGXw"
                 },
                 {
                   "name": "Depth Jumps",
@@ -12579,7 +13745,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/jwRuAn13JZg"
                 },
                 {
                   "name": "Squat Jumps",
@@ -12589,7 +13756,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/8KMh_1UIHzo"
                 },
                 {
                   "name": "Explosive Bss",
@@ -12599,7 +13767,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/VJp2zyzcPWE"
                 },
                 {
                   "name": "Single Leg Rdl",
@@ -12609,7 +13778,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/djfObUhaAcM"
                 },
                 {
                   "name": "Explosive Step Up",
@@ -12619,7 +13789,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/FWB7oRkA0Os"
                 },
                 {
                   "name": "Nordic Curls",
@@ -12629,7 +13800,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/t630FhAooug"
                 },
                 {
                   "name": "One Leg Squats",
@@ -12639,7 +13811,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/syrNPiLBBoE"
                 },
                 {
                   "name": "Core Workout 3",
@@ -12649,7 +13822,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/2UUiE4VxRaE"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -12659,7 +13833,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -12669,7 +13844,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -12686,7 +13862,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -12696,7 +13873,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Plyo Push Up Jack Pyramid",
@@ -12706,7 +13884,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fCEoF_qSXZI"
                 },
                 {
                   "name": "One Arm Plank Kb To Sp",
@@ -12716,7 +13895,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gxQe9hXxPYs"
                 },
                 {
                   "name": "Db Shoulder Press",
@@ -12726,7 +13906,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lfaGv2TOR48"
                 },
                 {
                   "name": "Pull Ups",
@@ -12736,7 +13917,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lr_TgToAvSY"
                 },
                 {
                   "name": "Push Ups",
@@ -12746,7 +13928,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/HlloKo4qox4"
                 },
                 {
                   "name": "Db Hammer Curls",
@@ -12756,7 +13939,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/9QpdYOG3ZPo"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -12766,7 +13950,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -12776,7 +13961,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -12786,7 +13972,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -12796,7 +13983,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -12806,7 +13994,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -12816,7 +14005,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -12826,7 +14016,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -12843,7 +14034,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -12853,7 +14045,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -12863,7 +14056,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -12873,7 +14067,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Backward Sprints",
@@ -12883,7 +14078,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fLaOWSd5xJ8"
                 },
                 {
                   "name": "Power Skips",
@@ -12893,7 +14089,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lGalT8luBJI"
                 },
                 {
                   "name": "Sprints",
@@ -12903,7 +14100,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/qZrRATn-yRM"
                 },
                 {
                   "name": "Bounding Level 2",
@@ -12913,7 +14111,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/hGeKS_UomZw"
                 },
                 {
                   "name": "Jump Session",
@@ -12923,7 +14122,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CZcoaT-a0YA"
                 },
                 {
                   "name": "Explosive Bss",
@@ -12933,7 +14133,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/VJp2zyzcPWE"
                 },
                 {
                   "name": "Single Leg Rdl",
@@ -12943,7 +14144,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/djfObUhaAcM"
                 },
                 {
                   "name": "Explosive Step Up",
@@ -12953,7 +14155,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/FWB7oRkA0Os"
                 },
                 {
                   "name": "Nordic Curls",
@@ -12963,7 +14166,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/t630FhAooug"
                 },
                 {
                   "name": "One Leg Squats",
@@ -12973,7 +14177,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/syrNPiLBBoE"
                 },
                 {
                   "name": "Core Workout 4",
@@ -12983,7 +14188,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/BhM5srYN7hM"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -12993,7 +14199,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -13003,7 +14210,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -13020,7 +14228,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -13030,7 +14239,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Plyo Push Up Jack Pyramid",
@@ -13040,7 +14250,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fCEoF_qSXZI"
                 },
                 {
                   "name": "One Arm Plank Kb To Sp",
@@ -13050,7 +14261,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gxQe9hXxPYs"
                 },
                 {
                   "name": "Db Shoulder Press",
@@ -13060,7 +14272,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lfaGv2TOR48"
                 },
                 {
                   "name": "Pull Ups",
@@ -13070,7 +14283,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lr_TgToAvSY"
                 },
                 {
                   "name": "Push Ups",
@@ -13080,7 +14294,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/HlloKo4qox4"
                 },
                 {
                   "name": "Db Hammer Curls",
@@ -13090,7 +14305,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/9QpdYOG3ZPo"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -13100,7 +14316,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -13110,7 +14327,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -13120,7 +14338,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -13130,7 +14349,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -13140,7 +14360,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -13150,7 +14371,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -13160,7 +14382,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -13177,7 +14400,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/u8xxroQrqjU"
                 },
                 {
                   "name": "Foam Rolling",
@@ -13187,7 +14411,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Hip Mobility Routine",
@@ -13197,7 +14422,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/j4QNIVwI3cg"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -13207,7 +14433,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             }
@@ -13229,7 +14456,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -13239,7 +14467,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -13249,7 +14478,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -13259,7 +14489,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Ankle Jumps",
@@ -13269,7 +14500,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mXqeQUX8hl8"
                 },
                 {
                   "name": "Lateral Line Jumps",
@@ -13279,7 +14511,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/qi1FODxeGXw"
                 },
                 {
                   "name": "Depth Jumps",
@@ -13289,7 +14522,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/jwRuAn13JZg"
                 },
                 {
                   "name": "Squat Jumps",
@@ -13299,7 +14533,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/8KMh_1UIHzo"
                 },
                 {
                   "name": "Explosive Bss",
@@ -13309,7 +14544,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/VJp2zyzcPWE"
                 },
                 {
                   "name": "Single Leg Rdl",
@@ -13319,7 +14555,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/djfObUhaAcM"
                 },
                 {
                   "name": "Explosive Step Up",
@@ -13329,7 +14566,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/FWB7oRkA0Os"
                 },
                 {
                   "name": "Nordic Curls",
@@ -13339,7 +14577,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/t630FhAooug"
                 },
                 {
                   "name": "One Leg Squats",
@@ -13349,7 +14588,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/syrNPiLBBoE"
                 },
                 {
                   "name": "Core Workout 1",
@@ -13359,7 +14599,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/rD_JaUSxe3s"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -13369,7 +14610,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -13379,7 +14621,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -13406,7 +14649,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -13416,7 +14660,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Plyo Push Up Jack Pyramid",
@@ -13426,7 +14671,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fCEoF_qSXZI"
                 },
                 {
                   "name": "One Arm Plank Kb To Sp",
@@ -13436,7 +14682,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gxQe9hXxPYs"
                 },
                 {
                   "name": "Db Shoulder Press",
@@ -13446,7 +14693,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lfaGv2TOR48"
                 },
                 {
                   "name": "Pull Ups",
@@ -13456,7 +14704,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lr_TgToAvSY"
                 },
                 {
                   "name": "Push Ups",
@@ -13466,7 +14715,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/HlloKo4qox4"
                 },
                 {
                   "name": "Db Hammer Curls",
@@ -13476,7 +14726,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/9QpdYOG3ZPo"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -13486,7 +14737,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -13496,7 +14748,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -13506,7 +14759,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -13516,7 +14770,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -13526,7 +14781,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -13536,7 +14792,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -13546,7 +14803,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -13563,7 +14821,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -13573,7 +14832,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -13583,7 +14843,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -13593,7 +14854,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Lateral Mirror Drill",
@@ -13603,7 +14865,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/tJMR8atUtOs"
                 },
                 {
                   "name": "F&B Mirror Drill",
@@ -13613,7 +14876,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/RhnVlIIwb2Q"
                 },
                 {
                   "name": "Curved Cone Touch",
@@ -13623,7 +14887,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/hMSX8z6SvVU"
                 },
                 {
                   "name": "Banded First Step 1-2 Pushes",
@@ -13633,7 +14898,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/gvurNWOZsig"
                 },
                 {
                   "name": "Hip Flip 1-2 Pushes",
@@ -13643,7 +14909,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/huwk9VUOwmA"
                 },
                 {
                   "name": "Banded Laterals",
@@ -13653,7 +14920,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/GBOpYJqwl6Y"
                 },
                 {
                   "name": "Backward Sprints",
@@ -13663,7 +14931,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fLaOWSd5xJ8"
                 },
                 {
                   "name": "Power Skips",
@@ -13673,7 +14942,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lGalT8luBJI"
                 },
                 {
                   "name": "Bounding Level 2",
@@ -13683,7 +14953,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/hGeKS_UomZw"
                 },
                 {
                   "name": "Sled Pulls",
@@ -13693,7 +14964,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/OkKyajsZAXY"
                 },
                 {
                   "name": "Core Workout 2",
@@ -13703,7 +14975,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/JCxrdS-F4TY"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -13713,7 +14986,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -13723,7 +14997,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -13740,7 +15015,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -13750,7 +15026,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Plyo Push Up Jack Pyramid",
@@ -13760,7 +15037,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fCEoF_qSXZI"
                 },
                 {
                   "name": "One Arm Plank Kb To Sp",
@@ -13770,7 +15048,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gxQe9hXxPYs"
                 },
                 {
                   "name": "Db Shoulder Press",
@@ -13780,7 +15059,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lfaGv2TOR48"
                 },
                 {
                   "name": "Pull Ups",
@@ -13790,7 +15070,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lr_TgToAvSY"
                 },
                 {
                   "name": "Push Ups",
@@ -13800,7 +15081,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/HlloKo4qox4"
                 },
                 {
                   "name": "Db Hammer Curls",
@@ -13810,7 +15092,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/9QpdYOG3ZPo"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -13820,7 +15103,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -13830,7 +15114,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -13840,7 +15125,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -13850,7 +15136,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -13860,7 +15147,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -13870,7 +15158,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -13880,7 +15169,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -13897,7 +15187,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -13907,7 +15198,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -13917,7 +15209,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -13927,7 +15220,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Ankle Jumps",
@@ -13937,7 +15231,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mXqeQUX8hl8"
                 },
                 {
                   "name": "Lateral Line Jumps",
@@ -13947,7 +15242,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/qi1FODxeGXw"
                 },
                 {
                   "name": "Depth Jumps",
@@ -13957,7 +15253,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/jwRuAn13JZg"
                 },
                 {
                   "name": "Squat Jumps",
@@ -13967,7 +15264,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/8KMh_1UIHzo"
                 },
                 {
                   "name": "Explosive Bss",
@@ -13977,7 +15275,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/VJp2zyzcPWE"
                 },
                 {
                   "name": "Single Leg Rdl",
@@ -13987,7 +15286,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/djfObUhaAcM"
                 },
                 {
                   "name": "Explosive Step Up",
@@ -13997,7 +15297,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/FWB7oRkA0Os"
                 },
                 {
                   "name": "Nordic Curls",
@@ -14007,7 +15308,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/t630FhAooug"
                 },
                 {
                   "name": "One Leg Squats",
@@ -14017,7 +15319,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/syrNPiLBBoE"
                 },
                 {
                   "name": "Core Workout 3",
@@ -14027,7 +15330,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/2UUiE4VxRaE"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -14037,7 +15341,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -14047,7 +15352,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -14064,7 +15370,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -14074,7 +15381,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Plyo Push Up Jack Pyramid",
@@ -14084,7 +15392,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fCEoF_qSXZI"
                 },
                 {
                   "name": "One Arm Plank Kb To Sp",
@@ -14094,7 +15403,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gxQe9hXxPYs"
                 },
                 {
                   "name": "Db Shoulder Press",
@@ -14104,7 +15414,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lfaGv2TOR48"
                 },
                 {
                   "name": "Pull Ups",
@@ -14114,7 +15425,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lr_TgToAvSY"
                 },
                 {
                   "name": "Push Ups",
@@ -14124,7 +15436,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/HlloKo4qox4"
                 },
                 {
                   "name": "Db Hammer Curls",
@@ -14134,7 +15447,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/9QpdYOG3ZPo"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -14144,7 +15458,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -14154,7 +15469,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -14164,7 +15480,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -14174,7 +15491,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -14184,7 +15502,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -14194,7 +15513,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -14204,7 +15524,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -14221,7 +15542,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/u8xxroQrqjU"
                 },
                 {
                   "name": "Foam Rolling",
@@ -14231,7 +15553,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Hip Mobility Routine",
@@ -14241,7 +15564,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/j4QNIVwI3cg"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -14251,7 +15575,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             }
@@ -14273,7 +15598,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -14283,7 +15609,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -14293,7 +15620,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -14303,7 +15631,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Backward Sprints",
@@ -14313,7 +15642,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fLaOWSd5xJ8"
                 },
                 {
                   "name": "Power Skips",
@@ -14323,7 +15653,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lGalT8luBJI"
                 },
                 {
                   "name": "Sprints",
@@ -14333,7 +15664,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/qZrRATn-yRM"
                 },
                 {
                   "name": "Bounding Level 2",
@@ -14343,7 +15675,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/hGeKS_UomZw"
                 },
                 {
                   "name": "Jump Session",
@@ -14353,7 +15686,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CZcoaT-a0YA"
                 },
                 {
                   "name": "Explosive Bss",
@@ -14363,7 +15697,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/VJp2zyzcPWE"
                 },
                 {
                   "name": "Single Leg Rdl",
@@ -14373,7 +15708,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/djfObUhaAcM"
                 },
                 {
                   "name": "Explosive Step Up",
@@ -14383,7 +15719,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/FWB7oRkA0Os"
                 },
                 {
                   "name": "Nordic Curls",
@@ -14393,7 +15730,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/t630FhAooug"
                 },
                 {
                   "name": "One Leg Squats",
@@ -14403,7 +15741,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/syrNPiLBBoE"
                 },
                 {
                   "name": "Core Workout 4",
@@ -14413,7 +15752,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/BhM5srYN7hM"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -14423,7 +15763,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -14433,7 +15774,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -14450,7 +15792,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -14460,7 +15803,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Plyo Push Up Jack Pyramid",
@@ -14470,7 +15814,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fCEoF_qSXZI"
                 },
                 {
                   "name": "One Arm Plank Kb To Sp",
@@ -14480,7 +15825,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gxQe9hXxPYs"
                 },
                 {
                   "name": "Db Shoulder Press",
@@ -14490,7 +15836,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lfaGv2TOR48"
                 },
                 {
                   "name": "Pull Ups",
@@ -14500,7 +15847,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lr_TgToAvSY"
                 },
                 {
                   "name": "Push Ups",
@@ -14510,7 +15858,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/HlloKo4qox4"
                 },
                 {
                   "name": "Db Hammer Curls",
@@ -14520,7 +15869,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/9QpdYOG3ZPo"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -14530,7 +15880,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -14540,7 +15891,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -14550,7 +15902,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -14560,7 +15913,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -14570,7 +15924,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -14580,7 +15935,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -14590,7 +15946,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -14607,7 +15964,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -14617,7 +15975,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -14627,7 +15986,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -14637,7 +15997,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Ankle Jumps",
@@ -14647,7 +16008,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mXqeQUX8hl8"
                 },
                 {
                   "name": "Lateral Line Jumps",
@@ -14657,7 +16019,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/qi1FODxeGXw"
                 },
                 {
                   "name": "Depth Jumps",
@@ -14667,7 +16030,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/jwRuAn13JZg"
                 },
                 {
                   "name": "Squat Jumps",
@@ -14677,7 +16041,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/8KMh_1UIHzo"
                 },
                 {
                   "name": "Explosive Bss",
@@ -14687,7 +16052,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/VJp2zyzcPWE"
                 },
                 {
                   "name": "Single Leg Rdl",
@@ -14697,7 +16063,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/djfObUhaAcM"
                 },
                 {
                   "name": "Explosive Step Up",
@@ -14707,7 +16074,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/FWB7oRkA0Os"
                 },
                 {
                   "name": "Nordic Curls",
@@ -14717,7 +16085,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/t630FhAooug"
                 },
                 {
                   "name": "One Leg Squats",
@@ -14727,7 +16096,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/syrNPiLBBoE"
                 },
                 {
                   "name": "Core Workout 1",
@@ -14737,7 +16107,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/rD_JaUSxe3s"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -14747,7 +16118,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -14757,7 +16129,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -14774,7 +16147,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -14784,7 +16158,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Plyo Push Up Jack Pyramid",
@@ -14794,7 +16169,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fCEoF_qSXZI"
                 },
                 {
                   "name": "One Arm Plank Kb To Sp",
@@ -14804,7 +16180,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gxQe9hXxPYs"
                 },
                 {
                   "name": "Db Shoulder Press",
@@ -14814,7 +16191,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lfaGv2TOR48"
                 },
                 {
                   "name": "Pull Ups",
@@ -14824,7 +16202,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lr_TgToAvSY"
                 },
                 {
                   "name": "Push Ups",
@@ -14834,7 +16213,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/HlloKo4qox4"
                 },
                 {
                   "name": "Db Hammer Curls",
@@ -14844,7 +16224,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/9QpdYOG3ZPo"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -14854,7 +16235,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -14864,7 +16246,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -14874,7 +16257,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -14884,7 +16268,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -14894,7 +16279,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -14904,7 +16290,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -14914,7 +16301,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 },
                 {
                   "name": "Vitamin C",
@@ -14961,7 +16349,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -14971,7 +16360,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -14981,7 +16371,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -14991,7 +16382,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Lateral Mirror Drill",
@@ -15001,7 +16393,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/tJMR8atUtOs"
                 },
                 {
                   "name": "F&B Mirror Drill",
@@ -15011,7 +16404,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/RhnVlIIwb2Q"
                 },
                 {
                   "name": "Curved Cone Touch",
@@ -15021,7 +16415,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/hMSX8z6SvVU"
                 },
                 {
                   "name": "Banded First Step 1-2 Pushes",
@@ -15031,7 +16426,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/gvurNWOZsig"
                 },
                 {
                   "name": "Hip Flip 1-2 Pushes",
@@ -15041,7 +16437,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/huwk9VUOwmA"
                 },
                 {
                   "name": "Banded Laterals",
@@ -15051,7 +16448,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/GBOpYJqwl6Y"
                 },
                 {
                   "name": "Backward Sprints",
@@ -15061,7 +16459,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fLaOWSd5xJ8"
                 },
                 {
                   "name": "Power Skips",
@@ -15071,7 +16470,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lGalT8luBJI"
                 },
                 {
                   "name": "Bounding Level 2",
@@ -15081,7 +16481,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/hGeKS_UomZw"
                 },
                 {
                   "name": "Sled Pulls",
@@ -15091,7 +16492,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/OkKyajsZAXY"
                 },
                 {
                   "name": "Core Workout 2",
@@ -15101,7 +16503,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/JCxrdS-F4TY"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -15111,7 +16514,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -15121,7 +16525,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -15138,7 +16543,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -15148,7 +16554,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Plyo Push Up Jack Pyramid",
@@ -15158,7 +16565,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fCEoF_qSXZI"
                 },
                 {
                   "name": "One Arm Plank Kb To Sp",
@@ -15168,7 +16576,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gxQe9hXxPYs"
                 },
                 {
                   "name": "Db Shoulder Press",
@@ -15178,7 +16587,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lfaGv2TOR48"
                 },
                 {
                   "name": "Pull Ups",
@@ -15188,7 +16598,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lr_TgToAvSY"
                 },
                 {
                   "name": "Push Ups",
@@ -15198,7 +16609,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/HlloKo4qox4"
                 },
                 {
                   "name": "Db Hammer Curls",
@@ -15208,7 +16620,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/9QpdYOG3ZPo"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -15218,7 +16631,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -15228,7 +16642,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -15238,7 +16653,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -15248,7 +16664,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -15258,7 +16675,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -15268,7 +16686,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -15278,7 +16697,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -15295,7 +16715,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/u8xxroQrqjU"
                 },
                 {
                   "name": "Foam Rolling",
@@ -15305,7 +16726,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Hip Mobility Routine",
@@ -15315,7 +16737,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/j4QNIVwI3cg"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -15325,7 +16748,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             }
@@ -15355,7 +16779,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/u8xxroQrqjU"
                 },
                 {
                   "name": "Foam Rolling",
@@ -15365,7 +16790,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Hip Mobility Routine",
@@ -15375,7 +16801,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/j4QNIVwI3cg"
                 },
                 {
                   "name": "Light Skills Sessions",
@@ -15395,7 +16822,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -15412,7 +16840,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/u8xxroQrqjU"
                 },
                 {
                   "name": "Foam Rolling",
@@ -15422,7 +16851,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Hip Mobility Routine",
@@ -15432,7 +16862,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/j4QNIVwI3cg"
                 },
                 {
                   "name": "Light Skills Sessions",
@@ -15452,7 +16883,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -15469,7 +16901,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -15479,7 +16912,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -15489,7 +16923,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -15499,7 +16934,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Seconds In Between Each",
@@ -15509,7 +16945,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/M7ezqiNyFos"
                 },
                 {
                   "name": "Pistol Squat Switching Legs",
@@ -15519,7 +16956,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/iYaY10W1R84"
                 },
                 {
                   "name": "Depth Jump",
@@ -15529,7 +16967,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/jwRuAn13JZg"
                 },
                 {
                   "name": "Dumbbell Squat Jumps",
@@ -15539,7 +16978,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "dumbbell"
+                  "equipment": "dumbbell",
+                  "youtubeUrl": "https://youtu.be/8KMh_1UIHzo"
                 },
                 {
                   "name": "Yard Sprint",
@@ -15549,7 +16989,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/tKpxdNwKLeM"
                 },
                 {
                   "name": "If You Can'T Do A 15 Yard Sprint, Do 4 Tuck Jumps Instead",
@@ -15559,7 +17000,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/4VwH8UrxXjY"
                 },
                 {
                   "name": "Dynamic Step Up",
@@ -15569,7 +17011,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mxOddjJwkY4"
                 },
                 {
                   "name": "Single Leg Rdl",
@@ -15579,7 +17022,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/djfObUhaAcM"
                 },
                 {
                   "name": "Core Workout 3",
@@ -15589,7 +17033,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/2UUiE4VxRaE"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -15599,7 +17044,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -15609,7 +17055,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -15626,7 +17073,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -15636,7 +17084,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Plyo Push Up Jack Pyramid",
@@ -15646,7 +17095,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fCEoF_qSXZI"
                 },
                 {
                   "name": "Explosive Pull Ups",
@@ -15656,7 +17106,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/2OVzKeSDNKM"
                 },
                 {
                   "name": "Db Bicep Curl To Sp",
@@ -15666,7 +17117,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/RHQIN5n9diQ"
                 },
                 {
                   "name": "Tricep Bench Dips",
@@ -15676,7 +17128,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wTW73XuZXDk"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -15686,7 +17139,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -15696,7 +17150,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -15706,7 +17161,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -15716,7 +17172,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -15726,7 +17183,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -15736,7 +17194,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -15746,7 +17205,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -15763,7 +17223,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -15773,7 +17234,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -15783,7 +17245,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -15793,7 +17256,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Backward Sprints",
@@ -15803,7 +17267,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fLaOWSd5xJ8"
                 },
                 {
                   "name": "Power Skips",
@@ -15813,7 +17278,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lGalT8luBJI"
                 },
                 {
                   "name": "Sprints",
@@ -15823,7 +17289,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/qZrRATn-yRM"
                 },
                 {
                   "name": "Bounding Level 3",
@@ -15833,7 +17300,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ddAtlQ6BAj0"
                 },
                 {
                   "name": "Jump Session",
@@ -15843,7 +17311,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CZcoaT-a0YA"
                 },
                 {
                   "name": "Monster Walks",
@@ -15853,7 +17322,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/P9K7vau2Bs0"
                 },
                 {
                   "name": "Lateral Side Steps",
@@ -15863,7 +17333,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/LWp-ekVkgL8"
                 },
                 {
                   "name": "Half Moon Walks",
@@ -15873,7 +17344,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/vtStIqRdav4"
                 },
                 {
                   "name": "Core Workout 4",
@@ -15883,7 +17355,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/BhM5srYN7hM"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -15893,7 +17366,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -15903,7 +17377,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -15920,7 +17395,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -15930,7 +17406,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Plyo Push Up Jack Pyramid",
@@ -15940,7 +17417,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fCEoF_qSXZI"
                 },
                 {
                   "name": "Explosive Pull Ups",
@@ -15950,7 +17428,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/2OVzKeSDNKM"
                 },
                 {
                   "name": "Db Bicep Curl To Sp",
@@ -15960,7 +17439,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/RHQIN5n9diQ"
                 },
                 {
                   "name": "Tricep Bench Dips",
@@ -15970,7 +17450,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wTW73XuZXDk"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -15980,7 +17461,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -15990,7 +17472,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -16000,7 +17483,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -16010,7 +17494,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -16020,7 +17505,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -16030,7 +17516,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -16040,7 +17527,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -16057,7 +17545,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/u8xxroQrqjU"
                 },
                 {
                   "name": "Foam Rolling",
@@ -16067,7 +17556,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Hip Mobility Routine",
@@ -16077,7 +17567,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/j4QNIVwI3cg"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -16087,7 +17578,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             }
@@ -16109,7 +17601,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -16119,7 +17612,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -16129,7 +17623,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -16139,7 +17634,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Seconds In Between Each",
@@ -16149,7 +17645,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/M7ezqiNyFos"
                 },
                 {
                   "name": "Pistol Squat Switching Legs",
@@ -16159,7 +17656,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/iYaY10W1R84"
                 },
                 {
                   "name": "Depth Jump",
@@ -16169,7 +17667,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/jwRuAn13JZg"
                 },
                 {
                   "name": "Dumbbell Squat Jumps",
@@ -16179,7 +17678,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "dumbbell"
+                  "equipment": "dumbbell",
+                  "youtubeUrl": "https://youtu.be/8KMh_1UIHzo"
                 },
                 {
                   "name": "Yard Sprint",
@@ -16189,7 +17689,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/tKpxdNwKLeM"
                 },
                 {
                   "name": "If You Can'T Do A 15 Yard Sprint, Do 4 Tuck Jumps Instead",
@@ -16199,7 +17700,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/4VwH8UrxXjY"
                 },
                 {
                   "name": "Lateral Step Ups",
@@ -16209,7 +17711,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/JP9fGNi9GfU"
                 },
                 {
                   "name": "Single Leg Rdl",
@@ -16219,7 +17722,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/djfObUhaAcM"
                 },
                 {
                   "name": "Core Workout 1",
@@ -16229,7 +17733,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/rD_JaUSxe3s"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -16239,7 +17744,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -16249,7 +17755,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -16266,7 +17773,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -16276,7 +17784,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Plyo Push Up Jack Pyramid",
@@ -16286,7 +17795,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fCEoF_qSXZI"
                 },
                 {
                   "name": "Explosive Pull Ups",
@@ -16296,7 +17806,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/2OVzKeSDNKM"
                 },
                 {
                   "name": "Db Bicep Curl To Sp",
@@ -16306,7 +17817,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/RHQIN5n9diQ"
                 },
                 {
                   "name": "Tricep Bench Dips",
@@ -16316,7 +17828,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wTW73XuZXDk"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -16326,7 +17839,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -16336,7 +17850,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -16346,7 +17861,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -16356,7 +17872,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -16366,7 +17883,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -16376,7 +17894,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -16386,7 +17905,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -16403,7 +17923,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -16413,7 +17934,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -16423,7 +17945,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -16433,7 +17956,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Lateral Mirror Drill",
@@ -16443,7 +17967,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/tJMR8atUtOs"
                 },
                 {
                   "name": "F&B Mirror Drill",
@@ -16453,7 +17978,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/RhnVlIIwb2Q"
                 },
                 {
                   "name": "Curved Cone Touch",
@@ -16463,7 +17989,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/hMSX8z6SvVU"
                 },
                 {
                   "name": "Banded First Step 1-2 Pushes",
@@ -16473,7 +18000,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/gvurNWOZsig"
                 },
                 {
                   "name": "Hip Flip 1-2 Pushes",
@@ -16483,7 +18011,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/huwk9VUOwmA"
                 },
                 {
                   "name": "Banded Laterals",
@@ -16493,7 +18022,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/GBOpYJqwl6Y"
                 },
                 {
                   "name": "Backward Sprints",
@@ -16503,7 +18033,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fLaOWSd5xJ8"
                 },
                 {
                   "name": "Power Skips",
@@ -16513,7 +18044,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lGalT8luBJI"
                 },
                 {
                   "name": "Bounding Level 3",
@@ -16523,7 +18055,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ddAtlQ6BAj0"
                 },
                 {
                   "name": "Sled Pulls",
@@ -16533,7 +18066,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/OkKyajsZAXY"
                 },
                 {
                   "name": "Monster Walks",
@@ -16543,7 +18077,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/P9K7vau2Bs0"
                 },
                 {
                   "name": "Lateral Side Steps",
@@ -16553,7 +18088,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/LWp-ekVkgL8"
                 },
                 {
                   "name": "Half Moon Walks",
@@ -16563,7 +18099,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/vtStIqRdav4"
                 },
                 {
                   "name": "Core Workout 2",
@@ -16573,7 +18110,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/JCxrdS-F4TY"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -16583,7 +18121,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -16593,7 +18132,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -16610,7 +18150,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -16620,7 +18161,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Plyo Push Up Jack Pyramid",
@@ -16630,7 +18172,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fCEoF_qSXZI"
                 },
                 {
                   "name": "Explosive Pull Ups",
@@ -16640,7 +18183,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/2OVzKeSDNKM"
                 },
                 {
                   "name": "Db Bicep Curl To Sp",
@@ -16650,7 +18194,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/RHQIN5n9diQ"
                 },
                 {
                   "name": "Tricep Bench Dips",
@@ -16660,7 +18205,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wTW73XuZXDk"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -16670,7 +18216,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -16680,7 +18227,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -16690,7 +18238,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -16700,7 +18249,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -16710,7 +18260,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -16720,7 +18271,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -16730,7 +18282,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -16747,7 +18300,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -16757,7 +18311,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -16767,7 +18322,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -16777,7 +18333,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Seconds In Between Each",
@@ -16787,7 +18344,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/M7ezqiNyFos"
                 },
                 {
                   "name": "Pistol Squat Switching Legs",
@@ -16797,7 +18355,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/iYaY10W1R84"
                 },
                 {
                   "name": "Depth Jump",
@@ -16807,7 +18366,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/jwRuAn13JZg"
                 },
                 {
                   "name": "Dumbbell Squat Jumps",
@@ -16817,7 +18377,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "dumbbell"
+                  "equipment": "dumbbell",
+                  "youtubeUrl": "https://youtu.be/8KMh_1UIHzo"
                 },
                 {
                   "name": "Yard Sprint",
@@ -16827,7 +18388,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/tKpxdNwKLeM"
                 },
                 {
                   "name": "If You Can'T Do A 15 Yard Sprint, Do 4 Tuck Jumps Instead",
@@ -16837,7 +18399,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/4VwH8UrxXjY"
                 },
                 {
                   "name": "Crossover Step Up",
@@ -16847,7 +18410,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/k5xP26grKJg"
                 },
                 {
                   "name": "Single Leg Rdl",
@@ -16857,7 +18421,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/djfObUhaAcM"
                 },
                 {
                   "name": "Core Workout 3",
@@ -16867,7 +18432,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/2UUiE4VxRaE"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -16877,7 +18443,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -16887,7 +18454,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -16904,7 +18472,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -16914,7 +18483,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Plyo Push Up Jack Pyramid",
@@ -16924,7 +18494,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fCEoF_qSXZI"
                 },
                 {
                   "name": "Explosive Pull Ups",
@@ -16934,7 +18505,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/2OVzKeSDNKM"
                 },
                 {
                   "name": "Db Bicep Curl To Sp",
@@ -16944,7 +18516,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/RHQIN5n9diQ"
                 },
                 {
                   "name": "Tricep Bench Dips",
@@ -16954,7 +18527,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wTW73XuZXDk"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -16964,7 +18538,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -16974,7 +18549,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -16984,7 +18560,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -16994,7 +18571,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -17004,7 +18582,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -17014,7 +18593,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -17024,7 +18604,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -17041,7 +18622,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/u8xxroQrqjU"
                 },
                 {
                   "name": "Foam Rolling",
@@ -17051,7 +18633,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Hip Mobility Routine",
@@ -17061,7 +18644,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/j4QNIVwI3cg"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -17071,7 +18655,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             }
@@ -17093,7 +18678,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -17103,7 +18689,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -17113,7 +18700,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -17123,7 +18711,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Backward Sprints",
@@ -17133,7 +18722,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fLaOWSd5xJ8"
                 },
                 {
                   "name": "Power Skips",
@@ -17143,7 +18733,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lGalT8luBJI"
                 },
                 {
                   "name": "Sprints",
@@ -17153,7 +18744,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/qZrRATn-yRM"
                 },
                 {
                   "name": "Bounding Level 3",
@@ -17163,7 +18755,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ddAtlQ6BAj0"
                 },
                 {
                   "name": "Jump Session",
@@ -17173,7 +18766,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CZcoaT-a0YA"
                 },
                 {
                   "name": "Monster Walks",
@@ -17183,7 +18777,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/P9K7vau2Bs0"
                 },
                 {
                   "name": "Lateral Side Steps",
@@ -17193,7 +18788,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/LWp-ekVkgL8"
                 },
                 {
                   "name": "Half Moon Walks",
@@ -17203,7 +18799,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/vtStIqRdav4"
                 },
                 {
                   "name": "Core Workout 4",
@@ -17213,7 +18810,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/BhM5srYN7hM"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -17223,7 +18821,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -17233,7 +18832,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -17250,7 +18850,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -17260,7 +18861,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Plyo Push Up Jack Pyramid",
@@ -17270,7 +18872,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fCEoF_qSXZI"
                 },
                 {
                   "name": "Explosive Pull Ups",
@@ -17280,7 +18883,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/2OVzKeSDNKM"
                 },
                 {
                   "name": "Db Bicep Curl To Sp",
@@ -17290,7 +18894,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/RHQIN5n9diQ"
                 },
                 {
                   "name": "Tricep Bench Dips",
@@ -17300,7 +18905,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wTW73XuZXDk"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -17310,7 +18916,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -17320,7 +18927,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -17330,7 +18938,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -17340,7 +18949,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -17350,7 +18960,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -17360,7 +18971,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -17370,7 +18982,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -17387,7 +19000,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -17397,7 +19011,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -17407,7 +19022,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -17417,7 +19033,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Seconds In Between Each",
@@ -17427,7 +19044,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/M7ezqiNyFos"
                 },
                 {
                   "name": "Pistol Squat Switching Legs",
@@ -17437,7 +19055,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/iYaY10W1R84"
                 },
                 {
                   "name": "Depth Jump",
@@ -17447,7 +19066,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/jwRuAn13JZg"
                 },
                 {
                   "name": "Dumbbell Squat Jumps",
@@ -17457,7 +19077,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "dumbbell"
+                  "equipment": "dumbbell",
+                  "youtubeUrl": "https://youtu.be/8KMh_1UIHzo"
                 },
                 {
                   "name": "Yard Sprint",
@@ -17467,7 +19088,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/tKpxdNwKLeM"
                 },
                 {
                   "name": "If You Can'T Do A 15 Yard Sprint, Do 4 Tuck Jumps Instead",
@@ -17477,7 +19099,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/4VwH8UrxXjY"
                 },
                 {
                   "name": "Dynamic  Step Ups",
@@ -17487,7 +19110,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/JP9fGNi9GfU"
                 },
                 {
                   "name": "Single Leg Rdl",
@@ -17497,7 +19121,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/djfObUhaAcM"
                 },
                 {
                   "name": "Core Workout 1",
@@ -17507,7 +19132,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/rD_JaUSxe3s"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -17517,7 +19143,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -17527,7 +19154,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -17544,7 +19172,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -17554,7 +19183,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Plyo Push Up Jack Pyramid",
@@ -17564,7 +19194,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fCEoF_qSXZI"
                 },
                 {
                   "name": "Explosive Pull Ups",
@@ -17574,7 +19205,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/2OVzKeSDNKM"
                 },
                 {
                   "name": "Db Bicep Curl To Sp",
@@ -17584,7 +19216,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/RHQIN5n9diQ"
                 },
                 {
                   "name": "Tricep Bench Dips",
@@ -17594,7 +19227,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wTW73XuZXDk"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -17604,7 +19238,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -17614,7 +19249,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -17624,7 +19260,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -17634,7 +19271,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -17644,7 +19282,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -17654,7 +19293,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -17664,7 +19304,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -17681,7 +19322,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -17691,7 +19333,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -17701,7 +19344,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -17711,7 +19355,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Lateral Mirror Drill",
@@ -17721,7 +19366,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/tJMR8atUtOs"
                 },
                 {
                   "name": "F&B Mirror Drill",
@@ -17731,7 +19377,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/RhnVlIIwb2Q"
                 },
                 {
                   "name": "Curved Cone Touch",
@@ -17741,7 +19388,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/hMSX8z6SvVU"
                 },
                 {
                   "name": "Banded First Step 1-2 Pushes",
@@ -17751,7 +19399,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/gvurNWOZsig"
                 },
                 {
                   "name": "Hip Flip 1-2 Pushes",
@@ -17761,7 +19410,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/huwk9VUOwmA"
                 },
                 {
                   "name": "Banded Laterals",
@@ -17771,7 +19421,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/GBOpYJqwl6Y"
                 },
                 {
                   "name": "Backward Sprints",
@@ -17781,7 +19432,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fLaOWSd5xJ8"
                 },
                 {
                   "name": "Power Skips",
@@ -17791,7 +19443,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lGalT8luBJI"
                 },
                 {
                   "name": "Bounding Level 3",
@@ -17801,7 +19454,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ddAtlQ6BAj0"
                 },
                 {
                   "name": "Sled Pulls",
@@ -17811,7 +19465,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/OkKyajsZAXY"
                 },
                 {
                   "name": "Monster Walks",
@@ -17821,7 +19476,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/P9K7vau2Bs0"
                 },
                 {
                   "name": "Lateral Side Steps",
@@ -17831,7 +19487,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/LWp-ekVkgL8"
                 },
                 {
                   "name": "Half Moon Walks",
@@ -17841,7 +19498,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/vtStIqRdav4"
                 },
                 {
                   "name": "Core Workout 2",
@@ -17851,7 +19509,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/JCxrdS-F4TY"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -17861,7 +19520,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -17871,7 +19531,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -17888,7 +19549,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -17898,7 +19560,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Plyo Push Up Jack Pyramid",
@@ -17908,7 +19571,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fCEoF_qSXZI"
                 },
                 {
                   "name": "Explosive Pull Ups",
@@ -17918,7 +19582,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/2OVzKeSDNKM"
                 },
                 {
                   "name": "Db Bicep Curl To Sp",
@@ -17928,7 +19593,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/RHQIN5n9diQ"
                 },
                 {
                   "name": "Tricep Bench Dips",
@@ -17938,7 +19604,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wTW73XuZXDk"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -17948,7 +19615,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -17958,7 +19626,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -17968,7 +19637,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -17978,7 +19648,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -17988,7 +19659,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -17998,7 +19670,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -18008,7 +19681,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -18025,7 +19699,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/u8xxroQrqjU"
                 },
                 {
                   "name": "Foam Rolling",
@@ -18035,7 +19710,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Hip Mobility Routine",
@@ -18045,7 +19721,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/j4QNIVwI3cg"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -18055,7 +19732,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             }
@@ -18077,7 +19755,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -18087,7 +19766,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -18097,7 +19777,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -18107,7 +19788,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Seconds In Between Each",
@@ -18117,7 +19799,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/M7ezqiNyFos"
                 },
                 {
                   "name": "Pistol Squat Switching Legs",
@@ -18127,7 +19810,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/iYaY10W1R84"
                 },
                 {
                   "name": "Depth Jump",
@@ -18137,7 +19821,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/jwRuAn13JZg"
                 },
                 {
                   "name": "Dumbbell Squat Jumps",
@@ -18147,7 +19832,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "dumbbell"
+                  "equipment": "dumbbell",
+                  "youtubeUrl": "https://youtu.be/8KMh_1UIHzo"
                 },
                 {
                   "name": "Yard Sprint",
@@ -18157,7 +19843,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/tKpxdNwKLeM"
                 },
                 {
                   "name": "If You Can'T Do A 15 Yard Sprint, Do 4 Tuck Jumps Instead",
@@ -18167,7 +19854,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/4VwH8UrxXjY"
                 },
                 {
                   "name": "Lateral Step Ups",
@@ -18177,7 +19865,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/JP9fGNi9GfU"
                 },
                 {
                   "name": "Single Leg Rdl",
@@ -18187,7 +19876,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/djfObUhaAcM"
                 },
                 {
                   "name": "Core Workout 3",
@@ -18197,7 +19887,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/2UUiE4VxRaE"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -18207,7 +19898,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -18217,7 +19909,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -18234,7 +19927,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -18244,7 +19938,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Plyo Push Up Jack Pyramid",
@@ -18254,7 +19949,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fCEoF_qSXZI"
                 },
                 {
                   "name": "Explosive Pull Ups",
@@ -18264,7 +19960,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/2OVzKeSDNKM"
                 },
                 {
                   "name": "Db Bicep Curl To Sp",
@@ -18274,7 +19971,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/RHQIN5n9diQ"
                 },
                 {
                   "name": "Tricep Bench Dips",
@@ -18284,7 +19982,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wTW73XuZXDk"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -18294,7 +19993,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -18304,7 +20004,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -18314,7 +20015,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -18324,7 +20026,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -18334,7 +20037,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -18344,7 +20048,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -18354,7 +20059,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -18371,7 +20077,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -18381,7 +20088,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -18391,7 +20099,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -18401,7 +20110,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Backward Sprints",
@@ -18411,7 +20121,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fLaOWSd5xJ8"
                 },
                 {
                   "name": "Power Skips",
@@ -18421,7 +20132,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lGalT8luBJI"
                 },
                 {
                   "name": "Sprints",
@@ -18431,7 +20143,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/qZrRATn-yRM"
                 },
                 {
                   "name": "Bounding Level 3",
@@ -18441,7 +20154,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/ddAtlQ6BAj0"
                 },
                 {
                   "name": "Jump Session",
@@ -18451,7 +20165,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CZcoaT-a0YA"
                 },
                 {
                   "name": "Monster Walks",
@@ -18461,7 +20176,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/P9K7vau2Bs0"
                 },
                 {
                   "name": "Lateral Side Steps",
@@ -18471,7 +20187,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/LWp-ekVkgL8"
                 },
                 {
                   "name": "Half Moon Walks",
@@ -18481,7 +20198,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/vtStIqRdav4"
                 },
                 {
                   "name": "Core Workout 4",
@@ -18491,7 +20209,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/BhM5srYN7hM"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -18501,7 +20220,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -18511,7 +20231,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -18528,7 +20249,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -18538,7 +20260,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Plyo Push Up Jack Pyramid",
@@ -18548,7 +20271,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fCEoF_qSXZI"
                 },
                 {
                   "name": "Explosive Pull Ups",
@@ -18558,7 +20282,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/2OVzKeSDNKM"
                 },
                 {
                   "name": "Db Bicep Curl To Sp",
@@ -18568,7 +20293,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/RHQIN5n9diQ"
                 },
                 {
                   "name": "Tricep Bench Dips",
@@ -18578,7 +20304,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wTW73XuZXDk"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -18588,7 +20315,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -18598,7 +20326,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -18608,7 +20337,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -18618,7 +20348,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -18628,7 +20359,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -18638,7 +20370,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -18648,7 +20381,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -18665,7 +20399,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -18675,7 +20410,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -18685,7 +20421,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -18695,7 +20432,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Seconds In Between Each",
@@ -18705,7 +20443,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/M7ezqiNyFos"
                 },
                 {
                   "name": "Pistol Squat Switching Legs",
@@ -18715,7 +20454,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/iYaY10W1R84"
                 },
                 {
                   "name": "Depth Jump",
@@ -18725,7 +20465,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/jwRuAn13JZg"
                 },
                 {
                   "name": "Dumbbell Squat Jumps",
@@ -18735,7 +20476,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "dumbbell"
+                  "equipment": "dumbbell",
+                  "youtubeUrl": "https://youtu.be/8KMh_1UIHzo"
                 },
                 {
                   "name": "Yard Sprint",
@@ -18745,7 +20487,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/tKpxdNwKLeM"
                 },
                 {
                   "name": "If You Can'T Do A 15 Yard Sprint, Do 4 Tuck Jumps Instead",
@@ -18755,7 +20498,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/4VwH8UrxXjY"
                 },
                 {
                   "name": "Crossover Step Up",
@@ -18765,7 +20509,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/k5xP26grKJg"
                 },
                 {
                   "name": "Single Leg Rdl",
@@ -18775,7 +20520,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/djfObUhaAcM"
                 },
                 {
                   "name": "Core Workout 1",
@@ -18785,7 +20531,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/rD_JaUSxe3s"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -18795,7 +20542,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -18805,7 +20553,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -18822,7 +20571,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -18832,7 +20582,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Plyo Push Up Jack Pyramid",
@@ -18842,7 +20593,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fCEoF_qSXZI"
                 },
                 {
                   "name": "Explosive Pull Ups",
@@ -18852,7 +20604,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/2OVzKeSDNKM"
                 },
                 {
                   "name": "Db Bicep Curl To Sp",
@@ -18862,7 +20615,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/RHQIN5n9diQ"
                 },
                 {
                   "name": "Tricep Bench Dips",
@@ -18872,7 +20626,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wTW73XuZXDk"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -18882,7 +20637,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -18892,7 +20648,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -18902,7 +20659,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -18912,7 +20670,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -18922,7 +20681,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -18932,7 +20692,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -18942,7 +20703,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -18959,7 +20721,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/u8xxroQrqjU"
                 },
                 {
                   "name": "Foam Rolling",
@@ -18969,7 +20732,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Hip Mobility Routine",
@@ -18979,7 +20743,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/j4QNIVwI3cg"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -18989,7 +20754,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             }
@@ -19019,7 +20785,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/u8xxroQrqjU"
                 },
                 {
                   "name": "Foam Rolling",
@@ -19029,7 +20796,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Hip Mobility Routine",
@@ -19039,7 +20807,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/j4QNIVwI3cg"
                 },
                 {
                   "name": "Light Skills Sessions",
@@ -19059,7 +20828,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -19076,7 +20846,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/u8xxroQrqjU"
                 },
                 {
                   "name": "Foam Rolling",
@@ -19086,7 +20857,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Hip Mobility Routine",
@@ -19096,7 +20868,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/j4QNIVwI3cg"
                 },
                 {
                   "name": "Light Skills Sessions",
@@ -19116,7 +20889,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -19133,7 +20907,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -19143,7 +20918,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -19153,7 +20929,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -19163,7 +20940,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Box Mirror Drill",
@@ -19173,7 +20951,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "box"
+                  "equipment": "box",
+                  "youtubeUrl": "https://youtu.be/mo_uzL6DPEg"
                 },
                 {
                   "name": "Diagonal Mirror Drill",
@@ -19183,7 +20962,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/03ooGvlCYeE"
                 },
                 {
                   "name": "Curved Cone Touch",
@@ -19193,7 +20973,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/hMSX8z6SvVU"
                 },
                 {
                   "name": "Banded First Step 1-2 Pushes",
@@ -19203,7 +20984,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/gvurNWOZsig"
                 },
                 {
                   "name": "Hip Flip 1-2 Pushes",
@@ -19213,7 +20995,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/huwk9VUOwmA"
                 },
                 {
                   "name": "Banded Laterals",
@@ -19223,7 +21006,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/GBOpYJqwl6Y"
                 },
                 {
                   "name": "Backward Sprints",
@@ -19233,7 +21017,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fLaOWSd5xJ8"
                 },
                 {
                   "name": "Dumbbell Power Skips",
@@ -19243,7 +21028,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "dumbbell"
+                  "equipment": "dumbbell",
+                  "youtubeUrl": "https://youtu.be/XKpzg-TDqtc"
                 },
                 {
                   "name": "Bounding Level 4",
@@ -19253,7 +21039,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/elnfw669EaI"
                 },
                 {
                   "name": "Sled Pulls",
@@ -19263,7 +21050,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/OkKyajsZAXY"
                 },
                 {
                   "name": "Band Squats",
@@ -19273,7 +21061,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/YaETzNuD4b8"
                 },
                 {
                   "name": "Band Goodmornings",
@@ -19283,7 +21072,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/NJUSy83-kaE"
                 },
                 {
                   "name": "Band Pullthroughs",
@@ -19293,7 +21083,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/T88Efr1DzxQ"
                 },
                 {
                   "name": "Core Workout 2",
@@ -19303,7 +21094,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/JCxrdS-F4TY"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -19313,7 +21105,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -19323,7 +21116,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -19340,7 +21134,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -19350,7 +21145,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Plyo Push Up Jack Pyramid",
@@ -19360,7 +21156,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fCEoF_qSXZI"
                 },
                 {
                   "name": "Switch Grip Pull Ups",
@@ -19370,7 +21167,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/7qnOnPKGbFg"
                 },
                 {
                   "name": "Db Bicep Curl To Sp",
@@ -19380,7 +21178,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/RHQIN5n9diQ"
                 },
                 {
                   "name": "Tricep Bench Dips",
@@ -19390,7 +21189,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wTW73XuZXDk"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -19400,7 +21200,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -19410,7 +21211,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -19420,7 +21222,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -19430,7 +21233,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -19440,7 +21244,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -19450,7 +21255,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -19460,7 +21266,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -19477,7 +21284,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -19487,7 +21295,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -19497,7 +21306,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -19507,7 +21317,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Squat Jumps",
@@ -19517,7 +21328,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/8KMh_1UIHzo"
                 },
                 {
                   "name": "Explosive Step Ups",
@@ -19527,7 +21339,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/FWB7oRkA0Os"
                 },
                 {
                   "name": "Explosive Bulgarian Ss",
@@ -19537,7 +21350,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/VJp2zyzcPWE"
                 },
                 {
                   "name": "Hurdle Jumps",
@@ -19547,7 +21361,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IL_y4_K-dL8"
                 },
                 {
                   "name": "Broad Jumps",
@@ -19557,7 +21372,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/V0q2NAPUUAA"
                 },
                 {
                   "name": "Band Squats",
@@ -19567,7 +21383,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/YaETzNuD4b8"
                 },
                 {
                   "name": "Band Goodmornings",
@@ -19577,7 +21394,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/NJUSy83-kaE"
                 },
                 {
                   "name": "Band Pullthroughs",
@@ -19587,7 +21405,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/T88Efr1DzxQ"
                 },
                 {
                   "name": "Core Workout 3",
@@ -19597,7 +21416,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/2UUiE4VxRaE"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -19607,7 +21427,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -19617,7 +21438,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -19634,7 +21456,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -19644,7 +21467,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Plyo Push Up Jack Pyramid",
@@ -19654,7 +21478,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fCEoF_qSXZI"
                 },
                 {
                   "name": "Switch Grip Pull Ups",
@@ -19664,7 +21489,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/7qnOnPKGbFg"
                 },
                 {
                   "name": "Db Bicep Curl To Sp",
@@ -19674,7 +21500,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/RHQIN5n9diQ"
                 },
                 {
                   "name": "Tricep Bench Dips",
@@ -19684,7 +21511,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wTW73XuZXDk"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -19694,7 +21522,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -19704,7 +21533,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -19714,7 +21544,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -19724,7 +21555,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -19734,7 +21566,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -19744,7 +21577,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -19754,7 +21588,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -19771,7 +21606,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/u8xxroQrqjU"
                 },
                 {
                   "name": "Foam Rolling",
@@ -19781,7 +21617,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Hip Mobility Routine",
@@ -19791,7 +21628,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/j4QNIVwI3cg"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -19801,7 +21639,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             }
@@ -19823,7 +21662,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -19833,7 +21673,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -19843,7 +21684,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -19853,7 +21695,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Backward Sprints",
@@ -19863,7 +21706,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fLaOWSd5xJ8"
                 },
                 {
                   "name": "Power Skips",
@@ -19873,7 +21717,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lGalT8luBJI"
                 },
                 {
                   "name": "Sprints",
@@ -19883,7 +21728,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/qZrRATn-yRM"
                 },
                 {
                   "name": "Bounding Level 4",
@@ -19893,7 +21739,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/elnfw669EaI"
                 },
                 {
                   "name": "Jump Session",
@@ -19903,7 +21750,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CZcoaT-a0YA"
                 },
                 {
                   "name": "Monster Walks",
@@ -19913,7 +21761,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/P9K7vau2Bs0"
                 },
                 {
                   "name": "Lateral Side Steps",
@@ -19923,7 +21772,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/LWp-ekVkgL8"
                 },
                 {
                   "name": "Half Moon Walks",
@@ -19933,7 +21783,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/vtStIqRdav4"
                 },
                 {
                   "name": "Core Workout 4",
@@ -19943,7 +21794,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/BhM5srYN7hM"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -19953,7 +21805,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -19963,7 +21816,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -19980,7 +21834,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -19990,7 +21845,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Plyo Push Up Jack Pyramid",
@@ -20000,7 +21856,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fCEoF_qSXZI"
                 },
                 {
                   "name": "Switch Grip Pull Ups",
@@ -20010,7 +21867,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/7qnOnPKGbFg"
                 },
                 {
                   "name": "Db Bicep Curl To Sp",
@@ -20020,7 +21878,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/RHQIN5n9diQ"
                 },
                 {
                   "name": "Tricep Bench Dips",
@@ -20030,7 +21889,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wTW73XuZXDk"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -20040,7 +21900,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -20050,7 +21911,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -20060,7 +21922,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -20070,7 +21933,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -20080,7 +21944,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -20090,7 +21955,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -20100,7 +21966,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -20117,7 +21984,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -20127,7 +21995,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -20137,7 +22006,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -20147,7 +22017,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Squat Jumps",
@@ -20157,7 +22028,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/8KMh_1UIHzo"
                 },
                 {
                   "name": "Explosive Step Ups",
@@ -20167,7 +22039,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/FWB7oRkA0Os"
                 },
                 {
                   "name": "Explosive Bulgarian Ss",
@@ -20177,7 +22050,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/VJp2zyzcPWE"
                 },
                 {
                   "name": "Hurdle Jumps",
@@ -20187,7 +22061,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IL_y4_K-dL8"
                 },
                 {
                   "name": "Broad Jumps",
@@ -20197,7 +22072,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/V0q2NAPUUAA"
                 },
                 {
                   "name": "Band Squats",
@@ -20207,7 +22083,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/YaETzNuD4b8"
                 },
                 {
                   "name": "Band Goodmornings",
@@ -20217,7 +22094,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/NJUSy83-kaE"
                 },
                 {
                   "name": "Band Pullthroughs",
@@ -20227,7 +22105,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/T88Efr1DzxQ"
                 },
                 {
                   "name": "Core Workout 1",
@@ -20237,7 +22116,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/rD_JaUSxe3s"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -20247,7 +22127,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -20257,7 +22138,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -20274,7 +22156,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -20284,7 +22167,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Plyo Push Up Jack Pyramid",
@@ -20294,7 +22178,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fCEoF_qSXZI"
                 },
                 {
                   "name": "Switch Grip Pull Ups",
@@ -20304,7 +22189,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/7qnOnPKGbFg"
                 },
                 {
                   "name": "Db Bicep Curl To Sp",
@@ -20314,7 +22200,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/RHQIN5n9diQ"
                 },
                 {
                   "name": "Tricep Bench Dips",
@@ -20324,7 +22211,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wTW73XuZXDk"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -20334,7 +22222,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -20344,7 +22233,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -20354,7 +22244,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -20364,7 +22255,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -20374,7 +22266,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -20384,7 +22277,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -20394,7 +22288,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -20411,7 +22306,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -20421,7 +22317,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -20431,7 +22328,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -20441,7 +22339,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Box Mirror Drill",
@@ -20451,7 +22350,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "box"
+                  "equipment": "box",
+                  "youtubeUrl": "https://youtu.be/mo_uzL6DPEg"
                 },
                 {
                   "name": "Diagonal Mirror Drill",
@@ -20461,7 +22361,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/03ooGvlCYeE"
                 },
                 {
                   "name": "Curved Cone Touch",
@@ -20471,7 +22372,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/hMSX8z6SvVU"
                 },
                 {
                   "name": "Banded First Step 1-2 Pushes",
@@ -20481,7 +22383,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/gvurNWOZsig"
                 },
                 {
                   "name": "Hip Flip 1-2 Pushes",
@@ -20491,7 +22394,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/huwk9VUOwmA"
                 },
                 {
                   "name": "Banded Laterals",
@@ -20501,7 +22405,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/GBOpYJqwl6Y"
                 },
                 {
                   "name": "Backward Sprints",
@@ -20511,7 +22416,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fLaOWSd5xJ8"
                 },
                 {
                   "name": "Dumbbell Power Skips",
@@ -20521,7 +22427,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "dumbbell"
+                  "equipment": "dumbbell",
+                  "youtubeUrl": "https://youtu.be/XKpzg-TDqtc"
                 },
                 {
                   "name": "Bounding Level 4",
@@ -20531,7 +22438,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/elnfw669EaI"
                 },
                 {
                   "name": "Sled Pulls",
@@ -20541,7 +22449,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/OkKyajsZAXY"
                 },
                 {
                   "name": "Band Squats",
@@ -20551,7 +22460,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/YaETzNuD4b8"
                 },
                 {
                   "name": "Band Goodmornings",
@@ -20561,7 +22471,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/NJUSy83-kaE"
                 },
                 {
                   "name": "Band Pullthroughs",
@@ -20571,7 +22482,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/T88Efr1DzxQ"
                 },
                 {
                   "name": "Core Workout 2",
@@ -20581,7 +22493,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/JCxrdS-F4TY"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -20591,7 +22504,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -20601,7 +22515,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -20618,7 +22533,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -20628,7 +22544,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Plyo Push Up Jack Pyramid",
@@ -20638,7 +22555,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fCEoF_qSXZI"
                 },
                 {
                   "name": "Switch Grip Pull Ups",
@@ -20648,7 +22566,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/7qnOnPKGbFg"
                 },
                 {
                   "name": "Db Bicep Curl To Sp",
@@ -20658,7 +22577,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/RHQIN5n9diQ"
                 },
                 {
                   "name": "Tricep Bench Dips",
@@ -20668,7 +22588,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wTW73XuZXDk"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -20678,7 +22599,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -20688,7 +22610,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -20698,7 +22621,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -20708,7 +22632,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -20718,7 +22643,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -20728,7 +22654,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -20738,7 +22665,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -20755,7 +22683,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/u8xxroQrqjU"
                 },
                 {
                   "name": "Foam Rolling",
@@ -20765,7 +22694,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Hip Mobility Routine",
@@ -20775,7 +22705,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/j4QNIVwI3cg"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -20785,7 +22716,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             }
@@ -20807,7 +22739,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -20817,7 +22750,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -20827,7 +22761,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -20837,7 +22772,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Squat Jumps",
@@ -20847,7 +22783,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/8KMh_1UIHzo"
                 },
                 {
                   "name": "Explosive Step Ups",
@@ -20857,7 +22794,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/FWB7oRkA0Os"
                 },
                 {
                   "name": "Explosive Bulgarian Ss",
@@ -20867,7 +22805,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/VJp2zyzcPWE"
                 },
                 {
                   "name": "Hurdle Jumps",
@@ -20877,7 +22816,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IL_y4_K-dL8"
                 },
                 {
                   "name": "Broad Jumps",
@@ -20887,7 +22827,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/V0q2NAPUUAA"
                 },
                 {
                   "name": "Band Squats",
@@ -20897,7 +22838,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/YaETzNuD4b8"
                 },
                 {
                   "name": "Band Goodmornings",
@@ -20907,7 +22849,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/NJUSy83-kaE"
                 },
                 {
                   "name": "Band Pullthroughs",
@@ -20917,7 +22860,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/T88Efr1DzxQ"
                 },
                 {
                   "name": "Core Workout 3",
@@ -20927,7 +22871,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/2UUiE4VxRaE"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -20937,7 +22882,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -20947,7 +22893,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -20964,7 +22911,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -20974,7 +22922,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Plyo Push Up Jack Pyramid",
@@ -20984,7 +22933,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fCEoF_qSXZI"
                 },
                 {
                   "name": "Switch Grip Pull Ups",
@@ -20994,7 +22944,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/7qnOnPKGbFg"
                 },
                 {
                   "name": "Db Bicep Curl To Sp",
@@ -21004,7 +22955,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/RHQIN5n9diQ"
                 },
                 {
                   "name": "Tricep Bench Dips",
@@ -21014,7 +22966,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wTW73XuZXDk"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -21024,7 +22977,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -21034,7 +22988,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -21044,7 +22999,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -21054,7 +23010,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -21064,7 +23021,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -21074,7 +23032,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -21084,7 +23043,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -21101,7 +23061,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -21111,7 +23072,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -21121,7 +23083,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -21131,7 +23094,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Backward Sprints",
@@ -21141,7 +23105,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fLaOWSd5xJ8"
                 },
                 {
                   "name": "Power Skips",
@@ -21151,7 +23116,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lGalT8luBJI"
                 },
                 {
                   "name": "Sprints",
@@ -21161,7 +23127,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/qZrRATn-yRM"
                 },
                 {
                   "name": "Bounding Level 4",
@@ -21171,7 +23138,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/elnfw669EaI"
                 },
                 {
                   "name": "Jump Session",
@@ -21181,7 +23149,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CZcoaT-a0YA"
                 },
                 {
                   "name": "Monster Walks",
@@ -21191,7 +23160,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/P9K7vau2Bs0"
                 },
                 {
                   "name": "Lateral Side Steps",
@@ -21201,7 +23171,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/LWp-ekVkgL8"
                 },
                 {
                   "name": "Half Moon Walks",
@@ -21211,7 +23182,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/vtStIqRdav4"
                 },
                 {
                   "name": "Core Workout 4",
@@ -21221,7 +23193,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/BhM5srYN7hM"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -21231,7 +23204,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -21241,7 +23215,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -21258,7 +23233,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -21268,7 +23244,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Plyo Push Up Jack Pyramid",
@@ -21278,7 +23255,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fCEoF_qSXZI"
                 },
                 {
                   "name": "Switch Grip Pull Ups",
@@ -21288,7 +23266,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/7qnOnPKGbFg"
                 },
                 {
                   "name": "Db Bicep Curl To Sp",
@@ -21298,7 +23277,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/RHQIN5n9diQ"
                 },
                 {
                   "name": "Tricep Bench Dips",
@@ -21308,7 +23288,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wTW73XuZXDk"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -21318,7 +23299,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -21328,7 +23310,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -21338,7 +23321,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -21348,7 +23332,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -21358,7 +23343,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -21368,7 +23354,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -21378,7 +23365,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -21395,7 +23383,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -21405,7 +23394,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -21415,7 +23405,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -21425,7 +23416,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Squat Jumps",
@@ -21435,7 +23427,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/8KMh_1UIHzo"
                 },
                 {
                   "name": "Explosive Step Ups",
@@ -21445,7 +23438,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/FWB7oRkA0Os"
                 },
                 {
                   "name": "Explosive Bulgarian Ss",
@@ -21455,7 +23449,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/VJp2zyzcPWE"
                 },
                 {
                   "name": "Hurdle Jumps",
@@ -21465,7 +23460,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IL_y4_K-dL8"
                 },
                 {
                   "name": "Broad Jumps",
@@ -21475,7 +23471,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/V0q2NAPUUAA"
                 },
                 {
                   "name": "Band Squats",
@@ -21485,7 +23482,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/YaETzNuD4b8"
                 },
                 {
                   "name": "Band Goodmornings",
@@ -21495,7 +23493,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/NJUSy83-kaE"
                 },
                 {
                   "name": "Band Pullthroughs",
@@ -21505,7 +23504,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/T88Efr1DzxQ"
                 },
                 {
                   "name": "Core Workout 1",
@@ -21515,7 +23515,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/rD_JaUSxe3s"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -21525,7 +23526,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -21535,7 +23537,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -21552,7 +23555,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -21562,7 +23566,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Plyo Push Up Jack Pyramid",
@@ -21572,7 +23577,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fCEoF_qSXZI"
                 },
                 {
                   "name": "Switch Grip Pull Ups",
@@ -21582,7 +23588,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/7qnOnPKGbFg"
                 },
                 {
                   "name": "Db Bicep Curl To Sp",
@@ -21592,7 +23599,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/RHQIN5n9diQ"
                 },
                 {
                   "name": "Tricep Bench Dips",
@@ -21602,7 +23610,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wTW73XuZXDk"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -21612,7 +23621,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -21622,7 +23632,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -21632,7 +23643,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -21642,7 +23654,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -21652,7 +23665,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -21662,7 +23676,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -21672,7 +23687,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -21689,7 +23705,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/u8xxroQrqjU"
                 },
                 {
                   "name": "Foam Rolling",
@@ -21699,7 +23716,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Hip Mobility Routine",
@@ -21709,7 +23727,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/j4QNIVwI3cg"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -21719,7 +23738,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             }
@@ -21741,7 +23761,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -21751,7 +23772,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -21761,7 +23783,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -21771,7 +23794,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Box Mirror Drill",
@@ -21781,7 +23805,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "box"
+                  "equipment": "box",
+                  "youtubeUrl": "https://youtu.be/mo_uzL6DPEg"
                 },
                 {
                   "name": "Diagonal Mirror Drill",
@@ -21791,7 +23816,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/03ooGvlCYeE"
                 },
                 {
                   "name": "Curved Cone Touch",
@@ -21801,7 +23827,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/hMSX8z6SvVU"
                 },
                 {
                   "name": "Banded First Step 1-2 Pushes",
@@ -21811,7 +23838,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/gvurNWOZsig"
                 },
                 {
                   "name": "Hip Flip 1-2 Pushes",
@@ -21821,7 +23849,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/huwk9VUOwmA"
                 },
                 {
                   "name": "Banded Laterals",
@@ -21831,7 +23860,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/GBOpYJqwl6Y"
                 },
                 {
                   "name": "Backward Sprints",
@@ -21841,7 +23871,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fLaOWSd5xJ8"
                 },
                 {
                   "name": "Dumbbell Power Skips",
@@ -21851,7 +23882,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "dumbbell"
+                  "equipment": "dumbbell",
+                  "youtubeUrl": "https://youtu.be/XKpzg-TDqtc"
                 },
                 {
                   "name": "Bounding Level 4",
@@ -21861,7 +23893,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/elnfw669EaI"
                 },
                 {
                   "name": "Sled Pulls",
@@ -21871,7 +23904,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/OkKyajsZAXY"
                 },
                 {
                   "name": "Band Squats",
@@ -21881,7 +23915,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/YaETzNuD4b8"
                 },
                 {
                   "name": "Band Goodmornings",
@@ -21891,7 +23926,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/NJUSy83-kaE"
                 },
                 {
                   "name": "Band Pullthroughs",
@@ -21901,7 +23937,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/T88Efr1DzxQ"
                 },
                 {
                   "name": "Core Workout 2",
@@ -21911,7 +23948,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/JCxrdS-F4TY"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -21921,7 +23959,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -21931,7 +23970,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -21948,7 +23988,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -21958,7 +23999,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Plyo Push Up Jack Pyramid",
@@ -21968,7 +24010,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fCEoF_qSXZI"
                 },
                 {
                   "name": "Switch Grip Pull Ups",
@@ -21978,7 +24021,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/7qnOnPKGbFg"
                 },
                 {
                   "name": "Db Bicep Curl To Sp",
@@ -21988,7 +24032,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/RHQIN5n9diQ"
                 },
                 {
                   "name": "Tricep Bench Dips",
@@ -21998,7 +24043,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wTW73XuZXDk"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -22008,7 +24054,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -22018,7 +24065,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -22028,7 +24076,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -22038,7 +24087,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -22048,7 +24098,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -22058,7 +24109,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -22068,7 +24120,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -22085,7 +24138,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -22095,7 +24149,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -22105,7 +24160,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -22115,7 +24171,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Squat Jumps",
@@ -22125,7 +24182,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/8KMh_1UIHzo"
                 },
                 {
                   "name": "Explosive Step Ups",
@@ -22135,7 +24193,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/FWB7oRkA0Os"
                 },
                 {
                   "name": "Explosive Bulgarian Ss",
@@ -22145,7 +24204,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/VJp2zyzcPWE"
                 },
                 {
                   "name": "Hurdle Jumps",
@@ -22155,7 +24215,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IL_y4_K-dL8"
                 },
                 {
                   "name": "Broad Jumps",
@@ -22165,7 +24226,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/V0q2NAPUUAA"
                 },
                 {
                   "name": "Band Squats",
@@ -22175,7 +24237,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/YaETzNuD4b8"
                 },
                 {
                   "name": "Band Goodmornings",
@@ -22185,7 +24248,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/NJUSy83-kaE"
                 },
                 {
                   "name": "Band Pullthroughs",
@@ -22195,7 +24259,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "resistance band"
+                  "equipment": "resistance band",
+                  "youtubeUrl": "https://youtu.be/T88Efr1DzxQ"
                 },
                 {
                   "name": "Core Workout 3",
@@ -22205,7 +24270,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/2UUiE4VxRaE"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -22215,7 +24281,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -22225,7 +24292,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -22242,7 +24310,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -22252,7 +24321,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Plyo Push Up Jack Pyramid",
@@ -22262,7 +24332,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fCEoF_qSXZI"
                 },
                 {
                   "name": "Switch Grip Pull Ups",
@@ -22272,7 +24343,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/7qnOnPKGbFg"
                 },
                 {
                   "name": "Db Bicep Curl To Sp",
@@ -22282,7 +24354,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/RHQIN5n9diQ"
                 },
                 {
                   "name": "Tricep Bench Dips",
@@ -22292,7 +24365,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wTW73XuZXDk"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -22302,7 +24376,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -22312,7 +24387,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -22322,7 +24398,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -22332,7 +24409,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -22342,7 +24420,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -22352,7 +24431,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -22362,7 +24442,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -22379,7 +24460,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/IoPvijC5TgY"
                 },
                 {
                   "name": "Optional Foam Rolling",
@@ -22389,7 +24471,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Reverse Deadmills",
@@ -22399,7 +24482,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/Nh8S1dOpDic"
                 },
                 {
                   "name": "Quick Mobility",
@@ -22409,7 +24493,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/mK2XsIEtiko"
                 },
                 {
                   "name": "Backward Sprints",
@@ -22419,7 +24504,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fLaOWSd5xJ8"
                 },
                 {
                   "name": "Power Skips",
@@ -22429,7 +24515,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/lGalT8luBJI"
                 },
                 {
                   "name": "Sprints",
@@ -22439,7 +24526,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/qZrRATn-yRM"
                 },
                 {
                   "name": "Bounding Level 4",
@@ -22449,7 +24537,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/elnfw669EaI"
                 },
                 {
                   "name": "Jump Session",
@@ -22459,7 +24548,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/CZcoaT-a0YA"
                 },
                 {
                   "name": "Monster Walks",
@@ -22469,7 +24559,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/P9K7vau2Bs0"
                 },
                 {
                   "name": "Lateral Side Steps",
@@ -22479,7 +24570,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/LWp-ekVkgL8"
                 },
                 {
                   "name": "Half Moon Walks",
@@ -22489,7 +24581,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/vtStIqRdav4"
                 },
                 {
                   "name": "Core Workout 4",
@@ -22499,7 +24592,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/BhM5srYN7hM"
                 },
                 {
                   "name": "Optional Static Stretching",
@@ -22509,7 +24603,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/S83Dq7GKPEc"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -22519,7 +24614,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -22536,7 +24632,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wlGJTmhV0RQ"
                 },
                 {
                   "name": "Shoulders, Hips & Spine",
@@ -22546,7 +24643,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/gzYsHWHmRyA"
                 },
                 {
                   "name": "Plyo Push Up Jack Pyramid",
@@ -22556,7 +24654,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/fCEoF_qSXZI"
                 },
                 {
                   "name": "Switch Grip Pull Ups",
@@ -22566,7 +24665,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/7qnOnPKGbFg"
                 },
                 {
                   "name": "Db Bicep Curl To Sp",
@@ -22576,7 +24676,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/RHQIN5n9diQ"
                 },
                 {
                   "name": "Tricep Bench Dips",
@@ -22586,7 +24687,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wTW73XuZXDk"
                 },
                 {
                   "name": "Superman Lat Pull",
@@ -22596,7 +24698,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/yLB7SlAfzHM"
                 },
                 {
                   "name": "Bear Taps",
@@ -22606,7 +24709,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Ot1JtciDZU"
                 },
                 {
                   "name": "Crab Taps",
@@ -22616,7 +24720,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/5Nco-TO-KN8"
                 },
                 {
                   "name": "Swimmers",
@@ -22626,7 +24731,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/PzNzTuYX-bA"
                 },
                 {
                   "name": "Small Arm Circles",
@@ -22636,7 +24742,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "isolation",
                   "muscleGroup": "upper_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/wMOWod8p7uo"
                 },
                 {
                   "name": "L Sit Hold",
@@ -22646,7 +24753,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "core",
                   "muscleGroup": "core",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/zY1M4qSVC10"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -22656,7 +24764,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             },
@@ -22673,7 +24782,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "plyometric",
                   "muscleGroup": "legs",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/u8xxroQrqjU"
                 },
                 {
                   "name": "Foam Rolling",
@@ -22683,7 +24793,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/naZ2WrDGzqE"
                 },
                 {
                   "name": "Hip Mobility Routine",
@@ -22693,7 +24804,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "warmup",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/j4QNIVwI3cg"
                 },
                 {
                   "name": "Breathing & Visualization",
@@ -22703,7 +24815,8 @@ export const btrProgram = {
                   "notes": "",
                   "category": "mobility",
                   "muscleGroup": "full_body",
-                  "equipment": "bodyweight"
+                  "equipment": "bodyweight",
+                  "youtubeUrl": "https://youtu.be/-Oum4qHVzjM"
                 }
               ]
             }

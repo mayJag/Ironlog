@@ -3,6 +3,7 @@ import { useLocation, useNavigate } from 'react-router-dom';
 import { X, Check, Plus, Clock, Trophy, Dumbbell, ChevronDown, ChevronUp, AlertTriangle, Play, Pause } from 'lucide-react';
 import { saveWorkoutLog, getPersonalRecord, savePersonalRecord, getAllWorkoutLogs } from '../store/db';
 import RestTimer from '../components/RestTimer';
+import { getExerciseVideoUrl } from '../data/exerciseVideos';
 import { MASTER_EXERCISES } from './PlanBuilder';
 import styles from './ActiveWorkout.module.css';
 
@@ -431,6 +432,16 @@ export default function ActiveWorkout() {
                   <div className={styles.badges}>
                     {ex.muscleGroup && <span className="badge badge--accent">{ex.muscleGroup}</span>}
                     {ex.equipment && <span className="badge badge--blue">{ex.equipment}</span>}
+                    {(ex.youtubeUrl || getExerciseVideoUrl(ex.name)) && (
+                      <a
+                        href={ex.youtubeUrl || getExerciseVideoUrl(ex.name)}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className={`${styles.tutorialBadge} badge badge--amber`}
+                      >
+                        <Play size={10} fill="currentColor" style={{ marginRight: '4px' }} /> Tutorial
+                      </a>
+                    )}
                   </div>
                 </div>
 

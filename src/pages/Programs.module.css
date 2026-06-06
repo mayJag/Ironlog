@@ -328,3 +328,28 @@
 .rotate180 {
   transform: rotate(180deg);
 }
+
+.tutorialLink {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--sp-1);
+  font-size: var(--fs-xs);
+  color: var(--color-amber-500);
+  font-weight: var(--fw-bold);
+  text-decoration: none;
+  margin-top: var(--sp-1);
+  transition: color var(--duration-fast) var(--ease-out), transform var(--duration-fast) var(--ease-out);
+  cursor: pointer;
+  width: fit-content;
+}
+
+.tutorialLink:hover {
+  color: var(--color-amber-400);
+  transform: translateX(2px);
+}
+
+.videoIcon {
+  display: inline-block;
+  color: currentColor;
+}
+

@@ -5,6 +5,7 @@ import { btrProgram } from '../data/btrProgram';
 import { nippardProgram } from '../data/nippardProgram';
 import { hybridProgram } from '../data/hybridProgram';
 import { savePlan, setSetting } from '../store/db';
+import { getExerciseVideoUrl } from '../data/exerciseVideos';
 import styles from './Programs.module.css';
 
 export default function Programs() {
@@ -417,6 +418,16 @@ export default function Programs() {
                                 </span>
                               )}
                             </div>
+                            {(ex.youtubeUrl || getExerciseVideoUrl(ex.name)) && (
+                              <a
+                                href={ex.youtubeUrl || getExerciseVideoUrl(ex.name)}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className={styles.tutorialLink}
+                              >
+                                <Play size={12} fill="currentColor" className={styles.videoIcon} /> Watch Tutorial
+                              </a>
+                            )}
                           </div>
                           {ex.notes && (
                             <p className={styles.exerciseNotes}>

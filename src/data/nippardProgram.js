@@ -37,7 +37,8 @@ export const nippardProgram = {
               "notes": "FOCUS ON TECHNIQUE AND EXPLOSIVE POWER!",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=bEv6CCg2BC8&t"
             },
             {
               "name": "SQUAT",
@@ -50,7 +51,8 @@ export const nippardProgram = {
               "notes": "KEEP BACK ANGLE AND FORM CONSISTENT ACROSS ALL REPS",
               "category": "isolation",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=bEv6CCg2BC8&t"
             },
             {
               "name": "PRESS",
@@ -63,7 +65,8 @@ export const nippardProgram = {
               "notes": "RESET EACH REP (DON'T TOUCH-AND-PRESS)",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=_RlRDWO2jfg"
             },
             {
               "name": "HAM RAISE",
@@ -76,7 +79,8 @@ export const nippardProgram = {
               "notes": "KEEP YOUR HIPS STRAIGHT, DO NORDIC HAM CURLS IF NO GHR MACHINE",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/psdbgvbdd_M"
             },
             {
               "name": "ROW",
@@ -89,7 +93,8 @@ export const nippardProgram = {
               "notes": "STRICT FORM. DRIVE ELBOWS OUT AND BACK AT 45 DEGREE ANGLE",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/axoeDmW0oAY?t=419"
             },
             {
               "name": "CURL",
@@ -102,7 +107,8 @@ export const nippardProgram = {
               "notes": "KEEP ELBOWS LOCKED IN PLACE, SQUEEZE THE DUMBBELL HANDLE HARD!",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/Kd3tbUnbueU"
             }
           ]
         },
@@ -130,7 +136,8 @@ export const nippardProgram = {
               "notes": "CONVENTIONAL OR SUMO: USE WHATEVER STANCE YOU ARE STRONGER WITH",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=VL5Ab0T07e4&"
             },
             {
               "name": "BENCH PRESS",
@@ -143,7 +150,8 @@ export const nippardProgram = {
               "notes": "TOP SET. LEAVE 1 (MAYBE 2) REPS IN THE TANK. HARD SET.",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=vcBig73ojpE"
             },
             {
               "name": "BENCH PRESS",
@@ -156,7 +164,8 @@ export const nippardProgram = {
               "notes": "QUICK 1 SECOND PAUSE ON THE CHEST ON EACH REP",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=vcBig73ojpE"
             },
             {
               "name": "ABDUCTION",
@@ -169,7 +178,8 @@ export const nippardProgram = {
               "notes": "MACHINE, BAND OR WEIGHTED, 1 SECOND ISOMETRIC HOLD AT THE TOP OF EACH REP",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/zfUWbpdjczg"
             },
             {
               "name": "PULL-UP",
@@ -182,7 +192,8 @@ export const nippardProgram = {
               "notes": "1.5X SHOULDER WIDTH GRIP , PULL YOUR CHEST TO THE BAR",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=Hdc7Mw6BIEE"
             },
             {
               "name": "CALF RAISE",
@@ -195,7 +206,8 @@ export const nippardProgram = {
               "notes": "1-2 SECOND PAUSE AT THE BOTTOM OF EACH REP , FULL ROM",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-qsRtp_PbVM"
             }
           ]
         },
@@ -223,7 +235,8 @@ export const nippardProgram = {
               "notes": "MAINTAIN TIGHT PRESSURE IN YOUR UPPER BACK AGAINST THE BAR",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=bEv6CCg2BC8&t"
             },
             {
               "name": "DIP",
@@ -236,7 +249,8 @@ export const nippardProgram = {
               "notes": "DO DUMBBELL FLOOR PRESS IF NO ACCESS TO DIP HANDLES",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=yN6Q1UI_xkE&"
             },
             {
               "name": "LEG RAISE",
@@ -249,7 +263,8 @@ export const nippardProgram = {
               "notes": "KNEES TO CHEST, CONTROLLED REPS, STRAIGHTEN LEGS MORE TO INCREASE DIFFICULTY",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/2RrGnjxSsiA?t=247"
             },
             {
               "name": "PULL-OVER",
@@ -262,7 +277,8 @@ export const nippardProgram = {
               "notes": "CAN USE A DB, CABLE/ROPE OR BAND, STRETCH AND SQUEEZE LATS!",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/Jlw-Vtypr-Y"
             },
             {
               "name": "DUMBBELL CURL",
@@ -275,7 +291,8 @@ export const nippardProgram = {
               "notes": "DO EACH ARM ONE AT A TIME RATHER THAN ALTERNATING, START WITH YOUR WEAK ARM",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/3FAvFJ0Vtag"
             }
           ]
         },
@@ -311,7 +328,8 @@ export const nippardProgram = {
               "notes": "3 SECOND PAUSE RIGHT AFTER THE PLATES COME OFF THE GROUND",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=VL5Ab0T07e4&"
             },
             {
               "name": "BARBELL BENCH PRESS",
@@ -324,7 +342,8 @@ export const nippardProgram = {
               "notes": "2-3 SECOND PAUSE ON THE CHEST",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=vcBig73ojpE"
             },
             {
               "name": "PENDLAY ROW",
@@ -337,7 +356,8 @@ export const nippardProgram = {
               "notes": "BE MINDFUL OF LOWER BACK FATIGUE. STAY LIGHT, MINIMIZE CHEATING",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=axoeDmW0oAY"
             },
             {
               "name": "HAM CURL",
@@ -350,7 +370,8 @@ export const nippardProgram = {
               "notes": "SEE VIDEO DEMOS PAGE, CAN SUB FOR LYING LEG CURL",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/e_48W0vlU58"
             },
             {
               "name": "SHRUG",
@@ -363,7 +384,8 @@ export const nippardProgram = {
               "notes": "FEEL A STRETCH ON THE TRAPS AT THE BOTTOM, SQUEEZE HARD AT THE TOP",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/C6sYjDFuq9I?t=326"
             }
           ]
         },
@@ -391,7 +413,8 @@ export const nippardProgram = {
               "notes": "CURL THE BAR OUT AND UP IN AN ARC. MINIMIZE MOMENTUM.",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=i1YgFZB6alI&t"
             },
             {
               "name": "FLOOR SKULL CRUSHER",
@@ -404,7 +427,8 @@ export const nippardProgram = {
               "notes": "ARC THE BAR BACK BEHIND YOUR HEAD, SOFT TOUCH ON THE FLOOR BEHIND YOU",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/popGXI-qs98?t=154"
             },
             {
               "name": "DUMBBELL LATERAL RAISE",
@@ -417,7 +441,8 @@ export const nippardProgram = {
               "notes": "ARC THE DUMBBELL OUT, MIND-MUSCLE CONNECTION WITH MIDDLE FIBERS",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=v_ZkxWzYnMc"
             },
             {
               "name": "BAND PULL-APART",
@@ -430,7 +455,8 @@ export const nippardProgram = {
               "notes": "MIND-MUSCLE CONNECTION WITH REAR DELTS",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/bN_lGBqZURw"
             },
             {
               "name": "STANDING CALF RAISE",
@@ -443,7 +469,8 @@ export const nippardProgram = {
               "notes": "1-2 SECOND PAUSE AT THE BOTTOM OF EACH REP , FULL SQUEEZE AT THE TOP",
               "category": "isolation",
               "muscleGroup": "legs",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-qsRtp_PbVM"
             },
             {
               "name": "BICYCLE CRUNCH",
@@ -456,7 +483,8 @@ export const nippardProgram = {
               "notes": "FOCUS ON ROUNDING YOUR BACK AS YOU CRUNCH HARD!",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/2RrGnjxSsiA?t=371"
             }
           ]
         },
@@ -499,7 +527,8 @@ export const nippardProgram = {
               "notes": "BRACE YOUR LATS, CHEST TALL, PULL THE SLACK OUT OF THE BAR BEFORE LIFTING",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=VL5Ab0T07e4&"
             },
             {
               "name": "HIGH-BAR SQUAT",
@@ -512,7 +541,8 @@ export const nippardProgram = {
               "notes": "IF YOU SQUAT HIGH-BAR, DO SUMO BOX SQUAT. IF YOU SQUAT LOW-BAR, DO PAUSE HIGH-",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://youtu.be/TSCMUTG5yBI"
             },
             {
               "name": "PULL-THROUGH",
@@ -525,7 +555,8 @@ export const nippardProgram = {
               "notes": "CAN USE CABLE/ROPE OR BAND, USE YOUR GLUTES TO MOVE THE WEIGHT",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/NV8oPOpLsQU"
             },
             {
               "name": "CURL",
@@ -538,7 +569,8 @@ export const nippardProgram = {
               "notes": "DO LYING LEG CURL MACHINE OR NORDIC HAM CURL IF NO MACHINE ACCESS",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/Kd3tbUnbueU"
             },
             {
               "name": "CALF RAISE",
@@ -551,7 +583,8 @@ export const nippardProgram = {
               "notes": "1-2 SECOND PAUSE AT THE BOTTOM OF EACH REP , FULL SQUEEZE AT THE TOP",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-qsRtp_PbVM"
             }
           ]
         },
@@ -578,7 +611,8 @@ export const nippardProgram = {
               "notes": "TOP SET. LEAVE ~2 REPS IN THE TANK. HARD SET.",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=vcBig73ojpE"
             },
             {
               "name": "BENCH PRESS",
@@ -591,7 +625,8 @@ export const nippardProgram = {
               "notes": "SET UP A COMFORTABLE ARCH, SLIGHT PAUSE ON THE CHEST, EXPLODE UP",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=vcBig73ojpE"
             },
             {
               "name": "CHIN-UP",
@@ -604,7 +639,8 @@ export const nippardProgram = {
               "notes": "UNDERHAND GRIP , PULL YOUR CHEST TO THE BAR, ADD WEIGHT IF NEEDED TO HIT RPE",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/-d2Uui6MtRk"
             },
             {
               "name": "PRESS",
@@ -617,7 +653,8 @@ export const nippardProgram = {
               "notes": "ROTATE THE DBS IN AT THE BOTTOM AND OUT AT THE TOP",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=_RlRDWO2jfg"
             },
             {
               "name": "ROW",
@@ -630,7 +667,8 @@ export const nippardProgram = {
               "notes": "LIE ON AN INCLINE BENCH AND DO ROWS - PULL WITH LATS!",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/axoeDmW0oAY?t=419"
             },
             {
               "name": "PULL",
@@ -643,7 +681,8 @@ export const nippardProgram = {
               "notes": "CAN USE CABLE/ROPE OR BAND, RETRACT YOUR SHOULDER BLADES AS YOU PULL",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=qfc70k40318"
             },
             {
               "name": "LATERAL RAISE",
@@ -656,7 +695,8 @@ export const nippardProgram = {
               "notes": "ARC THE DUMBBELL OUT, MIND-MUSCLE CONNECTION WITH MIDDLE FIBERS",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=v_ZkxWzYnMc"
             },
             {
               "name": "BICEP CURL",
@@ -669,7 +709,8 @@ export const nippardProgram = {
               "notes": "PIN YOUR ELBOW AGAINST YOUR UPPER LEG OR THE BACK OF A BENCH",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/kr4LtmKn9EE"
             }
           ]
         },
@@ -696,7 +737,8 @@ export const nippardProgram = {
               "notes": "SIT BACK AND DOWN, KEEP YOUR UPPER BACK TIGHT TO THE BAR",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=bEv6CCg2BC8&t"
             },
             {
               "name": "MORNING",
@@ -709,7 +751,8 @@ export const nippardProgram = {
               "notes": "SAME AS SQUAT STANCE, KEEP SHINS STRAIGHT, GO LIGHTER AND \"FEEL\" HAMSTRINGS",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=f23vXjoG2e8"
             },
             {
               "name": "EXTENSION",
@@ -722,7 +765,8 @@ export const nippardProgram = {
               "notes": "USE BANDS IF NO MACHINE ACCESS, MIND-MUSCLE CONNECTION WITH QUADS",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=ljO4jkwv8wQ"
             },
             {
               "name": "CALF RAISE",
@@ -735,7 +779,8 @@ export const nippardProgram = {
               "notes": "EMPHASIZE THE MIND-MUSCLE CONNECTION",
               "category": "isolation",
               "muscleGroup": "legs",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-qsRtp_PbVM"
             },
             {
               "name": "ABDUCTION",
@@ -748,7 +793,8 @@ export const nippardProgram = {
               "notes": "POINT TOES SLIGHTLY OUTWARD, MIND-MUSCLE CONNECTION WITH GLUTES",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/zfUWbpdjczg"
             },
             {
               "name": "SIT-UP",
@@ -761,7 +807,8 @@ export const nippardProgram = {
               "notes": "THINK ABOUT SQUEEZING YOUR UPPER AND LOWER ABS TOGETHERWEEK 2 JEFF NIPPARD'S - POWERBUILDING SYSTEM",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/h-kVpuNoGaA"
             }
           ]
         },
@@ -788,7 +835,8 @@ export const nippardProgram = {
               "notes": "SQUEEZE YOUR GLUTES TO KEEP YOUR TORSO UPRIGHT, PRESS UP AND SLIGHTLY BACK",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=_RlRDWO2jfg"
             },
             {
               "name": "SINGLE-ARM LAT PULLDOWN",
@@ -801,7 +849,8 @@ export const nippardProgram = {
               "notes": "PERFORM WITH BANDS IF NO LAT PULLDOWN, DRIVE ELBOWS DOWN AND IN",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/tQ2LSSP_0GQ?t=437"
             },
             {
               "name": "CLOSE-GRIP BENCH PRESS",
@@ -814,7 +863,8 @@ export const nippardProgram = {
               "notes": "SHOULDER WIDTH GRIP , TUCK YOUR ELBOWS IN CLOSER TO YOUR TORSO",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://youtu.be/xGfUcV11x5g"
             },
             {
               "name": "ROW",
@@ -827,7 +877,8 @@ export const nippardProgram = {
               "notes": "BE MINDFUL OF LOWER BACK FATIGUE. STAY LIGHT, MINIMIZE CHEATING",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/axoeDmW0oAY?t=419"
             },
             {
               "name": "FLYE",
@@ -840,7 +891,8 @@ export const nippardProgram = {
               "notes": "PERFORM WITH CABLE, BANDS OR DUMBBELLS, USE A FULL ROM",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-EIhKMDSjBY"
             },
             {
               "name": "INCLINE SHRUG",
@@ -853,7 +905,8 @@ export const nippardProgram = {
               "notes": "LIE FACE DOWN AGAINST AN INCLINE BENCH AND DO SHRUGS - FULL ROM AND SQUEEZE!",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/HsdwUZtGG_0"
             },
             {
               "name": "UPRIGHT ROW",
@@ -866,7 +919,8 @@ export const nippardProgram = {
               "notes": "CAN USE CABLES/ROPE, BANDS OR DUMBBELLS. STOP ROM ONCE ELBOWS REACH SHOULDER",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=nwkLwMRHMQo"
             },
             {
               "name": "SKULL CRUSHER",
@@ -879,7 +933,8 @@ export const nippardProgram = {
               "notes": "DO THESE ON A BENCH, CONSTANT TENSION ON TRICEPS",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=popGXI-qs98"
             }
           ]
         },
@@ -906,7 +961,8 @@ export const nippardProgram = {
               "notes": "DO BLOCK PULLS FROM A 5\" BLOCK (CAN STACK 45LB + 10LB BUMPER PLATES AS BLOCKS)",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/qOH1ZqkW-hw"
             },
             {
               "name": "SPLIT SQUAT",
@@ -919,7 +975,8 @@ export const nippardProgram = {
               "notes": "12 REPS EACH LEG, KEEP YOUR TORSO UPRIGHT, CONSTANT-TENSION ON QUADS",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://youtu.be/htDXu61MPio"
             },
             {
               "name": "HIP THRUST",
@@ -932,7 +989,8 @@ export const nippardProgram = {
               "notes": "DO BARBELL HIP THRUSTS IF NO MACHINE, USE GLUTES TO MOVE THE WEIGHT",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=xDmFkJxPzeM"
             },
             {
               "name": "CALF RAISE",
@@ -945,7 +1003,8 @@ export const nippardProgram = {
               "notes": "DO STANDING IF NO MACHINE, EMPHASIZE THE MIND-MUSCLE CONNECTION",
               "category": "isolation",
               "muscleGroup": "legs",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-qsRtp_PbVM"
             },
             {
               "name": "LEG RAISE",
@@ -958,7 +1017,8 @@ export const nippardProgram = {
               "notes": "KNEES TO CHEST, CONTROLLED REPS, STRAIGHTEN LEGS MORE TO INCREASE DIFFICULTY",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/2RrGnjxSsiA?t=247"
             }
           ]
         },
@@ -985,7 +1045,8 @@ export const nippardProgram = {
               "notes": "SHOULDER BLADES STILL RETRACTED AND DEPRESSED. SLIGHT ARCH IN UPPER BACK.",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=_RlRDWO2jfg"
             },
             {
               "name": "PULL-UP",
@@ -998,7 +1059,8 @@ export const nippardProgram = {
               "notes": "3 SECOND NEGATIVE ON EVERY REP , MAINTAIN CONTROLLED FORM FOR ALL REPS",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=Hdc7Mw6BIEE"
             },
             {
               "name": "DIP",
@@ -1011,7 +1073,8 @@ export const nippardProgram = {
               "notes": "DO DUMBBELL FLOOR PRESS IF NO ACCESS TO DIP HANDLES",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=yN6Q1UI_xkE&"
             },
             {
               "name": "SINGLE-ARM ROW",
@@ -1024,7 +1087,8 @@ export const nippardProgram = {
               "notes": "CAN USE CABLES, BANDS OR DUMBBELLS - FEEL YOUR LATS WORKING!",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=djKXLt7kv7Q"
             },
             {
               "name": "OR EZ BAR CURL",
@@ -1037,7 +1101,8 @@ export const nippardProgram = {
               "notes": "FOCUS ON THE MIND-MUSCLE CONNECTION",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=i1YgFZB6alI&t"
             },
             {
               "name": "LEAN-AWAY LATERAL RAISE",
@@ -1050,7 +1115,8 @@ export const nippardProgram = {
               "notes": "USE A LIGHT DUMBBELL, CONSTANT-TENSION, NO PAUSE AT THE BOTTOM",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/0VvQ6olHi4I"
             },
             {
               "name": "CRUNCH",
@@ -1063,7 +1129,8 @@ export const nippardProgram = {
               "notes": "KEEP YOUR HANDS BEHIND YOUR EARSWEEK 2 JEFF NIPPARD'S - POWERBUILDING SYSTEM",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/2RrGnjxSsiA?t=371"
             }
           ]
         },
@@ -1107,7 +1174,8 @@ export const nippardProgram = {
               "notes": "TOP SET. LEAVE 1 (MAYBE 2) REPS IN THE TANK. PUSH IT!",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=bEv6CCg2BC8&t"
             },
             {
               "name": "SQUAT",
@@ -1120,7 +1188,8 @@ export const nippardProgram = {
               "notes": "KEEP BACK ANGLE AND FORM CONSISTENT ACROSS ALL REPS",
               "category": "isolation",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=bEv6CCg2BC8&t"
             },
             {
               "name": "PRESS",
@@ -1133,7 +1202,8 @@ export const nippardProgram = {
               "notes": "RESET EACH REP (DON'T TOUCH-AND-PRESS)",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=_RlRDWO2jfg"
             },
             {
               "name": "HAM RAISE",
@@ -1146,7 +1216,8 @@ export const nippardProgram = {
               "notes": "KEEP YOUR HIPS STRAIGHT, DO NORDIC HAM CURLS IF NO GHR MACHINE",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/psdbgvbdd_M"
             },
             {
               "name": "ROW",
@@ -1159,7 +1230,8 @@ export const nippardProgram = {
               "notes": "STRICT FORM. DRIVE ELBOWS OUT AND BACK AT 45 DEGREE ANGLE",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/axoeDmW0oAY?t=419"
             },
             {
               "name": "CURL",
@@ -1172,7 +1244,8 @@ export const nippardProgram = {
               "notes": "KEEP ELBOWS LOCKED IN PLACE, SQUEEZE THE DUMBBELL HANDLE HARD!",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/Kd3tbUnbueU"
             }
           ]
         },
@@ -1200,7 +1273,8 @@ export const nippardProgram = {
               "notes": "CONVENTIONAL OR SUMO: USE WHATEVER STANCE YOU ARE STRONGER WITH",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=VL5Ab0T07e4&"
             },
             {
               "name": "BENCH PRESS",
@@ -1213,7 +1287,8 @@ export const nippardProgram = {
               "notes": "TOP SET. LEAVE 1 (MAYBE 2) REPS IN THE TANK. PUSH IT!",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=vcBig73ojpE"
             },
             {
               "name": "BENCH PRESS",
@@ -1226,7 +1301,8 @@ export const nippardProgram = {
               "notes": "QUICK 1 SECOND PAUSE ON THE CHEST ON EACH REP",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=vcBig73ojpE"
             },
             {
               "name": "ABDUCTION",
@@ -1239,7 +1315,8 @@ export const nippardProgram = {
               "notes": "MACHINE, BAND OR WEIGHTED, 1 SECOND ISOMETRIC HOLD AT THE TOP OF EACH REP",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/zfUWbpdjczg"
             },
             {
               "name": "PULL-UP",
@@ -1252,7 +1329,8 @@ export const nippardProgram = {
               "notes": "1.5X SHOULDER WIDTH GRIP , PULL YOUR CHEST TO THE BAR",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=Hdc7Mw6BIEE"
             },
             {
               "name": "CALF RAISE",
@@ -1265,7 +1343,8 @@ export const nippardProgram = {
               "notes": "1-2 SECOND PAUSE AT THE BOTTOM OF EACH REP , FULL ROM",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-qsRtp_PbVM"
             }
           ]
         },
@@ -1293,7 +1372,8 @@ export const nippardProgram = {
               "notes": "MAINTAIN TIGHT PRESSURE IN YOUR UPPER BACK AGAINST THE BAR",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=bEv6CCg2BC8&t"
             },
             {
               "name": "DIP",
@@ -1306,7 +1386,8 @@ export const nippardProgram = {
               "notes": "DO DUMBBELL FLOOR PRESS IF NO ACCESS TO DIP HANDLES",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=yN6Q1UI_xkE&"
             },
             {
               "name": "LEG RAISE",
@@ -1319,7 +1400,8 @@ export const nippardProgram = {
               "notes": "KNEES TO CHEST, CONTROLLED REPS, STRAIGHTEN LEGS MORE TO INCREASE DIFFICULTY",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/2RrGnjxSsiA?t=247"
             },
             {
               "name": "PULL-OVER",
@@ -1332,7 +1414,8 @@ export const nippardProgram = {
               "notes": "CAN USE A DB, CABLE/ROPE OR BAND, STRETCH AND SQUEEZE LATS!",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/Jlw-Vtypr-Y"
             },
             {
               "name": "DUMBBELL CURL",
@@ -1345,7 +1428,8 @@ export const nippardProgram = {
               "notes": "DO EACH ARM ONE AT A TIME RATHER THAN ALTERNATING, START WITH YOUR WEAK ARM",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/3FAvFJ0Vtag"
             }
           ]
         },
@@ -1381,7 +1465,8 @@ export const nippardProgram = {
               "notes": "3 SECOND PAUSE RIGHT AFTER THE PLATES COME OFF THE GROUND",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=VL5Ab0T07e4&"
             },
             {
               "name": "BARBELL BENCH PRESS",
@@ -1394,7 +1479,8 @@ export const nippardProgram = {
               "notes": "2-3 SECOND PAUSE ON THE CHEST",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=vcBig73ojpE"
             },
             {
               "name": "PENDLAY ROW",
@@ -1407,7 +1493,8 @@ export const nippardProgram = {
               "notes": "BE MINDFUL OF LOWER BACK FATIGUE. STAY LIGHT, MINIMIZE CHEATING",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=axoeDmW0oAY"
             },
             {
               "name": "HAM CURL",
@@ -1420,7 +1507,8 @@ export const nippardProgram = {
               "notes": "SEE VIDEO DEMOS PAGE, CAN SUB FOR LYING LEG CURL",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/e_48W0vlU58"
             },
             {
               "name": "SHRUG",
@@ -1433,7 +1521,8 @@ export const nippardProgram = {
               "notes": "FEEL A STRETCH ON THE TRAPS AT THE BOTTOM, SQUEEZE HARD AT THE TOP",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/C6sYjDFuq9I?t=326"
             }
           ]
         },
@@ -1461,7 +1550,8 @@ export const nippardProgram = {
               "notes": "CURL THE BAR OUT AND UP IN AN ARC. MINIMIZE MOMENTUM.",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=i1YgFZB6alI&t"
             },
             {
               "name": "FLOOR SKULL CRUSHER",
@@ -1474,7 +1564,8 @@ export const nippardProgram = {
               "notes": "ARC THE BAR BACK BEHIND YOUR HEAD, SOFT TOUCH ON THE FLOOR BEHIND YOU",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/popGXI-qs98?t=154"
             },
             {
               "name": "DUMBBELL LATERAL RAISE",
@@ -1487,7 +1578,8 @@ export const nippardProgram = {
               "notes": "ARC THE DUMBBELL OUT, MIND-MUSCLE CONNECTION WITH MIDDLE FIBERS",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=v_ZkxWzYnMc"
             },
             {
               "name": "BAND PULL-APART",
@@ -1500,7 +1592,8 @@ export const nippardProgram = {
               "notes": "MIND-MUSCLE CONNECTION WITH REAR DELTS",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/bN_lGBqZURw"
             },
             {
               "name": "STANDING CALF RAISE",
@@ -1513,7 +1606,8 @@ export const nippardProgram = {
               "notes": "1-2 SECOND PAUSE AT THE BOTTOM OF EACH REP , FULL SQUEEZE AT THE TOP",
               "category": "isolation",
               "muscleGroup": "legs",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-qsRtp_PbVM"
             },
             {
               "name": "BICYCLE CRUNCH",
@@ -1526,7 +1620,8 @@ export const nippardProgram = {
               "notes": "FOCUS ON ROUNDING YOUR BACK AS YOU CRUNCH HARD!",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/2RrGnjxSsiA?t=371"
             }
           ]
         },
@@ -1569,7 +1664,8 @@ export const nippardProgram = {
               "notes": "TOP SET! AIM FOR NEAR PR. KEEP FORM TIGHT.",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=VL5Ab0T07e4&"
             },
             {
               "name": "DEADLIFT",
@@ -1582,7 +1678,8 @@ export const nippardProgram = {
               "notes": "BRACE YOUR LATS, CHEST TALL, PULL THE SLACK OUT OF THE BAR BEFORE LIFTING",
               "category": "isolation",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=VL5Ab0T07e4&"
             },
             {
               "name": "HIGH-BAR SQUAT",
@@ -1595,7 +1692,8 @@ export const nippardProgram = {
               "notes": "IF YOU SQUAT HIGH-BAR, DO SUMO BOX SQUAT. IF YOU SQUAT LOW-BAR, DO PAUSE HIGH-",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://youtu.be/TSCMUTG5yBI"
             },
             {
               "name": "PULL-THROUGH",
@@ -1608,7 +1706,8 @@ export const nippardProgram = {
               "notes": "CAN USE CABLE/ROPE OR BAND, USE YOUR GLUTES TO MOVE THE WEIGHT",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/NV8oPOpLsQU"
             },
             {
               "name": "CURL",
@@ -1621,7 +1720,8 @@ export const nippardProgram = {
               "notes": "DO LYING LEG CURL MACHINE OR NORDIC HAM CURL IF NO MACHINE ACCESS",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/Kd3tbUnbueU"
             },
             {
               "name": "CALF RAISE",
@@ -1634,7 +1734,8 @@ export const nippardProgram = {
               "notes": "1-2 SECOND PAUSE AT THE BOTTOM OF EACH REP , FULL SQUEEZE AT THE TOP",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-qsRtp_PbVM"
             }
           ]
         },
@@ -1661,7 +1762,8 @@ export const nippardProgram = {
               "notes": "SET UP A COMFORTABLE ARCH, SLIGHT PAUSE ON THE CHEST, EXPLODE UP",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=vcBig73ojpE"
             },
             {
               "name": "CHIN-UP",
@@ -1674,7 +1776,8 @@ export const nippardProgram = {
               "notes": "UNDERHAND GRIP , PULL YOUR CHEST TO THE BAR, ADD WEIGHT IF NEEDED TO HIT RPE",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/-d2Uui6MtRk"
             },
             {
               "name": "PRESS",
@@ -1687,7 +1790,8 @@ export const nippardProgram = {
               "notes": "ROTATE THE DBS IN AT THE BOTTOM AND OUT AT THE TOP",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=_RlRDWO2jfg"
             },
             {
               "name": "ROW",
@@ -1700,7 +1804,8 @@ export const nippardProgram = {
               "notes": "LIE ON AN INCLINE BENCH AND DO ROWS - PULL WITH LATS!",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/axoeDmW0oAY?t=419"
             },
             {
               "name": "PULL",
@@ -1713,7 +1818,8 @@ export const nippardProgram = {
               "notes": "CAN USE CABLE/ROPE OR BAND, RETRACT YOUR SHOULDER BLADES AS YOU PULL",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=qfc70k40318"
             },
             {
               "name": "LATERAL RAISE",
@@ -1726,7 +1832,8 @@ export const nippardProgram = {
               "notes": "ARC THE DUMBBELL OUT, MIND-MUSCLE CONNECTION WITH MIDDLE FIBERS",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=v_ZkxWzYnMc"
             },
             {
               "name": "BICEP CURL",
@@ -1739,7 +1846,8 @@ export const nippardProgram = {
               "notes": "PIN YOUR ELBOW AGAINST YOUR UPPER LEG OR THE BACK OF A BENCH",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/kr4LtmKn9EE"
             }
           ]
         },
@@ -1766,7 +1874,8 @@ export const nippardProgram = {
               "notes": "SIT BACK AND DOWN, KEEP YOUR UPPER BACK TIGHT TO THE BAR",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=bEv6CCg2BC8&t"
             },
             {
               "name": "MORNING",
@@ -1779,7 +1888,8 @@ export const nippardProgram = {
               "notes": "SAME AS SQUAT STANCE, KEEP SHINS STRAIGHT, GO LIGHTER AND \"FEEL\" HAMSTRINGS",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=f23vXjoG2e8"
             },
             {
               "name": "EXTENSION",
@@ -1792,7 +1902,8 @@ export const nippardProgram = {
               "notes": "USE BANDS IF NO MACHINE ACCESS, MIND-MUSCLE CONNECTION WITH QUADS",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=ljO4jkwv8wQ"
             },
             {
               "name": "CALF RAISE",
@@ -1805,7 +1916,8 @@ export const nippardProgram = {
               "notes": "EMPHASIZE THE MIND-MUSCLE CONNECTION",
               "category": "isolation",
               "muscleGroup": "legs",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-qsRtp_PbVM"
             },
             {
               "name": "ABDUCTION",
@@ -1818,7 +1930,8 @@ export const nippardProgram = {
               "notes": "POINT TOES SLIGHTLY OUTWARD, MIND-MUSCLE CONNECTION WITH GLUTES",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/zfUWbpdjczg"
             },
             {
               "name": "SIT-UP",
@@ -1831,7 +1944,8 @@ export const nippardProgram = {
               "notes": "THINK ABOUT SQUEEZING YOUR UPPER AND LOWER ABS TOGETHERWEEK 4 JEFF NIPPARD'S - POWERBUILDING SYSTEM",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/h-kVpuNoGaA"
             }
           ]
         },
@@ -1858,7 +1972,8 @@ export const nippardProgram = {
               "notes": "FIRST 3 REPS STRICT MILITARY PRESS (NO LEG DRIVE), LAST 3 REPS PUSH PRESS (USE LEG",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=_RlRDWO2jfg"
             },
             {
               "name": "SINGLE-ARM LAT PULLDOWN",
@@ -1871,7 +1986,8 @@ export const nippardProgram = {
               "notes": "PERFORM WITH BANDS IF NO LAT PULLDOWN, DRIVE ELBOWS DOWN AND IN",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/tQ2LSSP_0GQ?t=437"
             },
             {
               "name": "FLOOR PRESS",
@@ -1884,7 +2000,8 @@ export const nippardProgram = {
               "notes": "CONTROL THE ECCENTRIC (DON'T LET YOUR ELBOWS SLAM INTO THE GROUND), BE EXPLOSIVE",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://youtu.be/7qFp5khuoFA?t=239"
             },
             {
               "name": "ROW",
@@ -1897,7 +2014,8 @@ export const nippardProgram = {
               "notes": "BE MINDFUL OF LOWER BACK FATIGUE. STAY LIGHT, MINIMIZE CHEATING",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/axoeDmW0oAY?t=419"
             },
             {
               "name": "FLYE",
@@ -1910,7 +2028,8 @@ export const nippardProgram = {
               "notes": "PERFORM WITH CABLE, BANDS OR DUMBBELLS, USE A FULL ROM",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-EIhKMDSjBY"
             },
             {
               "name": "INCLINE SHRUG",
@@ -1923,7 +2042,8 @@ export const nippardProgram = {
               "notes": "LIE FACE DOWN AGAINST AN INCLINE BENCH AND DO SHRUGS - FULL ROM AND SQUEEZE!",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/HsdwUZtGG_0"
             },
             {
               "name": "FLYE",
@@ -1936,7 +2056,8 @@ export const nippardProgram = {
               "notes": "MIND-MUSCLE CONNECTION WITH REAR DELTS, SWEEP THE WEIGHT OUT",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-EIhKMDSjBY"
             },
             {
               "name": "SKULL CRUSHER",
@@ -1949,7 +2070,8 @@ export const nippardProgram = {
               "notes": "DO THESE ON A BENCH, CONSTANT TENSION ON TRICEPS",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=popGXI-qs98"
             }
           ]
         },
@@ -1976,7 +2098,8 @@ export const nippardProgram = {
               "notes": "DO BLOCK PULLS FROM A 4\" BLOCK (CAN USE 45LB BUMPER PLATE AS A BLOCK)",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/qOH1ZqkW-hw"
             },
             {
               "name": "SPLIT SQUAT",
@@ -1989,7 +2112,8 @@ export const nippardProgram = {
               "notes": "12 REPS EACH LEG, KEEP YOUR TORSO UPRIGHT, CONSTANT-TENSION ON QUADS",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://youtu.be/htDXu61MPio"
             },
             {
               "name": "HIP THRUST",
@@ -2002,7 +2126,8 @@ export const nippardProgram = {
               "notes": "DO BARBELL HIP THRUSTS IF NO MACHINE, USE GLUTES TO MOVE THE WEIGHT",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=xDmFkJxPzeM"
             },
             {
               "name": "CALF RAISE",
@@ -2015,7 +2140,8 @@ export const nippardProgram = {
               "notes": "DO STANDING IF NO MACHINE, EMPHASIZE THE MIND-MUSCLE CONNECTION",
               "category": "isolation",
               "muscleGroup": "legs",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-qsRtp_PbVM"
             },
             {
               "name": "LEG RAISE",
@@ -2028,7 +2154,8 @@ export const nippardProgram = {
               "notes": "KNEES TO CHEST, CONTROLLED REPS, STRAIGHTEN LEGS MORE TO INCREASE DIFFICULTY",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/2RrGnjxSsiA?t=247"
             }
           ]
         },
@@ -2055,7 +2182,8 @@ export const nippardProgram = {
               "notes": "SHOULDER BLADES STILL RETRACTED AND DEPRESSED. SLIGHT ARCH IN UPPER BACK.",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=_RlRDWO2jfg"
             },
             {
               "name": "PULL-UP",
@@ -2068,7 +2196,8 @@ export const nippardProgram = {
               "notes": "3 SECOND NEGATIVE ON EVERY REP , MAINTAIN CONTROLLED FORM FOR ALL REPS",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=Hdc7Mw6BIEE"
             },
             {
               "name": "DIP",
@@ -2081,7 +2210,8 @@ export const nippardProgram = {
               "notes": "DO DUMBBELL FLOOR PRESS IF NO ACCESS TO DIP HANDLES",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=yN6Q1UI_xkE&"
             },
             {
               "name": "SINGLE-ARM ROW",
@@ -2094,7 +2224,8 @@ export const nippardProgram = {
               "notes": "CAN USE CABLES, BANDS OR DUMBBELLS - FEEL YOUR LATS WORKING!",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=djKXLt7kv7Q"
             },
             {
               "name": "OR EZ BAR CURL",
@@ -2107,7 +2238,8 @@ export const nippardProgram = {
               "notes": "FOCUS ON THE MIND-MUSCLE CONNECTION",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=i1YgFZB6alI&t"
             },
             {
               "name": "LEAN-AWAY LATERAL RAISE",
@@ -2120,7 +2252,8 @@ export const nippardProgram = {
               "notes": "USE A LIGHT DUMBBELL, CONSTANT-TENSION, NO PAUSE AT THE BOTTOM",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/0VvQ6olHi4I"
             },
             {
               "name": "CRUNCH",
@@ -2133,7 +2266,8 @@ export const nippardProgram = {
               "notes": "KEEP YOUR HANDS BEHIND YOUR EARSWEEK 4 JEFF NIPPARD'S - POWERBUILDING SYSTEM",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/2RrGnjxSsiA?t=371"
             }
           ]
         },
@@ -2177,7 +2311,8 @@ export const nippardProgram = {
               "notes": "TOP SET. LEAVE 1 (MAYBE 2) REPS IN THE TANK. AIM FOR NEAR 3 REP PR.",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=bEv6CCg2BC8&t"
             },
             {
               "name": "SQUAT",
@@ -2190,7 +2325,8 @@ export const nippardProgram = {
               "notes": "KEEP BACK ANGLE AND FORM CONSISTENT ACROSS ALL REPS",
               "category": "isolation",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=bEv6CCg2BC8&t"
             },
             {
               "name": "PRESS",
@@ -2203,7 +2339,8 @@ export const nippardProgram = {
               "notes": "RESET EACH REP (DON'T TOUCH-AND-PRESS)",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=_RlRDWO2jfg"
             },
             {
               "name": "HAM RAISE",
@@ -2216,7 +2353,8 @@ export const nippardProgram = {
               "notes": "KEEP YOUR HIPS STRAIGHT, DO NORDIC HAM CURLS IF NO GHR MACHINE",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/psdbgvbdd_M"
             },
             {
               "name": "ROW",
@@ -2229,7 +2367,8 @@ export const nippardProgram = {
               "notes": "STRICT FORM. DRIVE ELBOWS OUT AND BACK AT 45 DEGREE ANGLE",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/axoeDmW0oAY?t=419"
             },
             {
               "name": "CURL",
@@ -2242,7 +2381,8 @@ export const nippardProgram = {
               "notes": "KEEP ELBOWS LOCKED IN PLACE, SQUEEZE THE DUMBBELL HANDLE HARD!",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/Kd3tbUnbueU"
             }
           ]
         },
@@ -2270,7 +2410,8 @@ export const nippardProgram = {
               "notes": "BRACE YOUR LATS, CHEST TALL, PULL THE SLACK OUT OF THE BAR BEFORE LIFTING",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=VL5Ab0T07e4&"
             },
             {
               "name": "BENCH PRESS",
@@ -2283,7 +2424,8 @@ export const nippardProgram = {
               "notes": "TOP SET. LEAVE 1 REP IN THE TANK. AIM FOR NEAR 4 REP PR.",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=vcBig73ojpE"
             },
             {
               "name": "BENCH PRESS",
@@ -2296,7 +2438,8 @@ export const nippardProgram = {
               "notes": "QUICK 1 SECOND PAUSE ON THE CHEST ON EACH REP",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=vcBig73ojpE"
             },
             {
               "name": "ABDUCTION",
@@ -2309,7 +2452,8 @@ export const nippardProgram = {
               "notes": "MACHINE, BAND OR WEIGHTED, 1 SECOND ISOMETRIC HOLD AT THE TOP OF EACH REP",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/zfUWbpdjczg"
             },
             {
               "name": "PULL-UP",
@@ -2322,7 +2466,8 @@ export const nippardProgram = {
               "notes": "1.5X SHOULDER WIDTH GRIP , PULL YOUR CHEST TO THE BAR",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=Hdc7Mw6BIEE"
             },
             {
               "name": "CALF RAISE",
@@ -2335,7 +2480,8 @@ export const nippardProgram = {
               "notes": "1-2 SECOND PAUSE AT THE BOTTOM OF EACH REP , FULL ROM",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-qsRtp_PbVM"
             }
           ]
         },
@@ -2363,7 +2509,8 @@ export const nippardProgram = {
               "notes": "MAINTAIN TIGHT PRESSURE IN YOUR UPPER BACK AGAINST THE BAR",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=bEv6CCg2BC8&t"
             },
             {
               "name": "DIP",
@@ -2376,7 +2523,8 @@ export const nippardProgram = {
               "notes": "DO DUMBBELL FLOOR PRESS IF NO ACCESS TO DIP HANDLES",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=yN6Q1UI_xkE&"
             },
             {
               "name": "LEG RAISE",
@@ -2389,7 +2537,8 @@ export const nippardProgram = {
               "notes": "KNEES TO CHEST, CONTROLLED REPS, STRAIGHTEN LEGS MORE TO INCREASE DIFFICULTY",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/2RrGnjxSsiA?t=247"
             },
             {
               "name": "PULL-OVER",
@@ -2402,7 +2551,8 @@ export const nippardProgram = {
               "notes": "CAN USE A DB, CABLE/ROPE OR BAND, STRETCH AND SQUEEZE LATS!",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/Jlw-Vtypr-Y"
             },
             {
               "name": "DUMBBELL CURL",
@@ -2415,7 +2565,8 @@ export const nippardProgram = {
               "notes": "DO EACH ARM ONE AT A TIME RATHER THAN ALTERNATING, START WITH YOUR WEAK ARM",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/3FAvFJ0Vtag"
             }
           ]
         },
@@ -2451,7 +2602,8 @@ export const nippardProgram = {
               "notes": "3 SECOND PAUSE RIGHT AFTER THE PLATES COME OFF THE GROUND",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=VL5Ab0T07e4&"
             },
             {
               "name": "BARBELL BENCH PRESS",
@@ -2464,7 +2616,8 @@ export const nippardProgram = {
               "notes": "2-3 SECOND PAUSE ON THE CHEST",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=vcBig73ojpE"
             },
             {
               "name": "PENDLAY ROW",
@@ -2477,7 +2630,8 @@ export const nippardProgram = {
               "notes": "BE MINDFUL OF LOWER BACK FATIGUE. STAY LIGHT, MINIMIZE CHEATING",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=axoeDmW0oAY"
             },
             {
               "name": "HAM CURL",
@@ -2490,7 +2644,8 @@ export const nippardProgram = {
               "notes": "SEE VIDEO DEMOS PAGE, CAN SUB FOR LYING LEG CURL",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/e_48W0vlU58"
             },
             {
               "name": "SHRUG",
@@ -2503,7 +2658,8 @@ export const nippardProgram = {
               "notes": "FEEL A STRETCH ON THE TRAPS AT THE BOTTOM, SQUEEZE HARD AT THE TOP",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/C6sYjDFuq9I?t=326"
             }
           ]
         },
@@ -2531,7 +2687,8 @@ export const nippardProgram = {
               "notes": "CURL THE BAR OUT AND UP IN AN ARC. MINIMIZE MOMENTUM.",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=i1YgFZB6alI&t"
             },
             {
               "name": "FLOOR SKULL CRUSHER",
@@ -2544,7 +2701,8 @@ export const nippardProgram = {
               "notes": "ARC THE BAR BACK BEHIND YOUR HEAD, SOFT TOUCH ON THE FLOOR BEHIND YOU",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/popGXI-qs98?t=154"
             },
             {
               "name": "DUMBBELL LATERAL RAISE",
@@ -2557,7 +2715,8 @@ export const nippardProgram = {
               "notes": "ARC THE DUMBBELL OUT, MIND-MUSCLE CONNECTION WITH MIDDLE FIBERS",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=v_ZkxWzYnMc"
             },
             {
               "name": "BAND PULL-APART",
@@ -2570,7 +2729,8 @@ export const nippardProgram = {
               "notes": "MIND-MUSCLE CONNECTION WITH REAR DELTS",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/bN_lGBqZURw"
             },
             {
               "name": "STANDING CALF RAISE",
@@ -2583,7 +2743,8 @@ export const nippardProgram = {
               "notes": "1-2 SECOND PAUSE AT THE BOTTOM OF EACH REP , FULL SQUEEZE AT THE TOP",
               "category": "isolation",
               "muscleGroup": "legs",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-qsRtp_PbVM"
             },
             {
               "name": "BICYCLE CRUNCH",
@@ -2596,7 +2757,8 @@ export const nippardProgram = {
               "notes": "FOCUS ON ROUNDING YOUR BACK AS YOU CRUNCH HARD!",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/2RrGnjxSsiA?t=371"
             }
           ]
         },
@@ -2639,7 +2801,8 @@ export const nippardProgram = {
               "notes": "BRACE YOUR LATS, CHEST TALL, PULL THE SLACK OUT OF THE BAR BEFORE LIFTING",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=VL5Ab0T07e4&"
             },
             {
               "name": "HIGH-BAR SQUAT",
@@ -2652,7 +2815,8 @@ export const nippardProgram = {
               "notes": "IF YOU SQUAT HIGH-BAR, DO SUMO BOX SQUAT. IF YOU SQUAT LOW-BAR, DO PAUSE HIGH-",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://youtu.be/TSCMUTG5yBI"
             },
             {
               "name": "PULL-THROUGH",
@@ -2665,7 +2829,8 @@ export const nippardProgram = {
               "notes": "CAN USE CABLE/ROPE OR BAND, USE YOUR GLUTES TO MOVE THE WEIGHT",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/NV8oPOpLsQU"
             },
             {
               "name": "CURL",
@@ -2678,7 +2843,8 @@ export const nippardProgram = {
               "notes": "DO LYING LEG CURL MACHINE OR NORDIC HAM CURL IF NO MACHINE ACCESS",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/Kd3tbUnbueU"
             },
             {
               "name": "CALF RAISE",
@@ -2691,7 +2857,8 @@ export const nippardProgram = {
               "notes": "1-2 SECOND PAUSE AT THE BOTTOM OF EACH REP , FULL SQUEEZE AT THE TOP",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-qsRtp_PbVM"
             }
           ]
         },
@@ -2718,7 +2885,8 @@ export const nippardProgram = {
               "notes": "SET UP A COMFORTABLE ARCH, SLIGHT PAUSE ON THE CHEST, EXPLODE UP",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=vcBig73ojpE"
             },
             {
               "name": "CHIN-UP",
@@ -2731,7 +2899,8 @@ export const nippardProgram = {
               "notes": "UNDERHAND GRIP , PULL YOUR CHEST TO THE BAR, ADD WEIGHT IF NEEDED TO HIT RPE",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/-d2Uui6MtRk"
             },
             {
               "name": "PRESS",
@@ -2744,7 +2913,8 @@ export const nippardProgram = {
               "notes": "ROTATE THE DBS IN AT THE BOTTOM AND OUT AT THE TOP",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=_RlRDWO2jfg"
             },
             {
               "name": "ROW",
@@ -2757,7 +2927,8 @@ export const nippardProgram = {
               "notes": "LIE ON AN INCLINE BENCH AND DO ROWS - PULL WITH LATS!",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/axoeDmW0oAY?t=419"
             },
             {
               "name": "PULL",
@@ -2770,7 +2941,8 @@ export const nippardProgram = {
               "notes": "CAN USE CABLE/ROPE OR BAND, RETRACT YOUR SHOULDER BLADES AS YOU PULL",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=qfc70k40318"
             },
             {
               "name": "LATERAL RAISE",
@@ -2783,7 +2955,8 @@ export const nippardProgram = {
               "notes": "ARC THE DUMBBELL OUT, MIND-MUSCLE CONNECTION WITH MIDDLE FIBERS",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=v_ZkxWzYnMc"
             },
             {
               "name": "BICEP CURL",
@@ -2796,7 +2969,8 @@ export const nippardProgram = {
               "notes": "PIN YOUR ELBOW AGAINST YOUR UPPER LEG OR THE BACK OF A BENCH",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/kr4LtmKn9EE"
             }
           ]
         },
@@ -2823,7 +2997,8 @@ export const nippardProgram = {
               "notes": "ONLY HEAVY SET THIS WEEK! PERFECT TECHNIQUE!",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=bEv6CCg2BC8&t"
             },
             {
               "name": "LOW-BAR BACK SQUAT",
@@ -2836,7 +3011,8 @@ export const nippardProgram = {
               "notes": "SIT BACK AND DOWN, KEEP YOUR UPPER BACK TIGHT TO THE BAR",
               "category": "isolation",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=bEv6CCg2BC8&t"
             },
             {
               "name": "EXTENSION",
@@ -2849,7 +3025,8 @@ export const nippardProgram = {
               "notes": "USE BANDS IF NO MACHINE ACCESS, MIND-MUSCLE CONNECTION WITH QUADS",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=ljO4jkwv8wQ"
             },
             {
               "name": "CALF RAISE",
@@ -2862,7 +3039,8 @@ export const nippardProgram = {
               "notes": "EMPHASIZE THE MIND-MUSCLE CONNECTION",
               "category": "isolation",
               "muscleGroup": "legs",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-qsRtp_PbVM"
             },
             {
               "name": "ABDUCTION",
@@ -2875,7 +3053,8 @@ export const nippardProgram = {
               "notes": "POINT TOES SLIGHTLY OUTWARD, MIND-MUSCLE CONNECTION WITH GLUTES",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/zfUWbpdjczg"
             },
             {
               "name": "SIT-UP",
@@ -2888,7 +3067,8 @@ export const nippardProgram = {
               "notes": "THINK ABOUT SQUEEZING YOUR UPPER AND LOWER ABS TOGETHERWEEK 6 JEFF NIPPARD'S - POWERBUILDING SYSTEM",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/h-kVpuNoGaA"
             }
           ]
         },
@@ -2915,7 +3095,8 @@ export const nippardProgram = {
               "notes": "SQUEEZE YOUR GLUTES TO KEEP YOUR TORSO UPRIGHT, PRESS UP AND SLIGHTLY BACK",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=_RlRDWO2jfg"
             },
             {
               "name": "SINGLE-ARM LAT PULLDOWN",
@@ -2928,7 +3109,8 @@ export const nippardProgram = {
               "notes": "PERFORM WITH BANDS IF NO LAT PULLDOWN, DRIVE ELBOWS DOWN AND IN",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/tQ2LSSP_0GQ?t=437"
             },
             {
               "name": "PUSH-UP",
@@ -2941,7 +3123,8 @@ export const nippardProgram = {
               "notes": "AS MANY REPS AS POSSIBLE. USE PERFECT PUSH-UP HANDLES OR DUMBBELLS TO CREATE A",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/gDoTTdAhsDg"
             },
             {
               "name": "ROW",
@@ -2954,7 +3137,8 @@ export const nippardProgram = {
               "notes": "BE MINDFUL OF LOWER BACK FATIGUE. STAY LIGHT, MINIMIZE CHEATING",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/axoeDmW0oAY?t=419"
             },
             {
               "name": "FLYE",
@@ -2967,7 +3151,8 @@ export const nippardProgram = {
               "notes": "PERFORM WITH CABLE, BANDS OR DUMBBELLS, USE A FULL ROM",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-EIhKMDSjBY"
             },
             {
               "name": "INCLINE SHRUG",
@@ -2980,7 +3165,8 @@ export const nippardProgram = {
               "notes": "LIE FACE DOWN AGAINST AN INCLINE BENCH AND DO SHRUGS - FULL ROM AND SQUEEZE!",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/HsdwUZtGG_0"
             },
             {
               "name": "UPRIGHT ROW",
@@ -2993,7 +3179,8 @@ export const nippardProgram = {
               "notes": "CAN USE CABLES/ROPE, BANDS OR DUMBBELLS. STOP ROM ONCE ELBOWS REACH SHOULDER",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=nwkLwMRHMQo"
             },
             {
               "name": "SKULL CRUSHER",
@@ -3006,7 +3193,8 @@ export const nippardProgram = {
               "notes": "DO THESE ON A BENCH, CONSTANT TENSION ON TRICEPS",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=popGXI-qs98"
             }
           ]
         },
@@ -3033,7 +3221,8 @@ export const nippardProgram = {
               "notes": "DO BLOCK PULLS FROM A 3\" BLOCK (CAN USE 25LB + 10LB BUMPER AS A BLOCKS)",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/qOH1ZqkW-hw"
             },
             {
               "name": "SPLIT SQUAT",
@@ -3046,7 +3235,8 @@ export const nippardProgram = {
               "notes": "12 REPS EACH LEG, KEEP YOUR TORSO UPRIGHT, CONSTANT-TENSION ON QUADS",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://youtu.be/htDXu61MPio"
             },
             {
               "name": "HIP THRUST",
@@ -3059,7 +3249,8 @@ export const nippardProgram = {
               "notes": "DO BARBELL HIP THRUSTS IF NO MACHINE, USE GLUTES TO MOVE THE WEIGHT",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=xDmFkJxPzeM"
             },
             {
               "name": "CALF RAISE",
@@ -3072,7 +3263,8 @@ export const nippardProgram = {
               "notes": "DO STANDING IF NO MACHINE, EMPHASIZE THE MIND-MUSCLE CONNECTION",
               "category": "isolation",
               "muscleGroup": "legs",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-qsRtp_PbVM"
             },
             {
               "name": "LEG RAISE",
@@ -3085,7 +3277,8 @@ export const nippardProgram = {
               "notes": "KNEES TO CHEST, CONTROLLED REPS, STRAIGHTEN LEGS MORE TO INCREASE DIFFICULTY",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/2RrGnjxSsiA?t=247"
             }
           ]
         },
@@ -3112,7 +3305,8 @@ export const nippardProgram = {
               "notes": "SHOULDER BLADES STILL RETRACTED AND DEPRESSED. SLIGHT ARCH IN UPPER BACK.",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=_RlRDWO2jfg"
             },
             {
               "name": "GRIP PULL-UP",
@@ -3125,7 +3319,8 @@ export const nippardProgram = {
               "notes": "AVOID FAILURE, FOCUS ON GOOD TECHNIQUE AND MAINTAINING CONSISTENT TEMPO",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/7qnOnPKGbFg"
             },
             {
               "name": "DIP",
@@ -3138,7 +3333,8 @@ export const nippardProgram = {
               "notes": "DO DUMBBELL FLOOR PRESS IF NO ACCESS TO DIP HANDLES",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=yN6Q1UI_xkE&"
             },
             {
               "name": "SINGLE-ARM ROW",
@@ -3151,7 +3347,8 @@ export const nippardProgram = {
               "notes": "CAN USE CABLES, BANDS OR DUMBBELLS - FEEL YOUR LATS WORKING!",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=djKXLt7kv7Q"
             },
             {
               "name": "OR EZ BAR CURL",
@@ -3164,7 +3361,8 @@ export const nippardProgram = {
               "notes": "FOCUS ON THE MIND-MUSCLE CONNECTION",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=i1YgFZB6alI&t"
             },
             {
               "name": "LEAN-AWAY LATERAL RAISE",
@@ -3177,7 +3375,8 @@ export const nippardProgram = {
               "notes": "USE A LIGHT DUMBBELL, CONSTANT-TENSION, NO PAUSE AT THE BOTTOM",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/0VvQ6olHi4I"
             },
             {
               "name": "CRUNCH",
@@ -3190,7 +3389,8 @@ export const nippardProgram = {
               "notes": "KEEP YOUR HANDS BEHIND YOUR EARSWEEK 6 JEFF NIPPARD'S - POWERBUILDING SYSTEM",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/2RrGnjxSsiA?t=371"
             }
           ]
         },
@@ -3234,7 +3434,8 @@ export const nippardProgram = {
               "notes": "TRY TO ADD SOME WEIGHT FROM WEEK 5 OR IMPROVE BAR SPEED AT SAME WEIGHT",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=bEv6CCg2BC8&t"
             },
             {
               "name": "SQUAT",
@@ -3247,7 +3448,8 @@ export const nippardProgram = {
               "notes": "BE MINDFUL OF TECHNIQUE. FOCUS ON DRIVING YOUR BACK INTO THE BAR.",
               "category": "isolation",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=bEv6CCg2BC8&t"
             },
             {
               "name": "PRESS",
@@ -3260,7 +3462,8 @@ export const nippardProgram = {
               "notes": "RESET EACH REP (DON'T TOUCH-AND-PRESS)",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=_RlRDWO2jfg"
             },
             {
               "name": "HAM RAISE",
@@ -3273,7 +3476,8 @@ export const nippardProgram = {
               "notes": "KEEP YOUR HIPS STRAIGHT, DO NORDIC HAM CURLS IF NO GHR MACHINE",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/psdbgvbdd_M"
             },
             {
               "name": "ROW",
@@ -3286,7 +3490,8 @@ export const nippardProgram = {
               "notes": "STRICT FORM. DRIVE ELBOWS OUT AND BACK AT 45 DEGREE ANGLE",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/axoeDmW0oAY?t=419"
             },
             {
               "name": "CURL",
@@ -3299,7 +3504,8 @@ export const nippardProgram = {
               "notes": "KEEP ELBOWS LOCKED IN PLACE, SQUEEZE THE DUMBBELL HANDLE HARD!",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/Kd3tbUnbueU"
             }
           ]
         },
@@ -3327,7 +3533,8 @@ export const nippardProgram = {
               "notes": "3 SECOND PAUSE RIGHT AFTER THE PLATES COME OFF THE GROUND",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=VL5Ab0T07e4&"
             },
             {
               "name": "BENCH PRESS*",
@@ -3340,7 +3547,8 @@ export const nippardProgram = {
               "notes": "TOP SET. LEAVE 1 REP IN THE TANK. AIM FOR NEAR 3 REP PR.",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=vcBig73ojpE"
             },
             {
               "name": "BENCH PRESS",
@@ -3353,7 +3561,8 @@ export const nippardProgram = {
               "notes": "FOCUS ON TECHNIQUE. PRESS THE BAR BACK AND UP WITH EXPLOSIVE FORCE",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=vcBig73ojpE"
             },
             {
               "name": "ABDUCTION",
@@ -3366,7 +3575,8 @@ export const nippardProgram = {
               "notes": "MACHINE, BAND OR WEIGHTED, 1 SECOND ISOMETRIC HOLD AT THE TOP OF EACH REP",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/zfUWbpdjczg"
             },
             {
               "name": "PULL-UP",
@@ -3379,7 +3589,8 @@ export const nippardProgram = {
               "notes": "1.5X SHOULDER WIDTH GRIP , PULL YOUR CHEST TO THE BAR",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=Hdc7Mw6BIEE"
             },
             {
               "name": "CALF RAISE",
@@ -3392,7 +3603,8 @@ export const nippardProgram = {
               "notes": "1-2 SECOND PAUSE AT THE BOTTOM OF EACH REP , FULL ROM",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-qsRtp_PbVM"
             }
           ]
         },
@@ -3420,7 +3632,8 @@ export const nippardProgram = {
               "notes": "MAINTAIN TIGHT PRESSURE IN YOUR UPPER BACK AGAINST THE BAR",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=bEv6CCg2BC8&t"
             },
             {
               "name": "DIP",
@@ -3433,7 +3646,8 @@ export const nippardProgram = {
               "notes": "DO DUMBBELL FLOOR PRESS IF NO ACCESS TO DIP HANDLES",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=yN6Q1UI_xkE&"
             },
             {
               "name": "LEG RAISE",
@@ -3446,7 +3660,8 @@ export const nippardProgram = {
               "notes": "KNEES TO CHEST, CONTROLLED REPS, STRAIGHTEN LEGS MORE TO INCREASE DIFFICULTY",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/2RrGnjxSsiA?t=247"
             },
             {
               "name": "PULL-OVER",
@@ -3459,7 +3674,8 @@ export const nippardProgram = {
               "notes": "CAN USE A DB, CABLE/ROPE OR BAND, STRETCH AND SQUEEZE LATS!",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/Jlw-Vtypr-Y"
             },
             {
               "name": "DUMBBELL CURL",
@@ -3472,7 +3688,8 @@ export const nippardProgram = {
               "notes": "DO EACH ARM ONE AT A TIME RATHER THAN ALTERNATING, START WITH YOUR WEAK ARM",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/3FAvFJ0Vtag"
             }
           ]
         },
@@ -3508,7 +3725,8 @@ export const nippardProgram = {
               "notes": "WORK UP TO A HEAVY TRIPLE WITH A LOAD THAT HITS RPE 8-9",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=VL5Ab0T07e4&"
             },
             {
               "name": "BARBELL BENCH PRESS",
@@ -3521,7 +3739,8 @@ export const nippardProgram = {
               "notes": "2-3 SECOND PAUSE ON THE CHEST",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=vcBig73ojpE"
             },
             {
               "name": "PENDLAY ROW",
@@ -3534,7 +3753,8 @@ export const nippardProgram = {
               "notes": "BE MINDFUL OF LOWER BACK FATIGUE. STAY LIGHT, MINIMIZE CHEATING",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=axoeDmW0oAY"
             },
             {
               "name": "HAM CURL",
@@ -3547,7 +3767,8 @@ export const nippardProgram = {
               "notes": "SEE VIDEO DEMOS PAGE, CAN SUB FOR LYING LEG CURL",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/e_48W0vlU58"
             },
             {
               "name": "SHRUG",
@@ -3560,7 +3781,8 @@ export const nippardProgram = {
               "notes": "FEEL A STRETCH ON THE TRAPS AT THE BOTTOM, SQUEEZE HARD AT THE TOP",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/C6sYjDFuq9I?t=326"
             }
           ]
         },
@@ -3588,7 +3810,8 @@ export const nippardProgram = {
               "notes": "CURL THE BAR OUT AND UP IN AN ARC. MINIMIZE MOMENTUM.",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=i1YgFZB6alI&t"
             },
             {
               "name": "FLOOR SKULL CRUSHER",
@@ -3601,7 +3824,8 @@ export const nippardProgram = {
               "notes": "ARC THE BAR BACK BEHIND YOUR HEAD, SOFT TOUCH ON THE FLOOR BEHIND YOU",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/popGXI-qs98?t=154"
             },
             {
               "name": "DUMBBELL LATERAL RAISE",
@@ -3614,7 +3838,8 @@ export const nippardProgram = {
               "notes": "ARC THE DUMBBELL OUT, MIND-MUSCLE CONNECTION WITH MIDDLE FIBERS",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=v_ZkxWzYnMc"
             },
             {
               "name": "BAND PULL-APART",
@@ -3627,7 +3852,8 @@ export const nippardProgram = {
               "notes": "MIND-MUSCLE CONNECTION WITH REAR DELTS",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/bN_lGBqZURw"
             },
             {
               "name": "STANDING CALF RAISE",
@@ -3640,7 +3866,8 @@ export const nippardProgram = {
               "notes": "1-2 SECOND PAUSE AT THE BOTTOM OF EACH REP , FULL SQUEEZE AT THE TOP",
               "category": "isolation",
               "muscleGroup": "legs",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-qsRtp_PbVM"
             },
             {
               "name": "BICYCLE CRUNCH",
@@ -3653,7 +3880,8 @@ export const nippardProgram = {
               "notes": "FOCUS ON ROUNDING YOUR BACK AS YOU CRUNCH HARD!",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/2RrGnjxSsiA?t=371"
             }
           ]
         },
@@ -3696,7 +3924,8 @@ export const nippardProgram = {
               "notes": "BRACE YOUR LATS, CHEST TALL, PULL THE SLACK OUT OF THE BAR BEFORE LIFTING",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=VL5Ab0T07e4&"
             },
             {
               "name": "HIGH-BAR SQUAT",
@@ -3709,7 +3938,8 @@ export const nippardProgram = {
               "notes": "IF YOU SQUAT HIGH-BAR, DO SUMO BOX SQUAT. IF YOU SQUAT LOW-BAR, DO PAUSE HIGH-",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://youtu.be/TSCMUTG5yBI"
             },
             {
               "name": "PULL-THROUGH",
@@ -3722,7 +3952,8 @@ export const nippardProgram = {
               "notes": "CAN USE CABLE/ROPE OR BAND, USE YOUR GLUTES TO MOVE THE WEIGHT",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/NV8oPOpLsQU"
             },
             {
               "name": "CURL",
@@ -3735,7 +3966,8 @@ export const nippardProgram = {
               "notes": "DO LYING LEG CURL MACHINE OR NORDIC HAM CURL IF NO MACHINE ACCESS",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/Kd3tbUnbueU"
             },
             {
               "name": "CALF RAISE",
@@ -3748,7 +3980,8 @@ export const nippardProgram = {
               "notes": "1-2 SECOND PAUSE AT THE BOTTOM OF EACH REP , FULL SQUEEZE AT THE TOP",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-qsRtp_PbVM"
             }
           ]
         },
@@ -3775,7 +4008,8 @@ export const nippardProgram = {
               "notes": "SET UP A COMFORTABLE ARCH, SLIGHT PAUSE ON THE CHEST, EXPLODE UP",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=vcBig73ojpE"
             },
             {
               "name": "CHIN-UP",
@@ -3788,7 +4022,8 @@ export const nippardProgram = {
               "notes": "UNDERHAND GRIP , PULL YOUR CHEST TO THE BAR, ADD WEIGHT IF NEEDED TO HIT RPE",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/-d2Uui6MtRk"
             },
             {
               "name": "PRESS",
@@ -3801,7 +4036,8 @@ export const nippardProgram = {
               "notes": "ROTATE THE DBS IN AT THE BOTTOM AND OUT AT THE TOP",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=_RlRDWO2jfg"
             },
             {
               "name": "ROW",
@@ -3814,7 +4050,8 @@ export const nippardProgram = {
               "notes": "LIE ON AN INCLINE BENCH AND DO ROWS - PULL WITH LATS!",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/axoeDmW0oAY?t=419"
             },
             {
               "name": "PULL",
@@ -3827,7 +4064,8 @@ export const nippardProgram = {
               "notes": "CAN USE CABLE/ROPE OR BAND, RETRACT YOUR SHOULDER BLADES AS YOU PULL",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=qfc70k40318"
             },
             {
               "name": "LATERAL RAISE",
@@ -3840,7 +4078,8 @@ export const nippardProgram = {
               "notes": "ARC THE DUMBBELL OUT, MIND-MUSCLE CONNECTION WITH MIDDLE FIBERS",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=v_ZkxWzYnMc"
             },
             {
               "name": "BICEP CURL",
@@ -3853,7 +4092,8 @@ export const nippardProgram = {
               "notes": "PIN YOUR ELBOW AGAINST YOUR UPPER LEG OR THE BACK OF A BENCH",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/kr4LtmKn9EE"
             }
           ]
         },
@@ -3880,7 +4120,8 @@ export const nippardProgram = {
               "notes": "SIT BACK AND DOWN, KEEP YOUR UPPER BACK TIGHT TO THE BAR",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=bEv6CCg2BC8&t"
             },
             {
               "name": "MORNING",
@@ -3893,7 +4134,8 @@ export const nippardProgram = {
               "notes": "SAME AS SQUAT STANCE, KEEP SHINS STRAIGHT, GO LIGHTER AND \"FEEL\" HAMSTRINGS",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=f23vXjoG2e8"
             },
             {
               "name": "EXTENSION",
@@ -3906,7 +4148,8 @@ export const nippardProgram = {
               "notes": "USE BANDS IF NO MACHINE ACCESS, MIND-MUSCLE CONNECTION WITH QUADS",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=ljO4jkwv8wQ"
             },
             {
               "name": "CALF RAISE",
@@ -3919,7 +4162,8 @@ export const nippardProgram = {
               "notes": "EMPHASIZE THE MIND-MUSCLE CONNECTION",
               "category": "isolation",
               "muscleGroup": "legs",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-qsRtp_PbVM"
             },
             {
               "name": "ABDUCTION",
@@ -3932,7 +4176,8 @@ export const nippardProgram = {
               "notes": "POINT TOES SLIGHTLY OUTWARD, MIND-MUSCLE CONNECTION WITH GLUTES",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/zfUWbpdjczg"
             },
             {
               "name": "SIT-UP",
@@ -3945,7 +4190,8 @@ export const nippardProgram = {
               "notes": "THINK ABOUT SQUEEZING YOUR UPPER AND LOWER ABS TOGETHERWEEK 8 JEFF NIPPARD'S - POWERBUILDING SYSTEM",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/h-kVpuNoGaA"
             }
           ]
         },
@@ -3972,7 +4218,8 @@ export const nippardProgram = {
               "notes": "FIRST 3 REPS STRICT MILITARY PRESS (NO LEG DRIVE), LAST 3 REPS PUSH PRESS (USE LEG",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=_RlRDWO2jfg"
             },
             {
               "name": "SINGLE-ARM LAT PULLDOWN",
@@ -3985,7 +4232,8 @@ export const nippardProgram = {
               "notes": "PERFORM WITH BANDS IF NO LAT PULLDOWN, DRIVE ELBOWS DOWN AND IN",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/tQ2LSSP_0GQ?t=437"
             },
             {
               "name": "INCLINE PRESS",
@@ -3998,7 +4246,8 @@ export const nippardProgram = {
               "notes": "45\u00b0 INCLINE, KEEP SHOULDER BLADES RETRACTED AND DEPRESSED",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=p2t9daxLpB8"
             },
             {
               "name": "ROW",
@@ -4011,7 +4260,8 @@ export const nippardProgram = {
               "notes": "BE MINDFUL OF LOWER BACK FATIGUE. STAY LIGHT, MINIMIZE CHEATING",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/axoeDmW0oAY?t=419"
             },
             {
               "name": "FLYE",
@@ -4024,7 +4274,8 @@ export const nippardProgram = {
               "notes": "PERFORM WITH CABLE, BANDS OR DUMBBELLS, USE A FULL ROM",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-EIhKMDSjBY"
             },
             {
               "name": "INCLINE SHRUG",
@@ -4037,7 +4288,8 @@ export const nippardProgram = {
               "notes": "LIE FACE DOWN AGAINST AN INCLINE BENCH AND DO SHRUGS - FULL ROM AND SQUEEZE!",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/HsdwUZtGG_0"
             },
             {
               "name": "FLYE",
@@ -4050,7 +4302,8 @@ export const nippardProgram = {
               "notes": "MIND-MUSCLE CONNECTION WITH REAR DELTS, SWEEP THE WEIGHT OUT",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-EIhKMDSjBY"
             },
             {
               "name": "SKULL CRUSHER",
@@ -4063,7 +4316,8 @@ export const nippardProgram = {
               "notes": "DO THESE ON A BENCH, CONSTANT TENSION ON TRICEPS",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=popGXI-qs98"
             }
           ]
         },
@@ -4090,7 +4344,8 @@ export const nippardProgram = {
               "notes": "DO BLOCK PULLS FROM A 2\" BLOCK (CAN USE 25LB BUMPER PLATE AS BLOCKS)",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/qOH1ZqkW-hw"
             },
             {
               "name": "SPLIT SQUAT",
@@ -4103,7 +4358,8 @@ export const nippardProgram = {
               "notes": "12 REPS EACH LEG, KEEP YOUR TORSO UPRIGHT, CONSTANT-TENSION ON QUADS",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://youtu.be/htDXu61MPio"
             },
             {
               "name": "HIP THRUST",
@@ -4116,7 +4372,8 @@ export const nippardProgram = {
               "notes": "DO BARBELL HIP THRUSTS IF NO MACHINE, USE GLUTES TO MOVE THE WEIGHT",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=xDmFkJxPzeM"
             },
             {
               "name": "CALF RAISE",
@@ -4129,7 +4386,8 @@ export const nippardProgram = {
               "notes": "DO STANDING IF NO MACHINE, EMPHASIZE THE MIND-MUSCLE CONNECTION",
               "category": "isolation",
               "muscleGroup": "legs",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-qsRtp_PbVM"
             },
             {
               "name": "LEG RAISE",
@@ -4142,7 +4400,8 @@ export const nippardProgram = {
               "notes": "KNEES TO CHEST, CONTROLLED REPS, STRAIGHTEN LEGS MORE TO INCREASE DIFFICULTY",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/2RrGnjxSsiA?t=247"
             }
           ]
         },
@@ -4169,7 +4428,8 @@ export const nippardProgram = {
               "notes": "SHOULDER BLADES STILL RETRACTED AND DEPRESSED. SLIGHT ARCH IN UPPER BACK.",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=_RlRDWO2jfg"
             },
             {
               "name": "PULL-UP",
@@ -4182,7 +4442,8 @@ export const nippardProgram = {
               "notes": "3 SECOND NEGATIVE ON EVERY REP , MAINTAIN CONTROLLED FORM FOR ALL REPS",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=Hdc7Mw6BIEE"
             },
             {
               "name": "DIP",
@@ -4195,7 +4456,8 @@ export const nippardProgram = {
               "notes": "DO DUMBBELL FLOOR PRESS IF NO ACCESS TO DIP HANDLES",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=yN6Q1UI_xkE&"
             },
             {
               "name": "SINGLE-ARM ROW",
@@ -4208,7 +4470,8 @@ export const nippardProgram = {
               "notes": "CAN USE CABLES, BANDS OR DUMBBELLS - FEEL YOUR LATS WORKING!",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=djKXLt7kv7Q"
             },
             {
               "name": "OR EZ BAR CURL",
@@ -4221,7 +4484,8 @@ export const nippardProgram = {
               "notes": "FOCUS ON THE MIND-MUSCLE CONNECTION",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=i1YgFZB6alI&t"
             },
             {
               "name": "LEAN-AWAY LATERAL RAISE",
@@ -4234,7 +4498,8 @@ export const nippardProgram = {
               "notes": "USE A LIGHT DUMBBELL, CONSTANT-TENSION, NO PAUSE AT THE BOTTOM",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/0VvQ6olHi4I"
             },
             {
               "name": "CRUNCH",
@@ -4247,7 +4512,8 @@ export const nippardProgram = {
               "notes": "KEEP YOUR HANDS BEHIND YOUR EARSWEEK 8 JEFF NIPPARD'S - POWERBUILDING SYSTEM",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/2RrGnjxSsiA?t=371"
             }
           ]
         },
@@ -4291,7 +4557,8 @@ export const nippardProgram = {
               "notes": "TOP SET. LEAVE 1 (MAYBE 2) REPS IN THE TANK. AIM FOR NEAR 2 REP PR.",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=bEv6CCg2BC8&t"
             },
             {
               "name": "PRESS",
@@ -4304,7 +4571,8 @@ export const nippardProgram = {
               "notes": "RESET EACH REP (DON'T TOUCH-AND-PRESS)",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=_RlRDWO2jfg"
             },
             {
               "name": "HAM RAISE",
@@ -4317,7 +4585,8 @@ export const nippardProgram = {
               "notes": "KEEP YOUR HIPS STRAIGHT, DO NORDIC HAM CURLS IF NO GHR MACHINE",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/psdbgvbdd_M"
             },
             {
               "name": "ROW",
@@ -4330,7 +4599,8 @@ export const nippardProgram = {
               "notes": "STRICT FORM. DRIVE ELBOWS OUT AND BACK AT 45 DEGREE ANGLE",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/axoeDmW0oAY?t=419"
             },
             {
               "name": "CURL",
@@ -4343,7 +4613,8 @@ export const nippardProgram = {
               "notes": "KEEP ELBOWS LOCKED IN PLACE, SQUEEZE THE DUMBBELL HANDLE HARD!",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/Kd3tbUnbueU"
             }
           ]
         },
@@ -4371,7 +4642,8 @@ export const nippardProgram = {
               "notes": "SEMI-DELOAD. FOCUS ON TECHNIQUE AND BAR SPEED LEADING INTO MAX WEEK.",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=VL5Ab0T07e4&"
             },
             {
               "name": "BENCH PRESS*",
@@ -4384,7 +4656,8 @@ export const nippardProgram = {
               "notes": "TOP SET. AIM FOR A NEAR 2 REP PR",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=vcBig73ojpE"
             },
             {
               "name": "BENCH PRESS",
@@ -4397,7 +4670,8 @@ export const nippardProgram = {
               "notes": "FOCUS ON TECHNIQUE. PRESS THE BAR BACK AND UP WITH EXPLOSIVE FORCE",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=vcBig73ojpE"
             },
             {
               "name": "ABDUCTION",
@@ -4410,7 +4684,8 @@ export const nippardProgram = {
               "notes": "MACHINE, BAND OR WEIGHTED, 1 SECOND ISOMETRIC HOLD AT THE TOP OF EACH REP",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/zfUWbpdjczg"
             },
             {
               "name": "PULL-UP",
@@ -4423,7 +4698,8 @@ export const nippardProgram = {
               "notes": "1.5X SHOULDER WIDTH GRIP , PULL YOUR CHEST TO THE BAR",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=Hdc7Mw6BIEE"
             },
             {
               "name": "CALF RAISE",
@@ -4436,7 +4712,8 @@ export const nippardProgram = {
               "notes": "1-2 SECOND PAUSE AT THE BOTTOM OF EACH REP , FULL ROM",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-qsRtp_PbVM"
             }
           ]
         },
@@ -4464,7 +4741,8 @@ export const nippardProgram = {
               "notes": "MAINTAIN TIGHT PRESSURE IN YOUR UPPER BACK AGAINST THE BAR",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=bEv6CCg2BC8&t"
             },
             {
               "name": "DIP",
@@ -4477,7 +4755,8 @@ export const nippardProgram = {
               "notes": "DO DUMBBELL FLOOR PRESS IF NO ACCESS TO DIP HANDLES",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=yN6Q1UI_xkE&"
             },
             {
               "name": "LEG RAISE",
@@ -4490,7 +4769,8 @@ export const nippardProgram = {
               "notes": "KNEES TO CHEST, CONTROLLED REPS, STRAIGHTEN LEGS MORE TO INCREASE DIFFICULTY",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/2RrGnjxSsiA?t=247"
             },
             {
               "name": "PULL-OVER",
@@ -4503,7 +4783,8 @@ export const nippardProgram = {
               "notes": "CAN USE A DB, CABLE/ROPE OR BAND, STRETCH AND SQUEEZE LATS!",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/Jlw-Vtypr-Y"
             },
             {
               "name": "DUMBBELL CURL",
@@ -4516,7 +4797,8 @@ export const nippardProgram = {
               "notes": "DO EACH ARM ONE AT A TIME RATHER THAN ALTERNATING, START WITH YOUR WEAK ARM",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/3FAvFJ0Vtag"
             }
           ]
         },
@@ -4552,7 +4834,8 @@ export const nippardProgram = {
               "notes": "3 SECOND PAUSE RIGHT AFTER THE PLATES COME OFF THE GROUND",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=VL5Ab0T07e4&"
             },
             {
               "name": "BARBELL BENCH PRESS",
@@ -4565,7 +4848,8 @@ export const nippardProgram = {
               "notes": "2-3 SECOND PAUSE ON THE CHEST",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=vcBig73ojpE"
             },
             {
               "name": "PENDLAY ROW",
@@ -4578,7 +4862,8 @@ export const nippardProgram = {
               "notes": "BE MINDFUL OF LOWER BACK FATIGUE. STAY LIGHT, MINIMIZE CHEATING",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=axoeDmW0oAY"
             },
             {
               "name": "HAM CURL",
@@ -4591,7 +4876,8 @@ export const nippardProgram = {
               "notes": "SEE VIDEO DEMOS PAGE, CAN SUB FOR LYING LEG CURL",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/e_48W0vlU58"
             },
             {
               "name": "SHRUG",
@@ -4604,7 +4890,8 @@ export const nippardProgram = {
               "notes": "FEEL A STRETCH ON THE TRAPS AT THE BOTTOM, SQUEEZE HARD AT THE TOP",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/C6sYjDFuq9I?t=326"
             }
           ]
         },
@@ -4632,7 +4919,8 @@ export const nippardProgram = {
               "notes": "CURL THE BAR OUT AND UP IN AN ARC. MINIMIZE MOMENTUM.",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=i1YgFZB6alI&t"
             },
             {
               "name": "FLOOR SKULL CRUSHER",
@@ -4645,7 +4933,8 @@ export const nippardProgram = {
               "notes": "ARC THE BAR BACK BEHIND YOUR HEAD, SOFT TOUCH ON THE FLOOR BEHIND YOU",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/popGXI-qs98?t=154"
             },
             {
               "name": "DUMBBELL LATERAL RAISE",
@@ -4658,7 +4947,8 @@ export const nippardProgram = {
               "notes": "ARC THE DUMBBELL OUT, MIND-MUSCLE CONNECTION WITH MIDDLE FIBERS",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=v_ZkxWzYnMc"
             },
             {
               "name": "BAND PULL-APART",
@@ -4671,7 +4961,8 @@ export const nippardProgram = {
               "notes": "MIND-MUSCLE CONNECTION WITH REAR DELTS",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/bN_lGBqZURw"
             },
             {
               "name": "STANDING CALF RAISE",
@@ -4684,7 +4975,8 @@ export const nippardProgram = {
               "notes": "1-2 SECOND PAUSE AT THE BOTTOM OF EACH REP , FULL SQUEEZE AT THE TOP",
               "category": "isolation",
               "muscleGroup": "legs",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-qsRtp_PbVM"
             },
             {
               "name": "BICYCLE CRUNCH",
@@ -4697,7 +4989,8 @@ export const nippardProgram = {
               "notes": "FOCUS ON ROUNDING YOUR BACK AS YOU CRUNCH HARD!",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/2RrGnjxSsiA?t=371"
             }
           ]
         },
@@ -4740,7 +5033,8 @@ export const nippardProgram = {
               "notes": "AS MANY REPS AS POSSIBLE. ALWAYS USE A SPOTTER AND GOOD FORM. AIM TO HIT 3+ REPS",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=bEv6CCg2BC8&t"
             },
             {
               "name": "SINGLE-ARM LAT PULLDOWN",
@@ -4753,7 +5047,8 @@ export const nippardProgram = {
               "notes": "PERFORM WITH BANDS IF NO LAT PULLDOWN, DRIVE ELBOWS DOWN AND IN",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/tQ2LSSP_0GQ?t=437"
             },
             {
               "name": "DUMBBELL CURL",
@@ -4766,7 +5061,8 @@ export const nippardProgram = {
               "notes": "FOCUS ON THE MIND-MUSCLE CONNECTION",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/3FAvFJ0Vtag"
             },
             {
               "name": "CALF RAISE",
@@ -4779,7 +5075,8 @@ export const nippardProgram = {
               "notes": "1-2 SECOND PAUSE AT THE BOTTOM OF EACH REP , FULL SQUEEZE AT THE TOP",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-qsRtp_PbVM"
             }
           ]
         },
@@ -4806,7 +5103,8 @@ export const nippardProgram = {
               "notes": "AS MANY REPS AS POSSIBLE. ALWAYS USE A SPOTTER AND GOOD FORM. AIM TO HIT 3+ REPS",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=vcBig73ojpE"
             },
             {
               "name": "CURL",
@@ -4819,7 +5117,8 @@ export const nippardProgram = {
               "notes": "DO LYING LEG CURL MACHINE OR NORDIC HAM CURL IF NO MACHINE ACCESS",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/Kd3tbUnbueU"
             },
             {
               "name": "LATERAL RAISE",
@@ -4832,7 +5131,8 @@ export const nippardProgram = {
               "notes": "ARC THE DUMBBELL OUT, MIND-MUSCLE CONNECTION WITH MIDDLE FIBERS",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=v_ZkxWzYnMc"
             },
             {
               "name": "PRESSDOWN",
@@ -4845,7 +5145,8 @@ export const nippardProgram = {
               "notes": "CAN DO WITH CABLES OR BANDS, SQUEEZE TRICEPS TO MOVE THE WEIGHT",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=94DXwlcX8Po"
             }
           ]
         },
@@ -4872,7 +5173,8 @@ export const nippardProgram = {
               "notes": "AS MANY REPS AS POSSIBLE. ALWAYS USE A SPOTTER AND GOOD FORM. AIM TO HIT 3+ REPS",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=VL5Ab0T07e4&"
             },
             {
               "name": "PRESS",
@@ -4885,7 +5187,8 @@ export const nippardProgram = {
               "notes": "RESET EACH REP (DON'T TOUCH-AND-PRESS)",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=_RlRDWO2jfg"
             },
             {
               "name": "EXTENSION",
@@ -4898,7 +5201,8 @@ export const nippardProgram = {
               "notes": "USE BANDS IF NO MACHINE ACCESS, MIND-MUSCLE CONNECTION WITH QUADS",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=ljO4jkwv8wQ"
             },
             {
               "name": "CRUNCH",
@@ -4911,7 +5215,8 @@ export const nippardProgram = {
               "notes": "FOCUS ON ROUNDING YOUR BACK AS YOU CRUNCH HARD!WEEK 10A JEFF NIPPARD'S - POWERBUILDING SYSTEM",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/2RrGnjxSsiA?t=371"
             }
           ]
         },
@@ -4962,7 +5267,8 @@ export const nippardProgram = {
               "notes": "AIM FOR A NEW PR. START WITH 100% AND INCREASE BY ~2.5% EVERY ATTEMPT UNTIL YOU",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=bEv6CCg2BC8&t"
             },
             {
               "name": "SINGLE-ARM LAT PULLDOWN",
@@ -4975,7 +5281,8 @@ export const nippardProgram = {
               "notes": "PERFORM WITH BANDS IF NO LAT PULLDOWN, DRIVE ELBOWS DOWN AND IN",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/tQ2LSSP_0GQ?t=437"
             },
             {
               "name": "DUMBBELL CURL",
@@ -4988,7 +5295,8 @@ export const nippardProgram = {
               "notes": "FOCUS ON THE MIND-MUSCLE CONNECTION",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/3FAvFJ0Vtag"
             },
             {
               "name": "CALF RAISE",
@@ -5001,7 +5309,8 @@ export const nippardProgram = {
               "notes": "1-2 SECOND PAUSE AT THE BOTTOM OF EACH REP , FULL SQUEEZE AT THE TOP",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-qsRtp_PbVM"
             }
           ]
         },
@@ -5028,7 +5337,8 @@ export const nippardProgram = {
               "notes": "AIM FOR A NEW PR. START WITH 100% AND INCREASE BY ~2.5% EVERY ATTEMPT UNTIL YOU",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=vcBig73ojpE"
             },
             {
               "name": "CURL",
@@ -5041,7 +5351,8 @@ export const nippardProgram = {
               "notes": "DO LYING LEG CURL MACHINE OR NORDIC HAM CURL IF NO MACHINE ACCESS",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/Kd3tbUnbueU"
             },
             {
               "name": "LATERAL RAISE",
@@ -5054,7 +5365,8 @@ export const nippardProgram = {
               "notes": "ARC THE DUMBBELL OUT, MIND-MUSCLE CONNECTION WITH MIDDLE FIBERS",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=v_ZkxWzYnMc"
             },
             {
               "name": "PRESSDOWN",
@@ -5067,7 +5379,8 @@ export const nippardProgram = {
               "notes": "CAN DO WITH CABLES OR BANDS, SQUEEZE TRICEPS TO MOVE THE WEIGHT",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=94DXwlcX8Po"
             }
           ]
         },
@@ -5094,7 +5407,8 @@ export const nippardProgram = {
               "notes": "AIM FOR A NEW PR. START WITH 100% AND INCREASE BY ~2.5% EVERY ATTEMPT. 5-MIN REST",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=VL5Ab0T07e4&"
             },
             {
               "name": "PRESS",
@@ -5107,7 +5421,8 @@ export const nippardProgram = {
               "notes": "RESET EACH REP (DON'T TOUCH-AND-PRESS)",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=_RlRDWO2jfg"
             },
             {
               "name": "EXTENSION",
@@ -5120,7 +5435,8 @@ export const nippardProgram = {
               "notes": "USE BANDS IF NO MACHINE ACCESS, MIND-MUSCLE CONNECTION WITH QUADS",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=ljO4jkwv8wQ"
             },
             {
               "name": "CRUNCH",
@@ -5133,7 +5449,8 @@ export const nippardProgram = {
               "notes": "FOCUS ON ROUNDING YOUR BACK AS YOU CRUNCH HARD!WEEK 10B JEFF NIPPARD'S - POWERBUILDING SYSTEM",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/2RrGnjxSsiA?t=371"
             }
           ]
         },
@@ -5184,7 +5501,8 @@ export const nippardProgram = {
               "notes": "BRACE YOUR LATS, CHEST TALL, PULL THE SLACK OUT OF THE BAR BEFORE LIFTING",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=VL5Ab0T07e4&"
             },
             {
               "name": "HIGH-BAR SQUAT",
@@ -5197,7 +5515,8 @@ export const nippardProgram = {
               "notes": "IF YOU SQUAT HIGH-BAR, DO SUMO BOX SQUAT. IF YOU SQUAT LOW-BAR, DO PAUSE HIGH-",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://youtu.be/TSCMUTG5yBI"
             },
             {
               "name": "CURL",
@@ -5210,7 +5529,8 @@ export const nippardProgram = {
               "notes": "DO LYING LEG CURL MACHINE OR NORDIC HAM CURL IF NO MACHINE ACCESS",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/Kd3tbUnbueU"
             },
             {
               "name": "CALF RAISE",
@@ -5223,7 +5543,8 @@ export const nippardProgram = {
               "notes": "1-2 SECOND PAUSE AT THE BOTTOM OF EACH REP , FULL SQUEEZE AT THE TOP",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-qsRtp_PbVM"
             },
             {
               "name": "LEG RAISE",
@@ -5236,7 +5557,8 @@ export const nippardProgram = {
               "notes": "KNEES TO CHEST, CONTROLLED REPS, STRAIGHTEN LEGS MORE TO INCREASE DIFFICULTY",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/2RrGnjxSsiA?t=247"
             }
           ]
         },
@@ -5263,7 +5585,8 @@ export const nippardProgram = {
               "notes": "SET UP A COMFORTABLE ARCH, SLIGHT PAUSE ON THE CHEST, EXPLODE UP",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=vcBig73ojpE"
             },
             {
               "name": "CHIN-UP",
@@ -5276,7 +5599,8 @@ export const nippardProgram = {
               "notes": "UNDERHAND GRIP , PULL YOUR CHEST TO THE BAR, ADD WEIGHT IF NEEDED TO HIT RPE",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/-d2Uui6MtRk"
             },
             {
               "name": "PRESS",
@@ -5289,7 +5613,8 @@ export const nippardProgram = {
               "notes": "SQUEEZE YOUR GLUTES TO KEEP YOUR TORSO UPRIGHT, PRESS UP AND SLIGHTLY BACK",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=_RlRDWO2jfg"
             },
             {
               "name": "ROW",
@@ -5302,7 +5627,8 @@ export const nippardProgram = {
               "notes": "LIE ON AN INCLINE BENCH AND DO ROWS - PULL WITH LATS!",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/axoeDmW0oAY?t=419"
             },
             {
               "name": "FACE PULL",
@@ -5315,7 +5641,8 @@ export const nippardProgram = {
               "notes": "CAN USE CABLE/ROPE OR BAND, RETRACT YOUR SHOULDER BLADES AS YOU PULL",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=qfc70k40318"
             },
             {
               "name": "DUMBBELL LATERAL RAISE",
@@ -5328,7 +5655,8 @@ export const nippardProgram = {
               "notes": "ARC THE DUMBBELL OUT, MIND-MUSCLE CONNECTION WITH MIDDLE FIBERS",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=v_ZkxWzYnMc"
             },
             {
               "name": "CONCENTRATION BICEP CURL",
@@ -5341,7 +5669,8 @@ export const nippardProgram = {
               "notes": "PIN YOUR ELBOW AGAINST YOUR UPPER LEG OR THE BACK OF A BENCH",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/kr4LtmKn9EE"
             },
             {
               "name": "TRICEPS PRESSDOWN",
@@ -5354,7 +5683,8 @@ export const nippardProgram = {
               "notes": "CAN DO WITH CABLES OR BANDS, SQUEEZE TRICEPS TO MOVE THE WEIGHTWEEK 11 JEFF NIPPARD'S - POWERBUILDING SYSTEM",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=94DXwlcX8Po"
             }
           ]
         },
@@ -5389,7 +5719,8 @@ export const nippardProgram = {
               "notes": "SHOULDER WIDTH GRIP , TUCK YOUR ELBOWS IN CLOSER TO YOUR TORSO",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://youtu.be/xGfUcV11x5g"
             },
             {
               "name": "ROW",
@@ -5402,7 +5733,8 @@ export const nippardProgram = {
               "notes": "LIE ON AN INCLINE BENCH AND DO ROWS - PULL WITH LATS!",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/axoeDmW0oAY?t=419"
             },
             {
               "name": "DIP",
@@ -5415,7 +5747,8 @@ export const nippardProgram = {
               "notes": "DO FLOOR DUMBBELL PRESS IF NO ACCESS TO DIP HANDLES",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=yN6Q1UI_xkE&"
             },
             {
               "name": "SINGLE-ARM LAT PULLDOWN",
@@ -5428,7 +5761,8 @@ export const nippardProgram = {
               "notes": "PERFORM WITH BANDS IF NO LAT PULLDOWN, DRIVE THROUGH ELBOWS",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/tQ2LSSP_0GQ?t=437"
             },
             {
               "name": "INCLINE SHRUG",
@@ -5441,7 +5775,8 @@ export const nippardProgram = {
               "notes": "LIE AGAINST AN INCLINE BENCH AND DO SHRUGS - FULL ROM AND SQUEEZE!",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/HsdwUZtGG_0"
             },
             {
               "name": "UPRIGHT ROW",
@@ -5454,7 +5789,8 @@ export const nippardProgram = {
               "notes": "CAN USE CABLES/ROPE, BANDS OR DUMBBELLS. STOP ROM ONCE ELBOWS REACH SHOULDER",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=nwkLwMRHMQo"
             },
             {
               "name": "BARBELL OR EZ BAR CURL",
@@ -5467,7 +5803,8 @@ export const nippardProgram = {
               "notes": "FOCUS ON THE MIND-MUSCLE CONNECTION",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=i1YgFZB6alI&t"
             },
             {
               "name": "SKULL CRUSHER",
@@ -5480,7 +5817,8 @@ export const nippardProgram = {
               "notes": "BARBELL OR EZ BAR, DO THESE ON A BENCH, CONSTANT TENSION ON TRICEPSWEEK 11 JEFF NIPPARD'S - POWERBUILDING SYSTEM",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=popGXI-qs98"
             }
           ]
         },
@@ -5515,7 +5853,8 @@ export const nippardProgram = {
               "notes": "SIT BACK AND DOWN, KEEP YOUR UPPER BACK TIGHT TO THE BAR",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=bEv6CCg2BC8&t"
             },
             {
               "name": "DEADLIFT",
@@ -5528,7 +5867,8 @@ export const nippardProgram = {
               "notes": "WIDE GRIP , MIND-MUSCLE CONNECTION WITH HAMSTRINGS",
               "category": "compound",
               "muscleGroup": "legs",
-              "equipment": "barbell"
+              "equipment": "barbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=VL5Ab0T07e4&"
             },
             {
               "name": "EXTENSION",
@@ -5541,7 +5881,8 @@ export const nippardProgram = {
               "notes": "USE BANDS IF NO MACHINE ACCESS, MIND-MUSCLE CONNECTION WITH QUADS",
               "category": "compound",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=ljO4jkwv8wQ"
             },
             {
               "name": "CALF RAISE",
@@ -5554,7 +5895,8 @@ export const nippardProgram = {
               "notes": "EMPHASIZE THE MIND-MUSCLE CONNECTION",
               "category": "isolation",
               "muscleGroup": "legs",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://www.youtube.com/watch?v=-qsRtp_PbVM"
             },
             {
               "name": "ABDUCTION",
@@ -5567,7 +5909,8 @@ export const nippardProgram = {
               "notes": "POINT TOES SLIGHTLY OUTWARD, MIND-MUSCLE CONNECTION WITH GLUTES",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/zfUWbpdjczg"
             },
             {
               "name": "SIT-UP",
@@ -5580,7 +5923,8 @@ export const nippardProgram = {
               "notes": "THINK ABOUT SQUEEZING YOUR UPPER AND LOWER ABS TOGETHER",
               "category": "isolation",
               "muscleGroup": "upper_body",
-              "equipment": "dumbbell"
+              "equipment": "dumbbell",
+              "youtubeUrl": "https://youtu.be/h-kVpuNoGaA"
             }
           ]
         }
