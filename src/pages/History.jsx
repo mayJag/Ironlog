@@ -1,11 +1,16 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { Calendar, ChevronLeft, ChevronRight, Clock, Dumbbell, Trash2, Award, ChevronDown, ChevronUp, Scale, Flame } from 'lucide-react';
-import { getAllWorkoutLogs, deleteWorkoutLog, getAllPersonalRecords } from '../store/db';
+import { Calendar, ChevronLeft, ChevronRight, Clock, Dumbbell, Trash2, Award, ChevronDown, ChevronUp, Scale, Flame, Pencil, X, Check, Save } from 'lucide-react';
+import { getAllWorkoutLogs, deleteWorkoutLog, getAllPersonalRecords, saveWorkoutLog } from '../store/db';
+import { volumeFromSets } from '../lib/fitness';
+import { useSettings } from '../store/SettingsContext';
+import { useToast } from '../components/Toast';
 import styles from './History.module.css';
 
 export default function History() {
   const navigate = useNavigate();
+  const { weightUnit } = useSettings();
+  const { confirm } = useToast();
   const [logs, setLogs] = useState([]);
   const [personalRecords, setPersonalRecords] = useState([]);
   const [loading, setLoading] = useState(true);
@@ -13,6 +18,7 @@ export default function History() {
   const [selectedDate, setSelectedDate] = useState(null); // YYYY-MM-DD
   const [expandedLogs, setExpandedLogs] = useState({}); // id -> boolean
   const [monthlyStats, setMonthlyStats] = useState({ total: 0, avgDuration: 0, topDay: 'N/A' });
+  const [editingLog, setEditingLog] = useState(null); // deep-copied log being edited
 
   useEffect(() => {
     loadHistoryData();
@@ -82,7 +88,13 @@ export default function History() {
 
   const handleDeleteLog = async (id, e) => {
     e.stopPropagation();
-    if (window.confirm("Are you sure you want to delete this workout log? This action cannot be undone.")) {
+    const ok = await confirm({
+      title: 'Delete this log?',
+      message: 'This workout session will be permanently removed.',
+      confirmLabel: 'Delete',
+      danger: true,
+    });
+    if (ok) {
       try {
         await deleteWorkoutLog(id);
         const updatedLogs = logs.filter(log => log.id !== id);
@@ -91,6 +103,42 @@ export default function History() {
       } catch (err) {
         console.error("Error deleting log:", err);
       }
+    }
+  };
+
+  // --- Edit a logged workout ---
+  const openEdit = (log, e) => {
+    e.stopPropagation();
+    setEditingLog(JSON.parse(JSON.stringify(log))); // deep copy so we can cancel
+  };
+
+  const editSetField = (exIdx, setIdx, field, value) => {
+    setEditingLog(prev => {
+      const next = { ...prev, exercises: prev.exercises.map((ex, i) => {
+        if (i !== exIdx) return ex;
+        return { ...ex, sets: ex.sets.map((s, j) => j === setIdx ? { ...s, [field]: value } : s) };
+      })};
+      return next;
+    });
+  };
+
+  const handleSaveEdit = async () => {
+    // Recompute totals from edited sets
+    let totalVolume = 0;
+    let totalSets = 0;
+    for (const ex of editingLog.exercises) {
+      const completed = (ex.sets || []).filter(s => s.completed);
+      totalSets += completed.length;
+      totalVolume += volumeFromSets(completed);
+    }
+    const updated = { ...editingLog, totalVolume, totalSets };
+    try {
+      await saveWorkoutLog(updated);
+      setLogs(prev => prev.map(l => l.id === updated.id ? updated : l));
+      calculateMonthlyStats(logs.map(l => l.id === updated.id ? updated : l), currentDate);
+      setEditingLog(null);
+    } catch (err) {
+      console.error('Failed to save edit:', err);
     }
   };
 
@@ -179,6 +227,32 @@ export default function History() {
         </div>
       </div>
 
+      {/* Personal Records */}
+      {personalRecords.length > 0 && (
+        <section className="section">
+          <div className="section__header">
+            <h2 className="section__title">Personal Records</h2>
+            <span className={styles.prCount}>{personalRecords.length} lifts</span>
+          </div>
+          <div className={styles.prGrid}>
+            {personalRecords
+              .slice()
+              .sort((a, b) => (b.weight || 0) - (a.weight || 0))
+              .map((pr) => (
+                <div key={pr.exerciseName} className={`${styles.prCardItem} card`}>
+                  <Award size={16} className={styles.prTrophy} />
+                  <div className={styles.prInfo}>
+                    <span className={styles.prName}>{pr.exerciseName}</span>
+                    <span className={styles.prValue}>
+                      {pr.weight} {weightUnit} × {pr.reps}
+                    </span>
+                  </div>
+                </div>
+              ))}
+          </div>
+        </section>
+      )}
+
       {/* Calendar */}
       <section className="section card">
         <div className={styles.calendarHeader}>
@@ -252,8 +326,15 @@ export default function History() {
                     </div>
                     
                     <div className={styles.logHeaderActions}>
-                      <button 
-                        className={`${styles.deleteBtn} btn btn--ghost`} 
+                      <button
+                        className="btn btn--ghost btn--icon"
+                        title="Edit log"
+                        onClick={(e) => openEdit(log, e)}
+                      >
+                        <Pencil size={15} />
+                      </button>
+                      <button
+                        className={`${styles.deleteBtn} btn btn--ghost`}
                         onClick={(e) => handleDeleteLog(log.id, e)}
                       >
                         <Trash2 size={16} />
@@ -276,7 +357,7 @@ export default function History() {
                     </div>
                     <div className={styles.summaryItem}>
                       <Scale size={14} className={styles.summaryIcon} />
-                      <span>{log.totalVolume?.toLocaleString() || 0} kg</span>
+                      <span>{log.totalVolume?.toLocaleString() || 0} {log.weightUnit || weightUnit}</span>
                     </div>
                   </div>
 
@@ -301,7 +382,7 @@ export default function History() {
                                 <div key={setIdx} className={styles.setRow}>
                                   <span className={styles.setNum}>Set {setIdx + 1}</span>
                                   <span className={styles.setVal}>
-                                    {set.weight} kg × {set.reps} {set.completed ? '✓' : '(missed)'}
+                                    {set.weight} {log.weightUnit || weightUnit} × {set.reps} {set.completed ? '✓' : '(missed)'}
                                   </span>
                                 </div>
                               ))}
@@ -327,6 +408,54 @@ export default function History() {
           </div>
         )}
       </section>
+
+      {/* Edit log modal */}
+      {editingLog && (
+        <div className="modal-overlay" onClick={() => setEditingLog(null)}>
+          <div className="modal-content" onClick={(e) => e.stopPropagation()}>
+            <div className="modal-handle" />
+            <div className={styles.editHeader}>
+              <h3 className={styles.editTitle}>Edit Workout</h3>
+              <button className="btn btn--ghost btn--icon" onClick={() => setEditingLog(null)}><X size={20} /></button>
+            </div>
+
+            <input
+              className="input"
+              value={editingLog.name}
+              onChange={(e) => setEditingLog({ ...editingLog, name: e.target.value })}
+              style={{ marginBottom: 'var(--sp-4)' }}
+            />
+
+            <div className={styles.editExList}>
+              {editingLog.exercises?.map((ex, exIdx) => (
+                <div key={exIdx} className={styles.editEx}>
+                  <span className={styles.editExName}>{ex.name}</span>
+                  {ex.sets?.map((set, setIdx) => (
+                    <div key={setIdx} className={styles.editSetRow}>
+                      <span className={styles.editSetNum}>Set {setIdx + 1}</span>
+                      <input type="number" className="input input--sm" value={set.weight ?? 0}
+                        onChange={(e) => editSetField(exIdx, setIdx, 'weight', parseFloat(e.target.value) || 0)} />
+                      <span className={styles.editX}>×</span>
+                      <input type="number" className="input input--sm" value={set.reps ?? 0}
+                        onChange={(e) => editSetField(exIdx, setIdx, 'reps', parseInt(e.target.value) || 0)} />
+                      <button
+                        className={`checkbox ${set.completed ? 'checkbox--checked' : ''}`}
+                        onClick={() => editSetField(exIdx, setIdx, 'completed', !set.completed)}
+                      >
+                        {set.completed && <Check size={14} />}
+                      </button>
+                    </div>
+                  ))}
+                </div>
+              ))}
+            </div>
+
+            <button className="btn btn--primary btn--full" onClick={handleSaveEdit} style={{ marginTop: 'var(--sp-4)' }}>
+              <Save size={16} /> Save Changes
+            </button>
+          </div>
+        </div>
+      )}
     </div>
   );
 }

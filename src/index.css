@@ -4,39 +4,40 @@
 
 /* --- CSS Custom Properties --- */
 :root {
-  /* Colors — Premium Dark Theme */
-  --bg-primary: hsl(225, 20%, 7%);
-  --bg-secondary: hsl(225, 18%, 11%);
-  --bg-card: hsl(225, 16%, 14%);
-  --bg-card-hover: hsl(225, 16%, 17%);
-  --bg-elevated: hsl(225, 14%, 18%);
-  --bg-input: hsl(225, 18%, 10%);
-  --bg-overlay: hsla(225, 20%, 5%, 0.85);
+  /* Colors — Graphite + Electric Blue (dark, athletic, data-forward) */
+  --bg-primary: hsl(240, 8%, 4%);
+  --bg-secondary: hsl(228, 11%, 8%);
+  --bg-card: hsl(225, 10%, 11%);
+  --bg-card-hover: hsl(225, 10%, 14%);
+  --bg-elevated: hsl(225, 9%, 16%);
+  --bg-input: hsl(228, 12%, 9%);
+  --bg-overlay: hsla(240, 10%, 2%, 0.78);
 
-  --border-subtle: hsla(225, 15%, 30%, 0.3);
-  --border-default: hsla(225, 15%, 35%, 0.4);
-  --border-accent: hsla(45, 100%, 55%, 0.3);
+  --border-subtle: hsla(225, 12%, 40%, 0.16);
+  --border-default: hsla(225, 12%, 48%, 0.26);
+  --border-accent: hsla(212, 96%, 58%, 0.45);
 
-  /* Accent Colors */
-  --accent-primary: hsl(45, 100%, 55%);
-  --accent-primary-dim: hsl(45, 80%, 40%);
-  --accent-primary-glow: hsla(45, 100%, 55%, 0.15);
-  --accent-secondary: hsl(210, 100%, 60%);
-  --accent-secondary-dim: hsl(210, 70%, 45%);
-  --accent-secondary-glow: hsla(210, 100%, 60%, 0.12);
+  /* Accent Colors — single electric-blue primary, cyan for subtle gradients */
+  --accent-primary: hsl(212, 96%, 56%);
+  --accent-primary-dim: hsl(212, 70%, 42%);
+  --accent-primary-glow: hsla(212, 96%, 56%, 0.16);
+  --accent-secondary: hsl(199, 92%, 58%);
+  --accent-secondary-dim: hsl(199, 70%, 44%);
+  --accent-secondary-glow: hsla(199, 92%, 58%, 0.12);
 
-  --success: hsl(142, 70%, 45%);
-  --success-dim: hsl(142, 50%, 30%);
-  --success-glow: hsla(142, 70%, 45%, 0.15);
-  --warning: hsl(38, 92%, 50%);
-  --danger: hsl(0, 72%, 55%);
-  --danger-dim: hsl(0, 50%, 35%);
+  --success: hsl(152, 62%, 45%);
+  --success-dim: hsl(152, 45%, 28%);
+  --success-glow: hsla(152, 62%, 45%, 0.14);
+  --warning: hsl(38, 92%, 55%);
+  --warning-glow: hsla(38, 92%, 55%, 0.14);
+  --danger: hsl(0, 70%, 58%);
+  --danger-dim: hsl(0, 45%, 32%);
 
   /* Text */
-  --text-primary: hsl(0, 0%, 93%);
-  --text-secondary: hsl(225, 10%, 62%);
-  --text-tertiary: hsl(225, 10%, 42%);
-  --text-inverse: hsl(225, 20%, 7%);
+  --text-primary: hsl(220, 14%, 96%);
+  --text-secondary: hsl(222, 9%, 60%);
+  --text-tertiary: hsl(223, 9%, 40%);
+  --text-inverse: hsl(240, 10%, 4%);
   --text-accent: var(--accent-primary);
 
   /* Typography */
@@ -71,18 +72,18 @@
   --sp-20: 5rem;
 
   /* Borders */
-  --radius-sm: 8px;
-  --radius-md: 12px;
-  --radius-lg: 16px;
-  --radius-xl: 20px;
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 14px;
+  --radius-xl: 18px;
   --radius-full: 999px;
 
-  /* Shadows */
-  --shadow-sm: 0 1px 3px hsla(0, 0%, 0%, 0.3);
-  --shadow-md: 0 4px 12px hsla(0, 0%, 0%, 0.4);
-  --shadow-lg: 0 8px 32px hsla(0, 0%, 0%, 0.5);
-  --shadow-glow-accent: 0 0 20px hsla(45, 100%, 55%, 0.2);
-  --shadow-glow-blue: 0 0 20px hsla(210, 100%, 60%, 0.15);
+  /* Shadows — soft, low-key depth (no heavy neon glows) */
+  --shadow-sm: 0 1px 2px hsla(0, 0%, 0%, 0.4);
+  --shadow-md: 0 6px 18px hsla(0, 0%, 0%, 0.45);
+  --shadow-lg: 0 16px 44px hsla(0, 0%, 0%, 0.55);
+  --shadow-glow-accent: 0 4px 16px hsla(212, 96%, 56%, 0.25);
+  --shadow-glow-blue: 0 4px 16px hsla(199, 92%, 58%, 0.2);
 
   /* Transitions */
   --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
@@ -269,12 +270,12 @@ ul, ol { list-style: none; }
 
 .btn--primary {
   background: var(--accent-primary);
-  color: var(--text-inverse);
+  color: hsl(0, 0%, 100%);
+  box-shadow: var(--shadow-glow-accent);
 }
 
 .btn--primary:hover {
-  background: hsl(45, 100%, 60%);
-  box-shadow: var(--shadow-glow-accent);
+  background: hsl(212, 96%, 62%);
 }
 
 .btn--secondary {
@@ -304,7 +305,7 @@ ul, ol { list-style: none; }
 
 .btn--success {
   background: var(--success);
-  color: var(--text-inverse);
+  color: hsl(0, 0%, 100%);
 }
 
 .btn--sm {
@@ -387,8 +388,19 @@ ul, ol { list-style: none; }
 }
 
 .badge--danger {
-  background: hsla(0, 72%, 55%, 0.15);
+  background: hsla(0, 70%, 58%, 0.15);
   color: var(--danger);
+}
+
+.badge--amber {
+  background: var(--warning-glow);
+  color: var(--warning);
+}
+
+.badge--neutral {
+  background: var(--bg-elevated);
+  color: var(--text-secondary);
+  border: 1px solid var(--border-subtle);
 }
 
 /* --- Checkbox --- */
@@ -473,6 +485,10 @@ ul, ol { list-style: none; }
   border-radius: var(--radius-md);
   padding: var(--sp-3);
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
 }
 
 .stat-card__value {
@@ -665,7 +681,7 @@ ul, ol { list-style: none; }
   height: 56px;
   border-radius: var(--radius-full);
   background: var(--accent-primary);
-  color: var(--text-inverse);
+  color: hsl(0, 0%, 100%);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -680,6 +696,28 @@ ul, ol { list-style: none; }
 
 .fab:active {
   transform: scale(0.95);
+}
+
+/* --- Text utilities --- */
+.text-danger { color: var(--danger) !important; }
+.text-accent { color: var(--accent-primary) !important; }
+.text-success { color: var(--success) !important; }
+.text-muted { color: var(--text-secondary) !important; }
+.text-truncate {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+}
+
+/* --- Chart helpers --- */
+.chart-empty {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 120px;
+  color: var(--text-tertiary);
+  font-size: var(--fs-sm);
 }
 
 /* --- Select Dropdown --- */

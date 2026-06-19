@@ -1,8 +1,10 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Play, Pause, RotateCcw, X, Plus, Minus } from 'lucide-react';
+import { useSettings } from '../store/SettingsContext';
 import styles from './RestTimer.module.css';
 
 export default function RestTimer({ initialDuration = 90, onComplete, onSkip, isVisible }) {
+  const { soundEnabled, vibrationEnabled } = useSettings();
   const [totalTime, setTotalTime] = useState(initialDuration);
   const [timeLeft, setTimeLeft] = useState(initialDuration);
   const [isRunning, setIsRunning] = useState(true);
@@ -36,27 +38,29 @@ export default function RestTimer({ initialDuration = 90, onComplete, onSkip, is
   }, [isRunning, timeLeft]);
 
   const triggerEndSignals = () => {
-    // 1. Audio oscillator beep
-    try {
-      const AudioContextClass = window.AudioContext || window.webkitAudioContext;
-      if (AudioContextClass) {
-        const ctx = new AudioContextClass();
-        const osc = ctx.createOscillator();
-        const gain = ctx.createGain();
-        osc.connect(gain);
-        gain.connect(ctx.destination);
-        osc.frequency.value = 880; // A5 note (pleasant high beep)
-        gain.gain.setValueAtTime(0.3, ctx.currentTime);
-        gain.gain.exponentialRampToValueAtTime(0.01, ctx.currentTime + 0.35);
-        osc.start();
-        osc.stop(ctx.currentTime + 0.45);
+    // 1. Audio oscillator beep (respects the Sound Effects setting)
+    if (soundEnabled) {
+      try {
+        const AudioContextClass = window.AudioContext || window.webkitAudioContext;
+        if (AudioContextClass) {
+          const ctx = new AudioContextClass();
+          const osc = ctx.createOscillator();
+          const gain = ctx.createGain();
+          osc.connect(gain);
+          gain.connect(ctx.destination);
+          osc.frequency.value = 880; // A5 note (pleasant high beep)
+          gain.gain.setValueAtTime(0.3, ctx.currentTime);
+          gain.gain.exponentialRampToValueAtTime(0.01, ctx.currentTime + 0.35);
+          osc.start();
+          osc.stop(ctx.currentTime + 0.45);
+        }
+      } catch (e) {
+        console.warn("AudioContext failed:", e);
       }
-    } catch (e) {
-      console.warn("AudioContext failed:", e);
     }
 
-    // 2. Vibrate
-    if (navigator.vibrate) {
+    // 2. Vibrate (respects the Haptic Vibration setting)
+    if (vibrationEnabled && navigator.vibrate) {
       navigator.vibrate([150, 100, 150]);
     }
   };

@@ -6,11 +6,13 @@ import { nippardProgram } from '../data/nippardProgram';
 import { hybridProgram } from '../data/hybridProgram';
 import { savePlan, setSetting } from '../store/db';
 import { getExerciseVideoUrl } from '../data/exerciseVideos';
+import { useToast } from '../components/Toast';
 import styles from './Programs.module.css';
 
 export default function Programs() {
   const { programId } = useParams();
   const navigate = useNavigate();
+  const { toast, confirm } = useToast();
   
   // Program Details State
   const [selectedWeek, setSelectedWeek] = useState(1);
@@ -50,7 +52,12 @@ export default function Programs() {
   const handleStartFullProgram = async () => {
     if (!activeProgram) return;
 
-    if (window.confirm(`Do you want to set "${activeProgram.name}" as your active workout program?`)) {
+    const ok = await confirm({
+      title: 'Activate program?',
+      message: `Set "${activeProgram.name}" as your active workout program?`,
+      confirmLabel: 'Activate',
+    });
+    if (ok) {
       try {
         // Construct the weekly schedule mapping based on the program structure
         // We'll generate a standard plan object
@@ -90,7 +97,8 @@ export default function Programs() {
               type: day.type || 'main',
               exercises: day.exercises || [],
               estimatedDuration: day.estimatedDuration || 45,
-              dayNumber: day.dayNumber
+              dayNumber: day.dayNumber,
+              programId: activeProgram.id
             };
           }
         });
@@ -99,16 +107,19 @@ export default function Programs() {
         await savePlan(newPlan);
         await setSetting('activePlan', newPlan);
 
-        alert(`"${activeProgram.name}" started successfully! Today's session is loaded.`);
+        toast(`"${activeProgram.name}" activated! Today's session is loaded.`, 'success');
         navigate('/');
       } catch (err) {
         console.error("Failed to start program plan:", err);
+        toast('Failed to activate program.', 'error');
       }
     }
   };
 
   const handleStartWorkoutDay = (day) => {
-    navigate('/workout', { state: { workout: day, planDay: day } });
+    // Carry the program id so the session is correctly labelled in history.
+    const workout = { ...day, programId: day.programId || activeProgram?.id };
+    navigate('/workout', { state: { workout, planDay: workout } });
   };
 
   // List view of both programs

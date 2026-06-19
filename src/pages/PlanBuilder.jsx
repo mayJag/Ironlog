@@ -1,47 +1,60 @@
 import React, { useState, useEffect } from 'react';
-import { useNavigate } from 'react-router-dom';
-import { Calendar, Plus, Trash2, Dumbbell, Clock, Play, Save, Check, ShieldAlert, Sparkles, AlertCircle } from 'lucide-react';
+import { useNavigate, useLocation } from 'react-router-dom';
+import { Calendar, Plus, Trash2, Dumbbell, Clock, Play, Save, Check, ShieldAlert, Sparkles, AlertCircle, Pencil, Bookmark } from 'lucide-react';
 import { btrProgram } from '../data/btrProgram';
 import { nippardProgram } from '../data/nippardProgram';
-import { savePlan, setSetting, generateId, saveRoutine } from '../store/db';
+import { savePlan, setSetting, generateId, saveRoutine, getAllRoutines, deleteRoutine } from '../store/db';
+import { useToast } from '../components/Toast';
+import { BASE_EXERCISES, useExerciseLibrary } from '../data/exercises';
 import styles from './PlanBuilder.module.css';
 
-// Master Exercise Database for Custom Plan and Quick Workouts
-export const MASTER_EXERCISES = [
-  { name: 'Back Squat', muscleGroup: 'legs', category: 'compound', equipment: 'barbell' },
-  { name: 'Bench Press', muscleGroup: 'chest', category: 'compound', equipment: 'barbell' },
-  { name: 'Deadlift', muscleGroup: 'legs', category: 'compound', equipment: 'barbell' },
-  { name: 'Overhead Press', muscleGroup: 'shoulders', category: 'compound', equipment: 'barbell' },
-  { name: 'Barbell Row', muscleGroup: 'back', category: 'compound', equipment: 'barbell' },
-  { name: 'Lat Pulldown', muscleGroup: 'back', category: 'compound', equipment: 'cable' },
-  { name: 'Dumbbell Lateral Raise', muscleGroup: 'shoulders', category: 'isolation', equipment: 'dumbbell' },
-  { name: 'Incline Dumbbell Press', muscleGroup: 'chest', category: 'compound', equipment: 'dumbbell' },
-  { name: 'Cable Bicep Curl', muscleGroup: 'arms', category: 'isolation', equipment: 'cable' },
-  { name: 'Triceps Pushdown', muscleGroup: 'arms', category: 'isolation', equipment: 'cable' },
-  { name: 'Leg Press', muscleGroup: 'legs', category: 'compound', equipment: 'machine' },
-  { name: 'Lying Leg Curl', muscleGroup: 'legs', category: 'isolation', equipment: 'machine' },
-  { name: 'Leg Extension', muscleGroup: 'legs', category: 'isolation', equipment: 'machine' },
-  { name: 'Romanian Deadlift', muscleGroup: 'legs', category: 'compound', equipment: 'barbell' },
-  { name: 'Pull Up', muscleGroup: 'back', category: 'compound', equipment: 'bodyweight' },
-  { name: 'Push Up', muscleGroup: 'chest', category: 'compound', equipment: 'bodyweight' },
-  { name: 'Vertical Jump', muscleGroup: 'legs', category: 'plyometric', equipment: 'bodyweight' },
-  { name: 'Depth Jump', muscleGroup: 'legs', category: 'plyometric', equipment: 'bodyweight' },
-  { name: 'Broad Jump', muscleGroup: 'legs', category: 'plyometric', equipment: 'bodyweight' },
-  { name: 'Bulgarian Split Squat', muscleGroup: 'legs', category: 'compound', equipment: 'dumbbell' },
-  { name: 'Tibialis Raise', muscleGroup: 'legs', category: 'isolation', equipment: 'bodyweight' },
-  { name: 'Calf Raise', muscleGroup: 'legs', category: 'isolation', equipment: 'bodyweight' },
-  { name: 'Plank', muscleGroup: 'core', category: 'core', equipment: 'bodyweight' },
-  { name: 'Hanging Leg Raise', muscleGroup: 'core', category: 'core', equipment: 'bodyweight' },
-  { name: 'Russian Twist', muscleGroup: 'core', category: 'core', equipment: 'bodyweight' },
-  { name: 'Face Pull', muscleGroup: 'shoulders', category: 'isolation', equipment: 'cable' },
-  { name: 'Pogo Jumps', muscleGroup: 'legs', category: 'plyometric', equipment: 'bodyweight' },
-  { name: 'Couch Stretch', muscleGroup: 'legs', category: 'mobility', equipment: 'bodyweight' },
-  { name: 'World\'s Greatest Stretch', muscleGroup: 'full_body', category: 'mobility', equipment: 'bodyweight' }
-];
+// Re-exported for backward compatibility (e.g. ActiveWorkout fallback list).
+export const MASTER_EXERCISES = BASE_EXERCISES;
 
 export default function PlanBuilder() {
   const navigate = useNavigate();
-  const [activeTab, setActiveTab] = useState('program'); // 'program', 'hybrid', 'custom', 'quick'
+  const location = useLocation();
+  const { toast, confirm } = useToast();
+  const { exercises: libraryExercises } = useExerciseLibrary();
+  const [activeTab, setActiveTab] = useState('program'); // 'program', 'hybrid', 'custom', 'quick', 'routines'
+
+  // --- Saved Routines State ---
+  const [routines, setRoutines] = useState([]);
+
+  const loadRoutines = async () => {
+    try {
+      const all = await getAllRoutines();
+      setRoutines(all.reverse()); // newest first
+    } catch (e) {
+      console.error('Failed to load routines:', e);
+    }
+  };
+
+  useEffect(() => {
+    loadRoutines();
+  }, []);
+
+  const handleStartRoutine = (routine) => {
+    navigate('/workout', { state: { workout: routine, planDay: routine } });
+  };
+
+  const handleDeleteRoutine = async (id) => {
+    const ok = await confirm({
+      title: 'Delete routine?',
+      message: 'This saved routine will be removed permanently.',
+      confirmLabel: 'Delete',
+      danger: true,
+    });
+    if (!ok) return;
+    try {
+      await deleteRoutine(id);
+      setRoutines((prev) => prev.filter((r) => r.id !== id));
+      toast('Routine deleted.', 'success');
+    } catch (e) {
+      console.error(e);
+      toast('Failed to delete routine.', 'error');
+    }
+  };
 
   // --- Follow Program State ---
   const [progSelected, setProgSelected] = useState('nippard-powerbuilding');
@@ -73,6 +86,39 @@ export default function PlanBuilder() {
   const [selectedCustomDayKey, setSelectedCustomDayKey] = useState('mon');
   const [customSearch, setCustomSearch] = useState('');
   const [customFilterCategory, setCustomFilterCategory] = useState('all');
+
+  // Hydrate the Custom editor from a generated plan handed over by the Goals page.
+  useEffect(() => {
+    const editPlan = location.state?.editPlan;
+    if (!editPlan) return;
+    setActiveTab('custom');
+    setCustomName(editPlan.name || 'My Plan');
+    const hydrated = {};
+    for (const key of ['mon', 'tue', 'wed', 'thu', 'fri', 'sat', 'sun']) {
+      const day = editPlan.weeklySchedule?.[key];
+      if (day && day.type !== 'rest') {
+        hydrated[key] = {
+          active: true,
+          name: day.name,
+          exercises: (day.exercises || []).map(e => ({
+            name: e.name,
+            sets: Number(e.sets) || 3,
+            reps: String(e.reps ?? '10'),
+            rest: e.rest || '90s',
+            notes: e.notes || '',
+            muscleGroup: e.muscleGroup,
+            equipment: e.equipment,
+          })),
+        };
+      } else {
+        hydrated[key] = { active: false, name: 'Rest Day', exercises: [] };
+      }
+    }
+    setCustomDays(hydrated);
+    const firstActive = Object.keys(hydrated).find(k => hydrated[k].active);
+    if (firstActive) setSelectedCustomDayKey(firstActive);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [location.state]);
 
   // --- Quick Workout State ---
   const [quickDuration, setQuickDuration] = useState(30); // 15, 30, 45, 60
@@ -123,25 +169,26 @@ export default function PlanBuilder() {
             type: day.type || (day.exercises?.length > 0 ? 'main' : 'rest'),
             exercises: day.exercises || [],
             estimatedDuration: day.estimatedDuration || (day.type === 'rest' ? 0 : 45),
-            dayNumber: day.dayNumber
+            dayNumber: day.dayNumber,
+            programId: activeProgram.id
           };
         }
       });
 
       await savePlan(newPlan);
       await setSetting('activePlan', newPlan);
-      alert(`Successfully saved and activated plan: ${activeProgram.name}`);
+      toast(`Activated plan: ${activeProgram.name}`, 'success');
       navigate('/');
     } catch (err) {
       console.error(err);
-      alert("Failed to save plan");
+      toast('Failed to save plan.', 'error');
     }
   };
 
   // --- Hybrid Plan Save ---
   const handleSaveHybridPlan = async () => {
     if (!hybridName.trim()) {
-      alert("Please enter a plan name.");
+      toast('Please enter a plan name.', 'warning');
       return;
     }
 
@@ -186,11 +233,11 @@ export default function PlanBuilder() {
 
       await savePlan(newPlan);
       await setSetting('activePlan', newPlan);
-      alert(`Hybrid plan "${hybridName}" successfully created and activated!`);
+      toast(`Hybrid plan "${hybridName}" activated!`, 'success');
       navigate('/');
     } catch (err) {
       console.error(err);
-      alert("Failed to create hybrid plan.");
+      toast('Failed to create hybrid plan.', 'error');
     }
   };
 
@@ -271,7 +318,7 @@ export default function PlanBuilder() {
 
   const handleSaveCustomPlan = async () => {
     if (!customName.trim()) {
-      alert("Please enter a custom plan name.");
+      toast('Please enter a custom plan name.', 'warning');
       return;
     }
 
@@ -301,10 +348,11 @@ export default function PlanBuilder() {
 
       await savePlan(newPlan);
       await setSetting('activePlan', newPlan);
-      alert(`Custom plan "${customName}" successfully activated!`);
+      toast(`Custom plan "${customName}" activated!`, 'success');
       navigate('/');
     } catch (err) {
       console.error(err);
+      toast('Failed to save custom plan.', 'error');
     }
   };
 
@@ -313,14 +361,14 @@ export default function PlanBuilder() {
     // Filter master exercises based on target focus
     let pool = [];
     if (quickFocus === 'upper') {
-      pool = MASTER_EXERCISES.filter(ex => ['chest', 'back', 'shoulders', 'arms'].includes(ex.muscleGroup));
+      pool = libraryExercises.filter(ex => ['chest', 'back', 'shoulders', 'arms'].includes(ex.muscleGroup));
     } else if (quickFocus === 'lower') {
-      pool = MASTER_EXERCISES.filter(ex => ex.muscleGroup === 'legs');
+      pool = libraryExercises.filter(ex => ex.muscleGroup === 'legs');
     } else if (quickFocus === 'plyo') {
-      pool = MASTER_EXERCISES.filter(ex => ex.category === 'plyometric' || ex.category === 'mobility');
+      pool = libraryExercises.filter(ex => ex.category === 'plyometric' || ex.category === 'mobility');
     } else {
       // Full Body
-      pool = [...MASTER_EXERCISES];
+      pool = [...libraryExercises];
     }
 
     // Determine target count based on duration (roughly 7-8 mins per exercise)
@@ -368,14 +416,16 @@ export default function PlanBuilder() {
         createdAt: Date.now()
       };
       await saveRoutine(newRoutine);
-      alert(`Workout saved to your Custom Routines directory!`);
+      await loadRoutines();
+      toast('Saved to My Routines.', 'success');
     } catch (e) {
       console.error(e);
+      toast('Failed to save routine.', 'error');
     }
   };
 
   // Custom Exercises Filter
-  const filteredExercises = MASTER_EXERCISES.filter(ex => {
+  const filteredExercises = libraryExercises.filter(ex => {
     const matchesSearch = ex.name.toLowerCase().includes(customSearch.toLowerCase());
     const matchesCategory = customFilterCategory === 'all' || ex.category === customFilterCategory;
     return matchesSearch && matchesCategory;
@@ -413,6 +463,12 @@ export default function PlanBuilder() {
           onClick={() => setActiveTab('quick')}
         >
           Quick Workout
+        </button>
+        <button
+          className={`tab ${activeTab === 'routines' ? 'tab--active' : ''}`}
+          onClick={() => setActiveTab('routines')}
+        >
+          My Routines
         </button>
       </div>
 
@@ -802,6 +858,71 @@ export default function PlanBuilder() {
                   <Save size={14} /> Save to Routines
                 </button>
               </div>
+            </div>
+          )}
+        </div>
+      )}
+
+      {/* 5. MY ROUTINES VIEW */}
+      {activeTab === 'routines' && (
+        <div className="stagger">
+          <div className="card">
+            <h2 className={styles.sectionTitle}>Saved Routines</h2>
+            <p className={styles.sectionDesc}>
+              Build reusable single-session routines, then start or edit them anytime.
+            </p>
+            <button
+              className="btn btn--primary btn--full"
+              onClick={() => navigate('/routine/new')}
+            >
+              <Plus size={16} /> Create New Routine
+            </button>
+          </div>
+
+          {routines.length > 0 ? (
+            <div className={styles.routineList}>
+              {routines.map((routine) => (
+                <div key={routine.id} className={`${styles.routineCard} card`}>
+                  <div className={styles.routineInfo}>
+                    <Bookmark size={16} className={styles.routineIcon} />
+                    <div>
+                      <span className={styles.routineName}>{routine.name}</span>
+                      <span className={styles.routineMeta}>
+                        {routine.exercises?.length || 0} exercises
+                      </span>
+                    </div>
+                  </div>
+                  <div className={styles.routineActions}>
+                    <button
+                      className="btn btn--primary btn--sm btn--icon"
+                      title="Start routine"
+                      onClick={() => handleStartRoutine(routine)}
+                    >
+                      <Play size={14} fill="currentColor" />
+                    </button>
+                    <button
+                      className="btn btn--secondary btn--sm btn--icon"
+                      title="Edit routine"
+                      onClick={() => navigate(`/routine/${routine.id}/edit`)}
+                    >
+                      <Pencil size={14} />
+                    </button>
+                    <button
+                      className="btn btn--ghost btn--sm btn--icon text-danger"
+                      title="Delete routine"
+                      onClick={() => handleDeleteRoutine(routine.id)}
+                    >
+                      <Trash2 size={14} />
+                    </button>
+                  </div>
+                </div>
+              ))}
+            </div>
+          ) : (
+            <div className="empty-state card" style={{ marginTop: 'var(--sp-4)' }}>
+              <Bookmark size={32} />
+              <h3>No saved routines</h3>
+              <p>Create one above, or save a generated Quick Workout to reuse it later.</p>
             </div>
           )}
         </div>

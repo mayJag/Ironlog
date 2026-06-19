@@ -8,6 +8,13 @@ import History from './pages/History';
 import Settings from './pages/Settings';
 import ActiveWorkout from './pages/ActiveWorkout';
 import RoutineEditor from './pages/RoutineEditor';
+import More from './pages/More';
+import Progress from './pages/Progress';
+import Body from './pages/Body';
+import Achievements from './pages/Achievements';
+import Goals from './pages/Goals';
+import Calculators from './pages/Calculators';
+import Exercises from './pages/Exercises';
 
 export default function App() {
   const location = useLocation();
@@ -25,6 +32,13 @@ export default function App() {
           <Route path="/routine/:routineId/edit" element={<RoutineEditor />} />
           <Route path="/history" element={<History />} />
           <Route path="/settings" element={<Settings />} />
+          <Route path="/more" element={<More />} />
+          <Route path="/progress" element={<Progress />} />
+          <Route path="/body" element={<Body />} />
+          <Route path="/achievements" element={<Achievements />} />
+          <Route path="/goals" element={<Goals />} />
+          <Route path="/tools" element={<Calculators />} />
+          <Route path="/exercises" element={<Exercises />} />
           <Route path="/workout" element={<ActiveWorkout />} />
         </Routes>
       </main>

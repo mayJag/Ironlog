@@ -240,3 +240,63 @@
   text-overflow: ellipsis;
   max-width: 100%;
 }
+
+/* --- Personal Records --- */
+.prCount {
+  font-size: var(--fs-xs);
+  color: var(--text-tertiary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.prGrid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--sp-3);
+}
+
+.prCardItem {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-3);
+  padding: var(--sp-3);
+}
+
+.prTrophy {
+  color: var(--accent-primary);
+  flex-shrink: 0;
+}
+
+.prInfo {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.prName {
+  font-size: var(--fs-sm);
+  font-weight: var(--fw-semibold);
+  color: var(--text-primary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.prValue {
+  font-size: var(--fs-xs);
+  color: var(--accent-primary);
+  font-weight: var(--fw-semibold);
+}
+
+/* --- Edit log modal --- */
+.editHeader {
+  display: flex; align-items: center; justify-content: space-between;
+  margin-bottom: var(--sp-4);
+}
+.editTitle { font-size: var(--fs-md); font-weight: var(--fw-bold); color: var(--text-primary); }
+.editExList { display: flex; flex-direction: column; gap: var(--sp-4); max-height: 50vh; overflow-y: auto; }
+.editEx { display: flex; flex-direction: column; gap: var(--sp-2); }
+.editExName { font-size: var(--fs-sm); font-weight: var(--fw-bold); color: var(--text-primary); }
+.editSetRow { display: flex; align-items: center; gap: var(--sp-2); }
+.editSetNum { width: 48px; font-size: var(--fs-xs); color: var(--text-tertiary); }
+.editX { color: var(--text-tertiary); }

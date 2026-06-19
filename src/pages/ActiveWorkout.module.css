@@ -219,7 +219,7 @@
 }
 
 .prBox {
-  background: hsla(142, 70%, 45%, 0.1);
+  background: var(--success-glow);
   border: 1px solid var(--success-dim);
   border-radius: var(--radius-md);
   padding: var(--sp-4);
@@ -372,3 +372,33 @@
 }
 
 
+
+/* --- Smart suggestion bar --- */
+.suggestionBar {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-2);
+  width: 100%;
+  margin: var(--sp-1) 0 var(--sp-3);
+  padding: var(--sp-2) var(--sp-3);
+  background: var(--accent-primary-glow);
+  border: 1px solid var(--border-accent);
+  border-radius: var(--radius-sm);
+  color: var(--accent-primary);
+  font-size: var(--fs-sm);
+  text-align: left;
+}
+
+.suggestionText {
+  flex: 1;
+  color: var(--text-secondary);
+}
+.suggestionText strong { color: var(--text-primary); }
+
+.suggestionApply {
+  font-weight: var(--fw-semibold);
+  text-transform: uppercase;
+  font-size: var(--fs-xs);
+  letter-spacing: 0.05em;
+  color: var(--accent-primary);
+}

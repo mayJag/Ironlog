@@ -1,6 +1,6 @@
 import React from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
-import { Home, Dumbbell, Calendar, BarChart3, Settings } from 'lucide-react';
+import { Home, Calendar, TrendingUp, BarChart3, LayoutGrid } from 'lucide-react';
 import styles from './Navigation.module.css';
 
 export default function Navigation() {
@@ -9,10 +9,10 @@ export default function Navigation() {
 
   const navItems = [
     { label: 'Home', icon: Home, path: '/' },
-    { label: 'Programs', icon: Dumbbell, path: '/programs' },
     { label: 'Plan', icon: Calendar, path: '/plan' },
+    { label: 'Progress', icon: TrendingUp, path: '/progress' },
     { label: 'History', icon: BarChart3, path: '/history' },
-    { label: 'Settings', icon: Settings, path: '/settings' },
+    { label: 'More', icon: LayoutGrid, path: '/more' },
   ];
 
   return (

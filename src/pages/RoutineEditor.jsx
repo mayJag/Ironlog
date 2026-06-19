@@ -2,17 +2,21 @@ import React, { useState, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { ArrowLeft, Plus, Trash2, GripVertical, Pencil, Search, X, Save, Check, Dumbbell } from 'lucide-react';
 import { saveRoutine, getRoutine, generateId } from '../store/db';
-import { MASTER_EXERCISES } from './PlanBuilder';
+import { useExerciseLibrary } from '../data/exercises';
+import { useToast } from '../components/Toast';
 import styles from './RoutineEditor.module.css';
 
 export default function RoutineEditor() {
   const { routineId } = useParams();
   const navigate = useNavigate();
+  const { toast, confirm } = useToast();
+  const { exercises: libraryExercises } = useExerciseLibrary();
   const isEditMode = !!routineId;
 
   // Form State
   const [name, setName] = useState('');
   const [addedExercises, setAddedExercises] = useState([]);
+  const [createdAt, setCreatedAt] = useState(null);
   
   // Exercise Selector Modal State
   const [showModal, setShowModal] = useState(false);
@@ -40,6 +44,7 @@ export default function RoutineEditor() {
       if (routine) {
         setName(routine.name);
         setAddedExercises(routine.exercises || []);
+        setCreatedAt(routine.createdAt || null);
       }
     } catch (e) {
       console.error("Failed to load routine:", e);
@@ -92,8 +97,14 @@ export default function RoutineEditor() {
     setShowModal(true);
   };
 
-  const handleRemoveExercise = (idx) => {
-    if (window.confirm("Remove this exercise from the routine?")) {
+  const handleRemoveExercise = async (idx) => {
+    const ok = await confirm({
+      title: 'Remove exercise?',
+      message: 'This movement will be removed from the routine.',
+      confirmLabel: 'Remove',
+      danger: true,
+    });
+    if (ok) {
       setAddedExercises(prev => prev.filter((_, i) => i !== idx));
     }
   };
@@ -112,11 +123,11 @@ export default function RoutineEditor() {
 
   const handleSaveRoutine = async () => {
     if (!name.trim()) {
-      alert("Please enter a routine name.");
+      toast('Please enter a routine name.', 'warning');
       return;
     }
     if (addedExercises.length === 0) {
-      alert("Please add at least one exercise.");
+      toast('Please add at least one exercise.', 'warning');
       return;
     }
 
@@ -125,20 +136,22 @@ export default function RoutineEditor() {
         id: isEditMode ? routineId : `routine-${generateId()}`,
         name: name,
         exercises: addedExercises,
-        createdAt: isEditMode ? undefined : Date.now()
+        // Preserve original createdAt on edit so the routine keeps its place in
+        // the createdAt-indexed list (undefined would drop it from the index).
+        createdAt: (isEditMode ? createdAt : Date.now()) || Date.now()
       };
 
       await saveRoutine(routine);
-      alert(`Routine "${name}" saved!`);
+      toast(`Routine "${name}" saved!`, 'success');
       navigate('/plan'); // Back to Plan view
     } catch (e) {
       console.error(e);
-      alert("Failed to save routine.");
+      toast('Failed to save routine.', 'error');
     }
   };
 
   // Filter master list
-  const filteredExercises = MASTER_EXERCISES.filter(ex => {
+  const filteredExercises = libraryExercises.filter(ex => {
     const matchesSearch = ex.name.toLowerCase().includes(searchQuery.toLowerCase());
     const matchesCategory = filterCategory === 'all' || ex.category === filterCategory;
     const matchesMuscle = filterMuscle === 'all' || ex.muscleGroup === filterMuscle;

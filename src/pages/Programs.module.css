@@ -28,13 +28,13 @@
 }
 
 .nippardCard {
-  border-color: hsla(210, 100%, 60%, 0.2);
+  border-color: hsla(199, 92%, 58%, 0.28);
   box-shadow: var(--shadow-glow-blue);
 }
 
 .hybridCard {
-  border-color: hsla(142, 70%, 45%, 0.3);
-  box-shadow: 0 0 20px hsla(142, 70%, 45%, 0.12);
+  border-color: hsla(152, 62%, 45%, 0.3);
+  box-shadow: 0 4px 16px hsla(152, 62%, 45%, 0.12);
 }
 
 .cardHeader {

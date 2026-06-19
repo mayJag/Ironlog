@@ -235,3 +235,44 @@
   color: var(--text-tertiary);
   margin-left: var(--sp-1);
 }
+
+/* --- Dashboard additions --- */
+.noWorkoutActions {
+  display: flex;
+  gap: var(--sp-2);
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: var(--sp-2);
+}
+
+.progressCaption {
+  display: block;
+  margin-top: var(--sp-2);
+  font-size: var(--fs-xs);
+  color: var(--text-secondary);
+}
+
+/* --- Level / XP card --- */
+.levelCard {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-3);
+  margin-bottom: var(--sp-6);
+  cursor: pointer;
+}
+.levelBadge {
+  position: relative;
+  width: 42px; height: 42px;
+  border-radius: var(--radius-full);
+  background: var(--accent-primary);
+  color: #fff;
+  display: flex; align-items: center; justify-content: center;
+  flex-shrink: 0;
+  box-shadow: var(--shadow-glow-accent);
+}
+.levelBadge span { position: absolute; font-size: 10px; font-weight: var(--fw-black); margin-top: 1px; }
+.levelBody { flex: 1; min-width: 0; }
+.levelRow { display: flex; align-items: center; justify-content: space-between; margin-bottom: 6px; }
+.levelTitle { font-size: var(--fs-sm); font-weight: var(--fw-bold); color: var(--text-primary); }
+.levelXp { font-size: var(--fs-xs); color: var(--accent-primary); font-weight: var(--fw-semibold); }
+.levelChev { color: var(--text-tertiary); flex-shrink: 0; }

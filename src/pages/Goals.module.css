@@ -1,0 +1,114 @@
+.q {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-2);
+  font-size: var(--fs-base);
+  font-weight: var(--fw-semibold);
+  margin-bottom: var(--sp-3);
+  color: var(--text-primary);
+}
+
+.optionList { display: flex; flex-direction: column; gap: var(--sp-2); }
+.optBig {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+  padding: var(--sp-3) var(--sp-4);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-subtle);
+  background: var(--bg-elevated);
+  text-align: left;
+  transition: all var(--duration-fast);
+}
+.optActive { border-color: var(--accent-primary); background: var(--accent-primary-glow); }
+.optLabel { font-size: var(--fs-base); font-weight: var(--fw-semibold); color: var(--text-primary); }
+.optDesc { font-size: var(--fs-xs); color: var(--text-secondary); }
+.optCheck { position: absolute; right: var(--sp-4); top: 50%; transform: translateY(-50%); color: var(--accent-primary); }
+
+.pillRow { display: flex; flex-wrap: wrap; gap: var(--sp-2); }
+
+.previewHead {
+  display: flex; align-items: center; justify-content: space-between;
+  margin-bottom: var(--sp-4);
+}
+.previewTitle { font-size: var(--fs-md); font-weight: var(--fw-bold); color: var(--text-primary); }
+
+.previewDays { display: flex; flex-direction: column; gap: var(--sp-2); margin-bottom: var(--sp-4); }
+.previewDay {
+  display: flex; align-items: center; gap: var(--sp-3);
+  padding: var(--sp-2) var(--sp-3);
+  background: var(--bg-elevated);
+  border-radius: var(--radius-sm);
+  font-size: var(--fs-sm);
+}
+.previewRest { opacity: 0.5; }
+.previewDayName { width: 36px; font-weight: var(--fw-bold); color: var(--text-tertiary); font-size: var(--fs-xs); text-transform: uppercase; }
+.previewDayWorkout { flex: 1; color: var(--text-primary); }
+.previewDayCount { color: var(--accent-primary); font-size: var(--fs-xs); font-weight: var(--fw-semibold); }
+
+.hint {
+  font-size: var(--fs-xs);
+  color: var(--text-secondary);
+  margin-bottom: var(--sp-3);
+  line-height: 1.4;
+}
+.recoveryNote {
+  font-size: var(--fs-xs);
+  color: var(--text-tertiary);
+  margin-bottom: var(--sp-3);
+  line-height: 1.4;
+}
+.previewActions {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--sp-3);
+}
+
+.splitOpt {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: var(--sp-2);
+  padding: var(--sp-3) var(--sp-4);
+  padding-right: 44px;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-subtle);
+  background: var(--bg-elevated);
+  text-align: left;
+  transition: all var(--duration-fast);
+}
+.autoTag { font-weight: var(--fw-regular); color: var(--text-tertiary); font-size: var(--fs-xs); }
+
+.recHint {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--sp-2);
+  margin-top: var(--sp-3);
+  padding: var(--sp-3);
+  background: var(--accent-primary-glow);
+  border: 1px solid var(--border-accent);
+  border-radius: var(--radius-sm);
+  font-size: var(--fs-xs);
+  color: var(--text-secondary);
+  line-height: 1.4;
+}
+.recHint svg { color: var(--accent-primary); flex-shrink: 0; margin-top: 1px; }
+
+.armsToggle {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-3);
+  width: 100%;
+  margin-top: var(--sp-4);
+  padding: var(--sp-3);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-subtle);
+  background: var(--bg-elevated);
+  text-align: left;
+}
+.armsOn { border-color: var(--accent-primary); background: var(--accent-primary-glow); }
+.armsText { display: flex; flex-direction: column; }
+.armsText strong { font-size: var(--fs-sm); color: var(--text-primary); }
+.armsText span { font-size: var(--fs-xs); color: var(--text-secondary); }

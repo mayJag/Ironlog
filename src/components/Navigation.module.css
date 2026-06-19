@@ -4,9 +4,9 @@
   left: 0;
   right: 0;
   height: calc(var(--nav-height) + var(--safe-area-bottom));
-  background: hsla(225, 20%, 7%, 0.75);
-  backdrop-filter: blur(16px);
-  -webkit-backdrop-filter: blur(16px);
+  background: hsla(228, 11%, 6%, 0.8);
+  backdrop-filter: blur(18px);
+  -webkit-backdrop-filter: blur(18px);
   border-top: 1px solid var(--border-subtle);
   z-index: 900;
   display: flex;

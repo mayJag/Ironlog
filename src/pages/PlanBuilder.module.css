@@ -262,3 +262,53 @@
   grid-template-columns: 1fr 1fr;
   gap: var(--sp-3);
 }
+
+/* --- My Routines --- */
+.routineList {
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-3);
+  margin-top: var(--sp-4);
+}
+
+.routineCard {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--sp-3);
+  padding: var(--sp-3) var(--sp-4);
+}
+
+.routineInfo {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-3);
+  min-width: 0;
+}
+
+.routineIcon {
+  color: var(--accent-primary);
+  flex-shrink: 0;
+}
+
+.routineName {
+  display: block;
+  font-size: var(--fs-base);
+  font-weight: var(--fw-semibold);
+  color: var(--text-primary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.routineMeta {
+  display: block;
+  font-size: var(--fs-xs);
+  color: var(--text-secondary);
+}
+
+.routineActions {
+  display: flex;
+  gap: var(--sp-2);
+  flex-shrink: 0;
+}

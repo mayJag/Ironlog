@@ -1,7 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { Flame, Dumbbell, TrendingUp, ChevronRight, Play, Calendar, Clock, Award } from 'lucide-react';
-import { getAllWorkoutLogs, getSetting } from '../store/db';
+import { Flame, Dumbbell, TrendingUp, ChevronRight, Play, Calendar, Clock, Award, Zap, CheckCircle2, Star } from 'lucide-react';
+import { getAllWorkoutLogs, getSetting, getAllPersonalRecords } from '../store/db';
+import { computeXP, levelFromXP } from '../lib/fitness';
+import { useSettings } from '../store/SettingsContext';
 import styles from './Dashboard.module.css';
 
 const MOTIVATIONAL_QUOTES = [
@@ -22,11 +24,15 @@ const MOTIVATIONAL_QUOTES = [
 
 export default function Dashboard() {
   const navigate = useNavigate();
+  const { weightUnit } = useSettings();
   const [quote, setQuote] = useState('');
   const [stats, setStats] = useState({ weeklyCount: 0, streak: 0, weeklyVolume: 0 });
   const [todayWorkout, setTodayWorkout] = useState(null);
   const [activePlan, setActivePlan] = useState(null);
   const [recentLogs, setRecentLogs] = useState([]);
+  const [weeklyProgress, setWeeklyProgress] = useState({ completed: 0, target: 0, pct: 0 });
+  const [trainedToday, setTrainedToday] = useState(false);
+  const [level, setLevel] = useState(null);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
@@ -41,6 +47,12 @@ export default function Dashboard() {
       setLoading(true);
       const logs = await getAllWorkoutLogs();
       setRecentLogs(logs.slice(0, 5));
+
+      // Level / XP (gamification)
+      try {
+        const prs = await getAllPersonalRecords();
+        setLevel(levelFromXP(computeXP(logs, prs.length)));
+      } catch (e) { /* non-fatal */ }
 
       // Calculate stats (weekly workouts, volume, streak)
       const now = new Date();
@@ -88,11 +100,22 @@ export default function Dashboard() {
 
       setStats({ weeklyCount, streak, weeklyVolume });
 
+      // Did we already train today?
+      const todayStr = now.toISOString().split('T')[0];
+      setTrainedToday(logs.some(l => l.date === todayStr));
+
       // Load active plan
       const plan = await getSetting('activePlan');
       if (plan) {
         setActivePlan(plan);
         determineTodayWorkout(plan, logs);
+
+        // Real weekly progress: scheduled workout days vs sessions done this week
+        const target = Object.values(plan.weeklySchedule || {}).filter(
+          d => d && d.type !== 'rest' && (d.exercises?.length > 0)
+        ).length;
+        const pct = target > 0 ? Math.min(100, Math.round((weeklyCount / target) * 100)) : 0;
+        setWeeklyProgress({ completed: weeklyCount, target, pct });
       }
     } catch (e) {
       console.error("Dashboard load failed:", e);
@@ -162,6 +185,26 @@ export default function Dashboard() {
         <p className={styles.quoteText}>"{quote}"</p>
       </div>
 
+      {/* Level / XP */}
+      {level && (
+        <div className={`${styles.levelCard} card`} onClick={() => navigate('/achievements')}>
+          <div className={styles.levelBadge}>
+            <Star size={16} fill="currentColor" />
+            <span>{level.level}</span>
+          </div>
+          <div className={styles.levelBody}>
+            <div className={styles.levelRow}>
+              <span className={styles.levelTitle}>{level.title}</span>
+              <span className={styles.levelXp}>Lv {level.level}</span>
+            </div>
+            <div className="progress-bar">
+              <div className="progress-bar__fill" style={{ width: `${level.progressPct}%` }} />
+            </div>
+          </div>
+          <ChevronRight size={18} className={styles.levelChev} />
+        </div>
+      )}
+
       {/* Stats Grid */}
       <div className="stats-grid section">
         <div className="stat-card card">
@@ -185,9 +228,9 @@ export default function Dashboard() {
             <TrendingUp size={18} className={styles.volumeIcon} />
           </div>
           <span className="stat-card__value">
-            {stats.weeklyVolume > 1000 
-              ? `${(stats.weeklyVolume / 1000).toFixed(1)}k` 
-              : stats.weeklyVolume} kg
+            {stats.weeklyVolume > 1000
+              ? `${(stats.weeklyVolume / 1000).toFixed(1)}k`
+              : stats.weeklyVolume} {weightUnit}
           </span>
           <span className="stat-card__label">Volume</span>
         </div>
@@ -204,7 +247,11 @@ export default function Dashboard() {
             <div className={styles.workoutInfo}>
               <div className={styles.workoutHeaderRow}>
                 <span className={styles.workoutName}>{todayWorkout.name}</span>
-                <span className="badge badge--accent">{todayWorkout.type}</span>
+                {trainedToday ? (
+                  <span className="badge badge--success"><CheckCircle2 size={12} /> Done</span>
+                ) : (
+                  <span className="badge badge--accent">{todayWorkout.type}</span>
+                )}
               </div>
               <p className={styles.workoutDuration}>
                 <Clock size={14} /> {todayWorkout.estimatedDuration || 45} mins
@@ -225,21 +272,31 @@ export default function Dashboard() {
             </div>
             
             <button className="btn btn--primary btn--full" onClick={handleStartWorkout}>
-              <Play size={16} fill="currentColor" /> Start Workout
+              <Play size={16} fill="currentColor" /> {trainedToday ? 'Train Again' : 'Start Workout'}
             </button>
           </div>
         ) : (
           <div className={`${styles.noWorkoutCard} card`}>
             <Calendar size={32} className={styles.calendarIcon} />
             <p className={styles.noWorkoutText}>
-              {activePlan ? "Rest day! Time to recover." : "No active program plan configured."}
+              {activePlan
+                ? (trainedToday ? "Rest day — nice work today!" : "Rest day! Time to recover.")
+                : "No active program plan configured."}
             </p>
-            <button 
-              className="btn btn--secondary btn--sm"
-              onClick={() => navigate(activePlan ? '/plan' : '/plan')}
-            >
-              {activePlan ? "Manage Plan" : "Create a Plan"}
-            </button>
+            <div className={styles.noWorkoutActions}>
+              <button
+                className="btn btn--secondary btn--sm"
+                onClick={() => navigate('/plan')}
+              >
+                {activePlan ? "Manage Plan" : "Create a Plan"}
+              </button>
+              <button
+                className="btn btn--primary btn--sm"
+                onClick={() => navigate('/workout', { state: { workout: { name: 'Freestyle Session', exercises: [] } } })}
+              >
+                <Zap size={14} fill="currentColor" /> Quick Session
+              </button>
+            </div>
           </div>
         )}
       </section>
@@ -254,15 +311,18 @@ export default function Dashboard() {
             <div className={styles.progressHeader}>
               <span className={styles.planName}>{activePlan.name}</span>
               <span className={styles.progressPct}>
-                {activePlan.progressPct || 0}%
+                {weeklyProgress.pct}%
               </span>
             </div>
             <div className="progress-bar">
-              <div 
-                className="progress-bar__fill" 
-                style={{ width: `${activePlan.progressPct || 0}%` }}
+              <div
+                className="progress-bar__fill"
+                style={{ width: `${weeklyProgress.pct}%` }}
               />
             </div>
+            <span className={styles.progressCaption}>
+              {weeklyProgress.completed} of {weeklyProgress.target || '—'} sessions this week
+            </span>
           </div>
         </section>
       )}

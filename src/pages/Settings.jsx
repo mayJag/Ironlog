@@ -1,96 +1,82 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Timer, Scale, Volume2, Vibrate, Trash2, Info, Download, Upload, RotateCcw, ShieldAlert, Check, HelpCircle } from 'lucide-react';
-import { getSetting, setSetting, getDB } from '../store/db';
+import { getDB, DATA_STORES } from '../store/db';
+import { useSettings } from '../store/SettingsContext';
+import { useToast } from '../components/Toast';
 import styles from './Settings.module.css';
 
 export default function Settings() {
   const navigate = useNavigate();
+  const { toast, confirm } = useToast();
 
-  // Settings state
-  const [restTimer, setRestTimer] = useState(90);
-  const [weightUnit, setWeightUnit] = useState('kg');
-  const [soundEnabled, setSoundEnabled] = useState(true);
-  const [vibrationEnabled, setVibrationEnabled] = useState(true);
+  // Live, app-wide settings from context
+  const {
+    weightUnit,
+    defaultRestTimer: restTimer,
+    soundEnabled,
+    vibrationEnabled,
+    updateSetting,
+  } = useSettings();
 
-  useEffect(() => {
-    loadSettings();
-  }, []);
-
-  const loadSettings = async () => {
-    try {
-      const rest = await getSetting('defaultRestTimer') || 90;
-      const unit = await getSetting('weightUnit') || 'kg';
-      const sound = await getSetting('soundEnabled') !== false; // default true
-      const vibration = await getSetting('vibrationEnabled') !== false; // default true
-
-      setRestTimer(rest);
-      setWeightUnit(unit);
-      setSoundEnabled(sound);
-      setVibrationEnabled(vibration);
-    } catch (e) {
-      console.error("Failed to load settings:", e);
-    }
+  const handleUpdateRestTimer = (val) => {
+    updateSetting('defaultRestTimer', parseInt(val) || 90);
   };
 
-  const handleUpdateRestTimer = async (val) => {
-    const intVal = parseInt(val) || 90;
-    setRestTimer(intVal);
-    await setSetting('defaultRestTimer', intVal);
+  const handleToggleWeightUnit = () => {
+    updateSetting('weightUnit', weightUnit === 'kg' ? 'lbs' : 'kg');
   };
 
-  const handleToggleWeightUnit = async () => {
-    const nextUnit = weightUnit === 'kg' ? 'lbs' : 'kg';
-    setWeightUnit(nextUnit);
-    await setSetting('weightUnit', nextUnit);
+  const handleToggleSound = () => {
+    updateSetting('soundEnabled', !soundEnabled);
   };
 
-  const handleToggleSound = async () => {
-    const nextSound = !soundEnabled;
-    setSoundEnabled(nextSound);
-    await setSetting('soundEnabled', nextSound);
-  };
-
-  const handleToggleVibration = async () => {
-    const nextVib = !vibrationEnabled;
-    setVibrationEnabled(nextVib);
-    await setSetting('vibrationEnabled', nextVib);
+  const handleToggleVibration = () => {
+    updateSetting('vibrationEnabled', !vibrationEnabled);
   };
 
   // --- Database Maintenance Functions ---
   const handleClearHistory = async () => {
-    if (window.confirm("WARNING: Are you sure you want to clear your workout history? All your logs will be deleted permanently.")) {
-      try {
-        const db = await getDB();
-        await db.clear('workoutLogs');
-        alert("Workout history cleared successfully.");
-      } catch (err) {
-        console.error(err);
-        alert("Failed to clear history.");
-      }
+    const ok = await confirm({
+      title: 'Clear workout history?',
+      message: 'All your logged sessions will be deleted permanently. Templates and personal records are preserved.',
+      confirmLabel: 'Clear History',
+      danger: true,
+    });
+    if (!ok) return;
+    try {
+      const db = await getDB();
+      await db.clear('workoutLogs');
+      toast('Workout history cleared.', 'success');
+    } catch (err) {
+      console.error(err);
+      toast('Failed to clear history.', 'error');
     }
   };
 
   const handleResetAllData = async () => {
-    const firstConfirm = window.confirm("CRITICAL WARNING: Are you sure you want to reset all data? This will delete all your settings, routines, plans, history, and personal records.");
-    if (firstConfirm) {
-      const secondConfirm = window.confirm("DOUBLE CONFIRMATION: Are you absolutely sure? This action is irreversible.");
-      if (secondConfirm) {
-        try {
-          const db = await getDB();
-          await db.clear('settings');
-          await db.clear('routines');
-          await db.clear('workoutLogs');
-          await db.clear('personalRecords');
-          await db.clear('plans');
-
-          alert("All data reset successfully. The application will reload.");
-          window.location.reload();
-        } catch (err) {
-          console.error(err);
-          alert("Failed to reset database.");
-        }
-      }
+    const firstConfirm = await confirm({
+      title: 'Reset all application data?',
+      message: 'This deletes all settings, routines, plans, history and personal records.',
+      confirmLabel: 'Continue',
+      danger: true,
+    });
+    if (!firstConfirm) return;
+    const secondConfirm = await confirm({
+      title: 'Are you absolutely sure?',
+      message: 'This action is irreversible. The app will reload afterwards.',
+      confirmLabel: 'Reset Everything',
+      danger: true,
+    });
+    if (!secondConfirm) return;
+    try {
+      const db = await getDB();
+      for (const store of DATA_STORES) await db.clear(store);
+      toast('All data reset. Reloading…', 'success');
+      setTimeout(() => window.location.reload(), 900);
+    } catch (err) {
+      console.error(err);
+      toast('Failed to reset database.', 'error');
     }
   };
 
@@ -98,14 +84,10 @@ export default function Settings() {
   const handleExportData = async () => {
     try {
       const db = await getDB();
-      const backupData = {
-        settings: await db.getAll('settings'),
-        routines: await db.getAll('routines'),
-        workoutLogs: await db.getAll('workoutLogs'),
-        personalRecords: await db.getAll('personalRecords'),
-        plans: await db.getAll('plans'),
-        exportedAt: new Date().toISOString()
-      };
+      const backupData = { exportedAt: new Date().toISOString(), version: 2 };
+      for (const store of DATA_STORES) {
+        backupData[store] = await db.getAll(store);
+      }
 
       const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(backupData, null, 2));
       const downloadAnchor = document.createElement('a');
@@ -114,9 +96,10 @@ export default function Settings() {
       document.body.appendChild(downloadAnchor);
       downloadAnchor.click();
       downloadAnchor.remove();
+      toast('Backup downloaded.', 'success');
     } catch (e) {
       console.error(e);
-      alert("Failed to export data backup.");
+      toast('Failed to export data backup.', 'error');
     }
   };
 
@@ -129,43 +112,31 @@ export default function Settings() {
       try {
         const data = JSON.parse(e.target.result);
         if (!data.workoutLogs && !data.personalRecords && !data.routines) {
-          alert("Invalid backup file format.");
+          toast('Invalid backup file format.', 'error');
           return;
         }
 
-        if (window.confirm("WARNING: Importing data will overwrite your current settings, routines, history, and records. Proceed?")) {
+        const ok = await confirm({
+          title: 'Restore from backup?',
+          message: 'Importing will overwrite your current settings, routines, history and records.',
+          confirmLabel: 'Restore',
+          danger: true,
+        });
+        if (ok) {
           const db = await getDB();
-          
-          // Clear current tables
-          await db.clear('settings');
-          await db.clear('routines');
-          await db.clear('workoutLogs');
-          await db.clear('personalRecords');
-          await db.clear('plans');
-
-          // Populate tables
-          if (data.settings) {
-            for (const item of data.settings) await db.put('settings', item);
+          // Clear, then repopulate every known store that's present in the file.
+          for (const store of DATA_STORES) {
+            await db.clear(store);
+            if (Array.isArray(data[store])) {
+              for (const item of data[store]) await db.put(store, item);
+            }
           }
-          if (data.routines) {
-            for (const item of data.routines) await db.put('routines', item);
-          }
-          if (data.workoutLogs) {
-            for (const item of data.workoutLogs) await db.put('workoutLogs', item);
-          }
-          if (data.personalRecords) {
-            for (const item of data.personalRecords) await db.put('personalRecords', item);
-          }
-          if (data.plans) {
-            for (const item of data.plans) await db.put('plans', item);
-          }
-
-          alert("Backup data restored successfully! App will reload.");
-          window.location.reload();
+          toast('Backup restored. Reloading…', 'success');
+          setTimeout(() => window.location.reload(), 900);
         }
       } catch (err) {
         console.error(err);
-        alert("Error parsing backup file.");
+        toast('Error parsing backup file.', 'error');
       }
     };
     reader.readAsText(file);
@@ -320,7 +291,7 @@ export default function Settings() {
       <section className="section card" style={{ marginTop: 'var(--sp-6)', textAlign: 'center' }}>
         <Info size={24} className={styles.infoIcon} />
         <h3 className={styles.appName}>IronLog Workout Tracker</h3>
-        <p className={styles.appVersion}>Version 1.0.0 (Release Build)</p>
+        <p className={styles.appVersion}>Version 1.2.0 (Release Build)</p>
         <p className={styles.appCredits}>
           Engineered for vertical jump performance & powerbuilding. Preloaded with "Beyond The Rim" & Jeff Nippard's Systems.
         </p>

@@ -1,0 +1,12 @@
+.trendNote {
+  margin-top: var(--sp-3);
+  font-size: var(--fs-sm);
+  color: var(--text-secondary);
+}
+
+/* section titles in this page use an icon */
+:global(.section__title) {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-2);
+}

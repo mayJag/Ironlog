@@ -1,0 +1,113 @@
+/* --- Toast stack --- */
+.toastStack {
+  position: fixed;
+  left: 50%;
+  transform: translateX(-50%);
+  top: calc(env(safe-area-inset-top, 0px) + var(--sp-4));
+  z-index: 2000;
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-2);
+  width: calc(100% - var(--sp-8));
+  max-width: 440px;
+  pointer-events: none;
+}
+
+.toast {
+  pointer-events: auto;
+  display: flex;
+  align-items: center;
+  gap: var(--sp-3);
+  background: var(--bg-elevated);
+  border: 1px solid var(--border-default);
+  border-left-width: 3px;
+  border-radius: var(--radius-md);
+  padding: var(--sp-3) var(--sp-4);
+  box-shadow: var(--shadow-lg);
+  animation: slideDown var(--duration-normal) var(--ease-spring);
+}
+
+.toastIcon { flex-shrink: 0; }
+.toastMsg {
+  flex: 1;
+  font-size: var(--fs-base);
+  color: var(--text-primary);
+  line-height: 1.35;
+}
+.toastClose {
+  flex-shrink: 0;
+  color: var(--text-tertiary);
+  display: flex;
+  align-items: center;
+}
+.toastClose:hover { color: var(--text-primary); }
+
+.success { border-left-color: var(--success); }
+.success .toastIcon { color: var(--success); }
+.error { border-left-color: var(--danger); }
+.error .toastIcon { color: var(--danger); }
+.warning { border-left-color: var(--warning); }
+.warning .toastIcon { color: var(--warning); }
+.info { border-left-color: var(--accent-secondary); }
+.info .toastIcon { color: var(--accent-secondary); }
+
+/* --- Confirm dialog --- */
+.confirmOverlay {
+  position: fixed;
+  inset: 0;
+  background: var(--bg-overlay);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2100;
+  padding: var(--sp-4);
+  animation: fadeIn var(--duration-fast) var(--ease-out);
+  backdrop-filter: blur(2px);
+}
+
+.confirmCard {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-xl);
+  padding: var(--sp-6);
+  width: 100%;
+  max-width: 360px;
+  text-align: center;
+  animation: scaleIn var(--duration-normal) var(--ease-spring);
+}
+
+.confirmIcon {
+  width: 52px;
+  height: 52px;
+  margin: 0 auto var(--sp-4);
+  border-radius: var(--radius-full);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--accent-primary-glow);
+  color: var(--accent-primary);
+}
+
+.confirmIconDanger {
+  background: hsla(0, 72%, 55%, 0.15);
+  color: var(--danger);
+}
+
+.confirmTitle {
+  font-size: var(--fs-lg);
+  font-weight: var(--fw-bold);
+  margin-bottom: var(--sp-2);
+}
+
+.confirmMsg {
+  font-size: var(--fs-base);
+  color: var(--text-secondary);
+  margin-bottom: var(--sp-5);
+  line-height: 1.45;
+}
+
+.confirmActions {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--sp-3);
+}

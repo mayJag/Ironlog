@@ -1,15 +1,23 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
-import { X, Check, Plus, Clock, Trophy, Dumbbell, ChevronDown, ChevronUp, AlertTriangle, Play, Pause } from 'lucide-react';
+import { X, Check, Plus, Clock, Trophy, Dumbbell, ChevronDown, ChevronUp, AlertTriangle, Play, Pause, TrendingUp } from 'lucide-react';
 import { saveWorkoutLog, getPersonalRecord, savePersonalRecord, getAllWorkoutLogs } from '../store/db';
 import RestTimer from '../components/RestTimer';
 import { getExerciseVideoUrl } from '../data/exerciseVideos';
-import { MASTER_EXERCISES } from './PlanBuilder';
+import { useExerciseLibrary } from '../data/exercises';
+import { suggestProgression } from '../lib/fitness';
+import { useSettings } from '../store/SettingsContext';
+import { useToast } from '../components/Toast';
 import styles from './ActiveWorkout.module.css';
+
+const RESUME_KEY = 'ironlog_active_workout';
 
 export default function ActiveWorkout() {
   const location = useLocation();
   const navigate = useNavigate();
+  const { weightUnit, defaultRestTimer } = useSettings();
+  const { toast, confirm } = useToast();
+  const { exercises: libraryExercises } = useExerciseLibrary();
 
   // Get workout from router state
   const workoutData = location.state?.workout || {
@@ -29,6 +37,7 @@ export default function ActiveWorkout() {
   // Rest timer state
   const [isRestTimerVisible, setIsRestTimerVisible] = useState(false);
   const [restDuration, setRestDuration] = useState(90);
+  const [restSession, setRestSession] = useState(0); // bumps each set to remount the timer
 
   // Summary state
   const [showSummary, setShowSummary] = useState(false);
@@ -38,6 +47,8 @@ export default function ActiveWorkout() {
 
   // Previous performance records state: exerciseName -> 'weight kg x reps'
   const [previousData, setPreviousData] = useState({});
+  // Smart suggestions: exerciseName -> { weight, reps, note }
+  const [suggestions, setSuggestions] = useState({});
 
   // Add Exercise Modal State
   const [showAddExModal, setShowAddExModal] = useState(false);
@@ -45,61 +56,107 @@ export default function ActiveWorkout() {
 
   const timerRef = useRef(null);
   const startTimeRef = useRef(Date.now());
+  const initRef = useRef(false);
 
-  // Initialize exercises and load historical data
+  // Session metadata (kept in a ref so resume can override the incoming nav state)
+  const [sessionMeta, setSessionMeta] = useState({
+    name: workoutData.name,
+    programId: workoutData.programId,
+  });
+
+  const clearResume = () => {
+    try { localStorage.removeItem(RESUME_KEY); } catch (e) { /* ignore */ }
+  };
+
+  // Initialize exercises and load historical data (runs exactly once)
   useEffect(() => {
-    // Standardize sets format
-    const formatted = (workoutData.exercises || []).map((ex, exIdx) => {
-      const setTotal = parseInt(ex.sets) || 3;
-      const defaultReps = parseInt(ex.reps) || 10;
-      
-      const sets = [];
-      for (let i = 0; i < setTotal; i++) {
-        sets.push({
-          weight: 0,
-          reps: defaultReps,
-          completed: false
-        });
-      }
+    if (initRef.current) return;
+    initRef.current = true;
 
-      return {
-        ...ex,
-        sets,
-        isNotesExpanded: false
-      };
-    });
+    const hasIncoming = !!location.state?.workout;
+    let restored = null;
+    if (!hasIncoming) {
+      // No nav state means a reload / direct open — try to resume an
+      // interrupted session so progress isn't silently lost.
+      try {
+        const raw = localStorage.getItem(RESUME_KEY);
+        if (raw) restored = JSON.parse(raw);
+      } catch (e) { /* ignore */ }
+    } else {
+      // Starting a fresh session — discard any stale resume snapshot.
+      clearResume();
+    }
 
-    setExercises(formatted);
-    loadPreviousPerformance(workoutData.exercises || []);
+    if (restored && Array.isArray(restored.exercises) && restored.exercises.length > 0) {
+      setExercises(restored.exercises);
+      setSessionMeta({ name: restored.name, programId: restored.programId });
+      startTimeRef.current = restored.startTime || Date.now();
+      setElapsedTime(Math.floor((Date.now() - startTimeRef.current) / 1000));
+      loadPreviousPerformance(restored.exercises);
+      toast('Resumed your in-progress workout.', 'info');
+    } else {
+      // Standardize sets format
+      const formatted = (workoutData.exercises || []).map((ex) => {
+        const setTotal = parseInt(ex.sets) || 3;
+        const defaultReps = parseInt(ex.reps) || 10;
+        const sets = [];
+        for (let i = 0; i < setTotal; i++) {
+          sets.push({ weight: 0, reps: defaultReps, completed: false });
+        }
+        return { ...ex, sets, isNotesExpanded: false };
+      });
+      setExercises(formatted);
+      loadPreviousPerformance(workoutData.exercises || []);
+      startTimeRef.current = Date.now();
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
-    // Start workout duration timer
-    startTimeRef.current = Date.now();
+  // Workout duration timer — kept separate so it stays alive under StrictMode's
+  // mount/unmount/remount cycle (the init effect above runs only once).
+  useEffect(() => {
     timerRef.current = setInterval(() => {
       setElapsedTime(Math.floor((Date.now() - startTimeRef.current) / 1000));
     }, 1000);
-
     return () => {
       if (timerRef.current) clearInterval(timerRef.current);
     };
-  }, [workoutData]);
+  }, []);
 
-  // Fetch previous performance for all exercises
+  // Auto-save the in-progress session so a reload/close can resume it.
+  useEffect(() => {
+    if (!initRef.current || isFinished || showSummary || exercises.length === 0) return;
+    try {
+      localStorage.setItem(RESUME_KEY, JSON.stringify({
+        name: sessionMeta.name,
+        programId: sessionMeta.programId,
+        exercises,
+        startTime: startTimeRef.current,
+        savedAt: Date.now(),
+      }));
+    } catch (e) { /* storage full / unavailable — non-fatal */ }
+  }, [exercises, sessionMeta, isFinished, showSummary]);
+
+  // Fetch previous performance + compute a smart next-target suggestion per exercise
   const loadPreviousPerformance = async (exercisesList) => {
     try {
       const logs = await getAllWorkoutLogs();
       const prevMap = {};
+      const suggMap = {};
 
       for (const ex of exercisesList) {
+        const repTarget = parseInt(ex.reps) || undefined;
         // Find most recent log where this exercise was performed
         let found = false;
         for (const log of logs) {
           const logEx = log.exercises?.find(le => le.name.toLowerCase() === ex.name.toLowerCase());
           if (logEx && logEx.sets?.length > 0) {
-            // Grab the best set or the first completed set
             const completedSets = logEx.sets.filter(s => s.completed);
             if (completedSets.length > 0) {
               const bestSet = completedSets.reduce((best, curr) => (curr.weight > best.weight) ? curr : best, completedSets[0]);
-              prevMap[ex.name] = `${bestSet.weight}kg × ${bestSet.reps}`;
+              prevMap[ex.name] = `${bestSet.weight}${weightUnit} × ${bestSet.reps}`;
+              const sugg = suggestProgression(completedSets, { repTarget });
+              if (sugg) suggMap[ex.name] = sugg;
               found = true;
               break;
             }
@@ -110,7 +167,7 @@ export default function ActiveWorkout() {
         if (!found) {
           const pr = await getPersonalRecord(ex.name);
           if (pr) {
-            prevMap[ex.name] = `${pr.weight}kg × ${pr.reps}`;
+            prevMap[ex.name] = `${pr.weight}${weightUnit} × ${pr.reps}`;
           } else {
             prevMap[ex.name] = '—';
           }
@@ -118,9 +175,24 @@ export default function ActiveWorkout() {
       }
 
       setPreviousData(prevMap);
+      setSuggestions(suggMap);
     } catch (e) {
       console.error("Failed to load previous data:", e);
     }
+  };
+
+  // Apply a suggested target to every not-yet-completed set of an exercise.
+  const applySuggestion = (exIdx) => {
+    const sugg = suggestions[exercises[exIdx]?.name];
+    if (!sugg) return;
+    setExercises(prev => prev.map((ex, i) => {
+      if (i !== exIdx) return ex;
+      return {
+        ...ex,
+        sets: ex.sets.map(s => s.completed ? s : { ...s, weight: sugg.weight, reps: sugg.reps }),
+      };
+    }));
+    toast('Applied suggested target.', 'success');
   };
 
   const formatTimer = (totalSeconds) => {
@@ -159,40 +231,46 @@ export default function ActiveWorkout() {
   };
 
   const handleToggleCompleted = (exIdx, setIdx) => {
-    let triggeredRest = false;
-    let duration = 90;
+    const ex = exercises[exIdx];
+    if (!ex) return;
+    const currentSet = ex.sets[setIdx];
+    if (!currentSet) return;
 
-    setExercises(prev => prev.map((ex, i) => {
-      if (i === exIdx) {
-        const newSets = ex.sets.map((s, j) => {
-          if (j === setIdx) {
-            const nextCompleted = !s.completed;
-            let finalDuration = s.duration;
-            let isRunning = s.isTimerRunning;
-            if (nextCompleted && isRunning) {
-              finalDuration = s.timerStartTime ? Math.floor((Date.now() - s.timerStartTime) / 1000) : 0;
-              isRunning = false;
-            }
-            if (nextCompleted) {
-              triggeredRest = true;
-              // Parse rest string e.g. "90s" or "2 min"
-              const restStr = ex.rest || '90s';
-              const seconds = parseInt(restStr);
-              if (!isNaN(seconds)) {
-                duration = restStr.includes('min') ? seconds * 60 : seconds;
-              }
-            }
-            return { ...s, completed: nextCompleted, duration: finalDuration, isTimerRunning: isRunning };
-          }
-          return s;
-        });
-        return { ...ex, sets: newSets };
+    // Decide everything from current state BEFORE updating. Doing this inside the
+    // setExercises updater was unreliable: React only runs the updater
+    // synchronously via an eager bail-out that's skipped whenever another update
+    // (e.g. the per-second elapsed-time tick) is pending — which made the rest
+    // timer open only intermittently.
+    const willComplete = !currentSet.completed;
+
+    // Parse rest string e.g. "90s" or "2 min"; fall back to the user's default.
+    let duration = defaultRestTimer;
+    if (ex.rest) {
+      const seconds = parseInt(ex.rest);
+      if (!isNaN(seconds)) {
+        duration = ex.rest.includes('min') ? seconds * 60 : seconds;
       }
-      return ex;
+    }
+
+    setExercises(prev => prev.map((e, i) => {
+      if (i !== exIdx) return e;
+      const newSets = e.sets.map((s, j) => {
+        if (j !== setIdx) return s;
+        let finalDuration = s.duration;
+        let isRunning = s.isTimerRunning;
+        if (willComplete && isRunning) {
+          finalDuration = s.timerStartTime ? Math.floor((Date.now() - s.timerStartTime) / 1000) : 0;
+          isRunning = false;
+        }
+        return { ...s, completed: willComplete, duration: finalDuration, isTimerRunning: isRunning };
+      });
+      return { ...e, sets: newSets };
     }));
 
-    if (triggeredRest) {
+    // Only open the rest timer when completing a set (not when un-checking).
+    if (willComplete) {
       setRestDuration(duration);
+      setRestSession(n => n + 1); // remount RestTimer so it restarts cleanly each set
       setIsRestTimerVisible(true);
     }
   };
@@ -364,9 +442,9 @@ export default function ActiveWorkout() {
       // 2. Save Workout Log
       const workoutLog = {
         id: `log-${Date.now()}`,
-        name: workoutData.name,
-        programName: workoutData.programId === 'beyond-the-rim' ? 'BTR' : (workoutData.programId === 'nippard-powerbuilding' ? 'Nippard' : 'Custom'),
-        programId: workoutData.programId || 'custom',
+        name: sessionMeta.name,
+        programName: sessionMeta.programId === 'beyond-the-rim' ? 'BTR' : (sessionMeta.programId === 'nippard-powerbuilding' ? 'Nippard' : 'Custom'),
+        programId: sessionMeta.programId || 'custom',
         date: new Date().toISOString().split('T')[0],
         duration: Math.round(elapsedTime / 60) || 1, // in minutes
         exercises: exercises.map(ex => ({
@@ -379,21 +457,30 @@ export default function ActiveWorkout() {
           }))
         })),
         totalVolume,
-        totalSets: totalSetsCount
+        totalSets: totalSetsCount,
+        weightUnit
       };
 
       await saveWorkoutLog(workoutLog);
-      
-      alert("Workout log saved successfully!");
+      clearResume();
+
+      toast(newPRs.length > 0 ? `Saved! ${newPRs.length} new PR${newPRs.length > 1 ? 's' : ''} 🏆` : 'Workout saved!', 'success');
       navigate('/');
     } catch (e) {
       console.error("Failed to save workout log:", e);
-      alert("Error saving log.");
+      toast('Error saving workout log.', 'error');
     }
   };
 
-  const handleQuitWorkout = () => {
-    if (window.confirm("Are you sure you want to quit this workout? Your current progress will be lost.")) {
+  const handleQuitWorkout = async () => {
+    const ok = await confirm({
+      title: 'Quit workout?',
+      message: 'Your current progress will be discarded.',
+      confirmLabel: 'Quit',
+      danger: true,
+    });
+    if (ok) {
+      clearResume();
       navigate('/');
     }
   };
@@ -403,7 +490,7 @@ export default function ActiveWorkout() {
       {/* Header */}
       <header className={styles.header}>
         <div className={styles.titleCol}>
-          <h1 className={styles.workoutName}>{workoutData.name}</h1>
+          <h1 className={styles.workoutName}>{sessionMeta.name}</h1>
           <div className={styles.timerRow}>
             <Clock size={16} className={styles.timerIcon} />
             <span className={styles.timeValue}>{formatTimer(elapsedTime)}</span>
@@ -457,13 +544,29 @@ export default function ActiveWorkout() {
                 </p>
               )}
 
+              {/* Smart progressive-overload suggestion */}
+              {suggestions[ex.name] && !ex.sets.every(s => s.completed) && (
+                <button
+                  type="button"
+                  className={styles.suggestionBar}
+                  onClick={() => applySuggestion(exIdx)}
+                  title="Tap to apply to all sets"
+                >
+                  <TrendingUp size={14} />
+                  <span className={styles.suggestionText}>
+                    Suggested: <strong>{suggestions[ex.name].weight}{weightUnit} × {suggestions[ex.name].reps}</strong>
+                  </span>
+                  <span className={styles.suggestionApply}>Apply</span>
+                </button>
+              )}
+
               {/* Sets Table */}
               <table className={styles.setsTable}>
                 <thead>
                   <tr>
                     <th>SET</th>
                     <th>PREV</th>
-                    <th>KG</th>
+                    <th>{weightUnit.toUpperCase()}</th>
                     <th>REPS</th>
                     <th>TIME</th>
                     <th>✓</th>
@@ -566,7 +669,8 @@ export default function ActiveWorkout() {
       </div>
 
       {/* Rest Timer Modal Overlay */}
-      <RestTimer 
+      <RestTimer
+        key={restSession}
         isVisible={isRestTimerVisible}
         initialDuration={restDuration}
         onComplete={handleRestTimerComplete}
@@ -594,7 +698,7 @@ export default function ActiveWorkout() {
                 <span className={styles.summaryLbl}>Total Sets</span>
               </div>
               <div className={styles.summaryStatCard}>
-                <span className={styles.summaryVal}>{totalVolume.toLocaleString()} kg</span>
+                <span className={styles.summaryVal}>{totalVolume.toLocaleString()} {weightUnit}</span>
                 <span className={styles.summaryLbl}>Total Volume</span>
               </div>
             </div>
@@ -645,7 +749,7 @@ export default function ActiveWorkout() {
                 onChange={(e) => setExSearchQuery(e.target.value)}
               />
               <div className={styles.searchSelectionList}>
-                {MASTER_EXERCISES.filter(ex => ex.name.toLowerCase().includes(exSearchQuery.toLowerCase())).slice(0, 10).map((ex) => (
+                {libraryExercises.filter(ex => ex.name.toLowerCase().includes(exSearchQuery.toLowerCase())).slice(0, 10).map((ex) => (
                   <div 
                     key={ex.name} 
                     className={styles.selectionItem}
