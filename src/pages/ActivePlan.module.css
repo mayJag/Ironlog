@@ -1,0 +1,330 @@
+.activePlan {
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  margin-top: var(--sp-4);
+  margin-bottom: var(--sp-2);
+}
+
+/* --- Plan Info Card --- */
+.planInfoCard {
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-4);
+  padding: var(--sp-4) var(--sp-5);
+  border-left: 3px solid var(--accent-primary);
+}
+
+.planInfoTop {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-3);
+}
+
+.planIcon {
+  width: 44px;
+  height: 44px;
+  border-radius: var(--radius-md);
+  background: linear-gradient(135deg, var(--accent-primary), var(--accent-secondary));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--bg-primary);
+  flex-shrink: 0;
+}
+
+.planMeta {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+
+.planName {
+  font-size: var(--fs-lg);
+  font-weight: var(--fw-bold);
+  color: var(--text-primary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.planType {
+  font-size: var(--fs-xs);
+  color: var(--text-tertiary);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  font-weight: var(--fw-medium);
+}
+
+.planStats {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--sp-3);
+  background: var(--bg-secondary);
+  border-radius: var(--radius-md);
+  padding: var(--sp-3);
+}
+
+.planStat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+}
+
+.planStatValue {
+  font-size: var(--fs-xl);
+  font-weight: var(--fw-bold);
+  color: var(--accent-primary);
+}
+
+.planStatLabel {
+  font-size: var(--fs-xs);
+  color: var(--text-tertiary);
+}
+
+.planActions {
+  display: flex;
+  gap: var(--sp-2);
+}
+
+/* --- Expand Controls --- */
+.expandControls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: var(--sp-4);
+  margin-bottom: var(--sp-2);
+}
+
+.weekTitle {
+  font-size: var(--fs-lg);
+  font-weight: var(--fw-bold);
+  color: var(--text-primary);
+}
+
+.expandBtns {
+  display: flex;
+  gap: var(--sp-1);
+}
+
+/* --- Day Cards --- */
+.daysList {
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-3);
+}
+
+.dayCard {
+  transition: all var(--duration-fast);
+  overflow: hidden;
+}
+
+.todayCard {
+  border-color: var(--accent-primary) !important;
+  box-shadow: 0 0 0 1px var(--accent-primary), 0 2px 12px rgba(var(--accent-primary-rgb, 99, 102, 241), 0.15);
+}
+
+.expandedCard {
+  background: var(--bg-card);
+}
+
+.dayHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: var(--sp-3) var(--sp-4);
+  cursor: pointer;
+  gap: var(--sp-3);
+}
+
+.dayLeft {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-3);
+  min-width: 0;
+  flex: 1;
+}
+
+.dayBadge {
+  width: 40px;
+  height: 40px;
+  border-radius: var(--radius-md);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--fs-xs);
+  font-weight: var(--fw-bold);
+  background: var(--bg-elevated);
+  color: var(--text-primary);
+  flex-shrink: 0;
+  letter-spacing: 0.02em;
+}
+
+.todayBadge {
+  background: linear-gradient(135deg, var(--accent-primary), var(--accent-secondary));
+  color: var(--bg-primary);
+}
+
+.restBadge {
+  background: var(--bg-secondary);
+  color: var(--text-tertiary);
+  opacity: 0.7;
+}
+
+.dayInfo {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+
+.dayName {
+  font-size: var(--fs-base);
+  font-weight: var(--fw-semibold);
+  color: var(--text-primary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.dayMeta {
+  font-size: var(--fs-xs);
+  color: var(--text-tertiary);
+}
+
+.todayTag {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: var(--fw-bold);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--accent-primary);
+  margin-top: 2px;
+}
+
+.dayRight {
+  display: flex;
+  align-items: center;
+  gap: var(--sp-2);
+  flex-shrink: 0;
+}
+
+.restIcon {
+  color: var(--text-tertiary);
+  opacity: 0.5;
+}
+
+.rotated {
+  transform: rotate(180deg);
+  transition: transform var(--duration-fast) var(--ease-out);
+}
+
+/* --- Exercise Preview (collapsed) --- */
+.exercisePreview {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--sp-1);
+  padding: 0 var(--sp-4) var(--sp-3);
+}
+
+.previewTag {
+  background: var(--bg-elevated);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-full);
+  font-size: 11px;
+  color: var(--text-secondary);
+  padding: 2px var(--sp-2);
+  white-space: nowrap;
+}
+
+.previewTagMore {
+  font-size: 11px;
+  color: var(--text-tertiary);
+  padding: 2px var(--sp-2);
+}
+
+/* --- Exercise List (expanded) --- */
+.exerciseList {
+  padding: 0 var(--sp-4) var(--sp-4);
+  display: flex;
+  flex-direction: column;
+  gap: var(--sp-2);
+  animation: slideDown 0.25s var(--ease-out);
+}
+
+@keyframes slideDown {
+  from { opacity: 0; transform: translateY(-8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.exerciseItem {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--sp-3);
+  padding: var(--sp-2) var(--sp-3);
+  background: var(--bg-secondary);
+  border-radius: var(--radius-sm);
+}
+
+.exerciseNum {
+  width: 24px;
+  height: 24px;
+  border-radius: var(--radius-full);
+  background: var(--bg-elevated);
+  border: 1px solid var(--border-subtle);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 11px;
+  font-weight: var(--fw-bold);
+  color: var(--text-tertiary);
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.exerciseDetails {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+
+.exerciseName {
+  font-size: var(--fs-sm);
+  font-weight: var(--fw-semibold);
+  color: var(--text-primary);
+}
+
+.exerciseMeta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--sp-2);
+  font-size: var(--fs-xs);
+  color: var(--text-tertiary);
+}
+
+.exerciseSets {
+  color: var(--text-secondary);
+  font-weight: var(--fw-medium);
+}
+
+.exerciseRest {
+  color: var(--text-tertiary);
+}
+
+.exerciseRpe {
+  color: var(--accent-primary);
+  font-weight: var(--fw-semibold);
+}
+
+.exerciseNotes {
+  font-size: var(--fs-xs);
+  color: var(--text-tertiary);
+  font-style: italic;
+  margin-top: 2px;
+  line-height: 1.4;
+}

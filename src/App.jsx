@@ -7,6 +7,7 @@ import PlanBuilder from './pages/PlanBuilder';
 import History from './pages/History';
 import Settings from './pages/Settings';
 import ActiveWorkout from './pages/ActiveWorkout';
+import ActivePlan from './pages/ActivePlan';
 import RoutineEditor from './pages/RoutineEditor';
 import More from './pages/More';
 import Progress from './pages/Progress';
@@ -28,6 +29,7 @@ export default function App() {
           <Route path="/programs" element={<Programs />} />
           <Route path="/programs/:programId" element={<Programs />} />
           <Route path="/plan" element={<PlanBuilder />} />
+          <Route path="/active-plan" element={<ActivePlan />} />
           <Route path="/routine/new" element={<RoutineEditor />} />
           <Route path="/routine/:routineId/edit" element={<RoutineEditor />} />
           <Route path="/history" element={<History />} />

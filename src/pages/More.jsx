@@ -2,13 +2,14 @@ import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import {
   TrendingUp, Scale, Trophy, Target, Calculator, Dumbbell, Settings as SettingsIcon,
-  ChevronRight, Star, BookOpen,
+  ChevronRight, Star, BookOpen, ClipboardList,
 } from 'lucide-react';
 import { getAllWorkoutLogs, getAllPersonalRecords } from '../store/db';
 import { computeXP, levelFromXP } from '../lib/fitness';
 import styles from './More.module.css';
 
 const MENU = [
+  { path: '/active-plan', label: 'My Active Plan', desc: 'View your full weekly plan', icon: ClipboardList },
   { path: '/progress', label: 'Progress & Stats', desc: 'Charts and lifetime totals', icon: TrendingUp },
   { path: '/body', label: 'Body & Photos', desc: 'Weight, measurements, photos', icon: Scale },
   { path: '/achievements', label: 'Achievements', desc: 'Levels and badges', icon: Trophy },

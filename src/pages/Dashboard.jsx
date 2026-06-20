@@ -306,8 +306,11 @@ export default function Dashboard() {
         <section className="section">
           <div className="section__header">
             <h2 className="section__title">Plan Progress</h2>
+            <button className="btn btn--ghost btn--sm" onClick={() => navigate('/active-plan')}>
+              View Full Plan
+            </button>
           </div>
-          <div className={`${styles.progressCard} card`}>
+          <div className={`${styles.progressCard} card`} onClick={() => navigate('/active-plan')} style={{ cursor: 'pointer' }}>
             <div className={styles.progressHeader}>
               <span className={styles.planName}>{activePlan.name}</span>
               <span className={styles.progressPct}>
