@@ -13,14 +13,14 @@
 // under-trained and advanced lifters get enough volume.
 const OBJECTIVE_PARAMS = {
   strength: {
-    sets: 4, reps: '5', rest: '180s', preferCompound: true,
-    short: 'Strength', note: 'Heavy, full recovery between sets.',
-    count: { beginner: 5, intermediate: 6, advanced: 7 },
+    sets: 3, reps: '3-5', rest: '180s', preferCompound: true,
+    short: 'Powerbuilding', note: 'Heavy, full recovery between sets.',
+    count: { beginner: 4, intermediate: 5, advanced: 6 },
   },
   hypertrophy: {
     sets: 3, reps: '8-12', rest: '90s', preferCompound: false,
     short: 'Hypertrophy', note: 'Controlled tempo, chase the pump.',
-    count: { beginner: 5, intermediate: 7, advanced: 8 },
+    count: { beginner: 5, intermediate: 6, advanced: 7 },
   },
   jump: {
     sets: 3, reps: '5', rest: '120s', preferCompound: true,
@@ -37,11 +37,16 @@ const OBJECTIVE_PARAMS = {
     short: 'Balanced', note: 'Balanced, sustainable effort.',
     count: { beginner: 5, intermediate: 6, advanced: 7 },
   },
+  minimalist: {
+    sets: 2, reps: '8-10', rest: '60s', preferCompound: true,
+    short: 'Essentials', note: 'High intensity, low volume. Push hard.',
+    count: 4,
+  },
 };
 
 const OBJECTIVE_LABELS = {
-  strength: 'Strength', hypertrophy: 'Hypertrophy', jump: 'Vertical Jump',
-  fatloss: 'Fat Loss', general: 'General Fitness',
+  strength: 'Powerbuilding', hypertrophy: 'Hypertrophy', jump: 'Vertical Jump',
+  fatloss: 'Fat Loss', general: 'General Fitness', minimalist: 'The Essentials',
 };
 
 // Experience tuning: sets-per-exercise adjustment and weekly per-muscle cap.
@@ -126,43 +131,112 @@ function equipmentAllowed(equip, ex) {
 }
 
 // Pick exercises for one training day. For power/jump objectives, blends
-// plyometric drills with supporting compound movements instead of drawing
-// exclusively from the tiny plyo pool.
-function pickExercises(library, block, params, equip, wantPlyo) {
-  let pool = library.filter(ex => block.groups.includes(ex.muscleGroup) && equipmentAllowed(equip, ex));
+// plyometric drills with supporting compound movements. Uses bucketed round-robin
+// by muscle group and global usage counts to ensure variation across the week.
+function pickExercises(library, block, params, equip, wantPlyo, globalCounts) {
+  const pool = library.filter(ex => block.groups.includes(ex.muscleGroup) && equipmentAllowed(equip, ex));
 
+  // Score each exercise: prioritize less frequently used exercises
+  const getScore = (ex) => {
+    let score = 0;
+    const usedCount = globalCounts[ex.name] || 0;
+    score -= usedCount * 100; // heavy penalty for reuse
+    if (params.preferCompound && ex.category === 'compound') score += 10;
+    score += Math.random(); // tie breaker
+    return score;
+  };
+
+  let plyoPool = [];
+  let regularPool = pool;
   if (wantPlyo) {
-    // Blend: pick plyometric drills first, then fill remaining slots with
-    // compound/isolation exercises from the block's muscle groups.
-    const plyo = library.filter(ex => ex.category === 'plyometric' && equipmentAllowed(equip, ex));
-    // Put plyo at the top, followed by compounds, then the rest.
-    const compounds = pool.filter(ex => ex.category === 'compound');
-    const rest = pool.filter(ex => ex.category !== 'compound' && ex.category !== 'plyometric');
-    pool = [...plyo, ...compounds, ...rest];
-  } else if (params.preferCompound) {
-    pool = [...pool].sort((a, b) => (b.category === 'compound' ? 1 : 0) - (a.category === 'compound' ? 1 : 0));
-  } else {
-    pool = [...pool].sort(() => Math.random() - 0.5);
+    plyoPool = library.filter(ex => ex.category === 'plyometric' && equipmentAllowed(equip, ex));
+    regularPool = pool.filter(ex => ex.category !== 'plyometric');
   }
 
-  const seen = new Set();
-  const chosen = [];
-  for (const ex of pool) {
-    if (seen.has(ex.name)) continue;
-    seen.add(ex.name);
-    chosen.push(ex);
-    if (chosen.length >= params.count) break;
+  // Group regular exercises by muscle group to ensure balanced coverage
+  const buckets = {};
+  block.groups.forEach(mg => buckets[mg] = []);
+  regularPool.forEach(ex => {
+    if (buckets[ex.muscleGroup]) buckets[ex.muscleGroup].push(ex);
+  });
+
+  // Sort each bucket internally
+  for (const mg of block.groups) {
+    buckets[mg].sort((a, b) => getScore(b) - getScore(a));
   }
-  return chosen.map(ex => ({
-    name: ex.name,
-    sets: params.sets,
-    reps: ex.category === 'plyometric' ? '5' : params.reps,
-    rest: ex.category === 'plyometric' ? '120s' : params.rest,
-    notes: params.note,
-    muscleGroup: ex.muscleGroup,
-    equipment: ex.equipment,
-    category: ex.category,
-  }));
+  if (wantPlyo) {
+    plyoPool.sort((a, b) => getScore(b) - getScore(a));
+  }
+
+  const chosen = [];
+  const localSeen = new Set();
+  
+  const pick = (ex) => {
+    chosen.push(ex);
+    localSeen.add(ex.name);
+    globalCounts[ex.name] = (globalCounts[ex.name] || 0) + 1;
+  };
+
+  // 1. Plyometric phase
+  if (wantPlyo) {
+    const plyoTarget = Math.max(3, Math.floor(params.count * 0.5));
+    for (const ex of plyoPool) {
+      if (!localSeen.has(ex.name)) pick(ex);
+      if (chosen.length >= plyoTarget) break;
+    }
+  }
+
+  // 2. Round-robin through muscle buckets to fill the rest
+  let groupIdx = 0;
+  let attempts = 0;
+  while (chosen.length < params.count) {
+    let anyLeft = false;
+    for (const mg of block.groups) {
+      if (buckets[mg].length > 0) anyLeft = true;
+    }
+    if (!anyLeft) break; // no more available exercises
+
+    const targetGroup = block.groups[groupIdx % block.groups.length];
+    const bucket = buckets[targetGroup];
+    
+    if (bucket && bucket.length > 0) {
+      const ex = bucket.shift();
+      if (!localSeen.has(ex.name)) {
+        pick(ex);
+        attempts = 0;
+      }
+    } else {
+      attempts++;
+    }
+    
+    groupIdx++;
+    if (attempts > block.groups.length * 2) break; // safety breakout
+  }
+
+  // Ensure compound exercises always appear before isolation/core exercises
+  chosen.sort((a, b) => {
+    if (a.category === 'compound' && b.category !== 'compound') return -1;
+    if (b.category === 'compound' && a.category !== 'compound') return 1;
+    return 0;
+  });
+
+  return chosen.map(ex => {
+    // Nippard principle: reduce junk volume by assigning fewer sets to isolations
+    let exSets = params.sets;
+    if (ex.category === 'isolation' || ex.category === 'core' || ex.category === 'mobility') {
+      exSets = Math.max(1, params.sets - 1);
+    }
+    return {
+      name: ex.name,
+      sets: exSets,
+      reps: ex.category === 'plyometric' ? '5' : params.reps,
+      rest: ex.category === 'plyometric' ? '120s' : params.rest,
+      notes: params.note,
+      muscleGroup: ex.muscleGroup,
+      equipment: ex.equipment,
+      category: ex.category,
+    };
+  });
 }
 
 // Enforce recovery by capping weekly sets per muscle group.
@@ -251,6 +325,8 @@ export function generatePlan(goals, library) {
     sun: { name: 'Rest Day', type: 'rest', exercises: [] },
   };
 
+  const globalCounts = {};
+
   slots.forEach((slot, i) => {
     const block = blocks[i];
     // Cycle the chosen objectives across training days for a true hybrid.
@@ -266,7 +342,7 @@ export function generatePlan(goals, library) {
       sets: Math.max(2, base.sets + exp.setDelta),
     };
     const wantPlyo = (dayObjective === 'jump' || includesJump) && block.groups.includes('legs');
-    const exercises = pickExercises(library, block, params, goals.equipment, wantPlyo);
+    const exercises = pickExercises(library, block, params, goals.equipment, wantPlyo, globalCounts);
     weeklySchedule[slot] = {
       name: hybrid ? `${block.name} · ${base.short}` : block.name,
       type: 'main',

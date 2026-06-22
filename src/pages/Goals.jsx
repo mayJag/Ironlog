@@ -20,6 +20,7 @@ const OBJECTIVES = [
   { id: 'jump', label: 'Jump Higher', desc: 'Plyometrics + lower power' },
   { id: 'fatloss', label: 'Lose Fat', desc: 'Higher reps, short rest' },
   { id: 'general', label: 'General Fitness', desc: 'Balanced full-body work' },
+  { id: 'minimalist', label: 'Short Workout', desc: 'Max 45 min, high intensity, low vol' },
 ];
 const EQUIPMENT = [
   { id: 'full', label: 'Full Gym' },

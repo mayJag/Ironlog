@@ -4,6 +4,8 @@ import { Dumbbell, Clock, Calendar, ChevronRight, ChevronDown, Zap, Target, Arro
 import { btrProgram } from '../data/btrProgram';
 import { nippardProgram } from '../data/nippardProgram';
 import { hybridProgram } from '../data/hybridProgram';
+import { nippard_fundamentals } from '../data/fundamentalsProgram';
+import { nippard_essentials } from '../data/essentialsProgram';
 import { savePlan, setSetting } from '../store/db';
 import { getExerciseVideoUrl } from '../data/exerciseVideos';
 import { useToast } from '../components/Toast';
@@ -24,6 +26,8 @@ export default function Programs() {
     if (programId === 'beyond-the-rim') return btrProgram;
     if (programId === 'nippard-powerbuilding') return nippardProgram;
     if (programId === 'hybrid-powerbuilding-jump') return hybridProgram;
+    if (programId === 'nippard-fundamentals') return nippard_fundamentals;
+    if (programId === 'nippard-essentials') return nippard_essentials;
     return null;
   };
 
@@ -190,6 +194,70 @@ export default function Programs() {
               className="btn btn--secondary btn--full"
               style={{ borderColor: 'var(--accent-secondary)' }}
               onClick={() => navigate(`/programs/${nippardProgram.id}`)}
+            >
+              View Program Details <ChevronRight size={16} />
+            </button>
+          </div>
+
+          {/* Jeff Nippard Fundamentals */}
+          <div className={`${styles.programCard} card ${styles.nippardCard}`}>
+            <div className={styles.cardHeader}>
+              <h2 className={styles.programTitle}>{nippard_fundamentals.name}</h2>
+              <span className={styles.author}>by {nippard_fundamentals.author}</span>
+            </div>
+
+            <p className={styles.description}>
+              An evidence-based hypertrophy program designed to build a solid foundation of muscle and strength. Perfect for beginners.
+            </p>
+
+            <div className={styles.metaBadges}>
+              <span className="badge badge--blue">
+                <Calendar size={12} /> {nippard_fundamentals.duration}
+              </span>
+              <span className="badge badge--blue">
+                <Dumbbell size={12} /> 4 Days/Week
+              </span>
+              <span className="badge badge--blue">
+                <Target size={12} /> Hypertrophy
+              </span>
+            </div>
+
+            <button 
+              className="btn btn--secondary btn--full"
+              style={{ borderColor: 'var(--accent-secondary)' }}
+              onClick={() => navigate(`/programs/${nippard_fundamentals.id}`)}
+            >
+              View Program Details <ChevronRight size={16} />
+            </button>
+          </div>
+
+          {/* Jeff Nippard Essentials */}
+          <div className={`${styles.programCard} card ${styles.nippardCard}`}>
+            <div className={styles.cardHeader}>
+              <h2 className={styles.programTitle}>{nippard_essentials.name}</h2>
+              <span className={styles.author}>by {nippard_essentials.author}</span>
+            </div>
+
+            <p className={styles.description}>
+              Designed for maximum efficiency in 45 mins or less. High intensity, low volume minimalist workouts.
+            </p>
+
+            <div className={styles.metaBadges}>
+              <span className="badge badge--blue">
+                <Calendar size={12} /> {nippard_essentials.duration}
+              </span>
+              <span className="badge badge--blue">
+                <Dumbbell size={12} /> 3 Days/Week
+              </span>
+              <span className="badge badge--blue">
+                <Target size={12} /> Minimalist
+              </span>
+            </div>
+
+            <button 
+              className="btn btn--secondary btn--full"
+              style={{ borderColor: 'var(--accent-secondary)' }}
+              onClick={() => navigate(`/programs/${nippard_essentials.id}`)}
             >
               View Program Details <ChevronRight size={16} />
             </button>
