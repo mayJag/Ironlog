@@ -3,6 +3,9 @@ import { useNavigate, useLocation } from 'react-router-dom';
 import { Calendar, Plus, Trash2, Dumbbell, Clock, Play, Save, Check, ShieldAlert, Sparkles, AlertCircle, Pencil, Bookmark } from 'lucide-react';
 import { btrProgram } from '../data/btrProgram';
 import { expertPowerbuilding } from '../data/expertPowerbuilding';
+import { expert_fundamentals } from '../data/fundamentalsProgram';
+import { expert_essentials } from '../data/essentialsProgram';
+import { expert_pure_bodybuilding } from '../data/pureBodybuildingProgram';
 import { savePlan, setSetting, generateId, saveRoutine, getAllRoutines, deleteRoutine } from '../store/db';
 import { useToast } from '../components/Toast';
 import { BASE_EXERCISES, useExerciseLibrary } from '../data/exercises';
@@ -135,9 +138,18 @@ export default function PlanBuilder() {
     { key: 'sun', label: 'Sunday' }
   ];
 
+  const getActiveProgram = (id) => {
+    if (id === 'beyond-the-rim') return btrProgram;
+    if (id === 'expert-powerbuilding') return expertPowerbuilding;
+    if (id === 'expert-fundamentals') return expert_fundamentals;
+    if (id === 'expert-essentials') return expert_essentials;
+    if (id === 'expert-pure-bodybuilding') return expert_pure_bodybuilding;
+    return expertPowerbuilding;
+  };
+
   // --- Follow Program Save ---
   const handleSaveProgramPlan = async () => {
-    const activeProgram = progSelected === 'beyond-the-rim' ? btrProgram : expertPowerbuilding;
+    const activeProgram = getActiveProgram(progSelected);
     try {
       const newPlan = {
         id: `plan-${activeProgram.id}`,
@@ -488,6 +500,9 @@ export default function PlanBuilder() {
               onChange={(e) => setProgSelected(e.target.value)}
             >
               <option value="expert-powerbuilding">{expertPowerbuilding.name}</option>
+              <option value="expert-fundamentals">{expert_fundamentals.name}</option>
+              <option value="expert-essentials">{expert_essentials.name}</option>
+              <option value="expert-pure-bodybuilding">{expert_pure_bodybuilding.name}</option>
               <option value="beyond-the-rim">{btrProgram.name}</option>
             </select>
           </div>
