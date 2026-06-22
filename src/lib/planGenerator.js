@@ -1,13 +1,42 @@
 /* Builds a tailored weekly plan from the user's goals + the exercise library.
    Supports multiple objectives (hybrid plans), experience-based volume, and a
-   per-muscle weekly volume cap so no muscle group gets overtrained. */
+   per-muscle weekly volume cap so no muscle group gets overtrained.
 
+   Volume guidelines follow NSCA / ACSM evidence-based recommendations:
+   ─ Plyometric & Power (NSCA): 80–140 foot contacts, 4–7 exercises per session
+   ─ Strength (NSCA/ACSM):     4–8 exercises, 3–5 sets × 3–12 reps
+   ─ Hypertrophy (ACSM 2026):  5–8 exercises, 3–4 sets × 6–15 reps, 10–25 sets/muscle/week
+   ─ Fat Loss / Conditioning:   5–9 exercises, 2–4 sets × 12–20 reps, short rest
+   ─ General Fitness:            4–7 exercises, 2–4 sets × 8–12 reps                        */
+
+// Exercise count is keyed by experience level so beginners never end up
+// under-trained and advanced lifters get enough volume.
 const OBJECTIVE_PARAMS = {
-  strength:    { sets: 5, reps: '5',     rest: '180s', count: 5, preferCompound: true,  short: 'Strength',    note: 'Heavy, full recovery between sets.' },
-  hypertrophy: { sets: 4, reps: '8-12',  rest: '90s',  count: 6, preferCompound: false, short: 'Hypertrophy', note: 'Controlled tempo, chase the pump.' },
-  jump:        { sets: 4, reps: '5',     rest: '120s', count: 5, preferCompound: true,  short: 'Power',       note: 'Move explosively on every rep.' },
-  fatloss:     { sets: 3, reps: '15',    rest: '45s',  count: 6, preferCompound: false, short: 'Conditioning',note: 'Keep rest short, heart rate up.' },
-  general:     { sets: 3, reps: '10',    rest: '75s',  count: 5, preferCompound: false, short: 'Balanced',    note: 'Balanced, sustainable effort.' },
+  strength: {
+    sets: 4, reps: '5', rest: '180s', preferCompound: true,
+    short: 'Strength', note: 'Heavy, full recovery between sets.',
+    count: { beginner: 5, intermediate: 6, advanced: 7 },
+  },
+  hypertrophy: {
+    sets: 3, reps: '8-12', rest: '90s', preferCompound: false,
+    short: 'Hypertrophy', note: 'Controlled tempo, chase the pump.',
+    count: { beginner: 5, intermediate: 7, advanced: 8 },
+  },
+  jump: {
+    sets: 3, reps: '5', rest: '120s', preferCompound: true,
+    short: 'Power', note: 'Move explosively on every rep.',
+    count: { beginner: 5, intermediate: 6, advanced: 7 },
+  },
+  fatloss: {
+    sets: 3, reps: '15', rest: '45s', preferCompound: false,
+    short: 'Conditioning', note: 'Keep rest short, heart rate up.',
+    count: { beginner: 6, intermediate: 7, advanced: 9 },
+  },
+  general: {
+    sets: 3, reps: '10', rest: '75s', preferCompound: false,
+    short: 'Balanced', note: 'Balanced, sustainable effort.',
+    count: { beginner: 5, intermediate: 6, advanced: 7 },
+  },
 };
 
 const OBJECTIVE_LABELS = {
@@ -15,11 +44,15 @@ const OBJECTIVE_LABELS = {
   fatloss: 'Fat Loss', general: 'General Fitness',
 };
 
-// Experience tuning: volume (exercise count, sets) and weekly per-muscle cap.
+// Experience tuning: sets-per-exercise adjustment and weekly per-muscle cap.
+// Weekly caps aligned with ACSM/NSCA recommendations:
+//   Beginner  10–14 sets/muscle/week → cap 16 (allows headroom)
+//   Intermediate 14–20 → cap 22
+//   Advanced  18–25+ → cap 30
 const EXPERIENCE = {
-  beginner:     { exDelta: -1, setDelta: -1, muscleWeeklyCap: 12 },
-  intermediate: { exDelta: 0,  setDelta: 0,  muscleWeeklyCap: 18 },
-  advanced:     { exDelta: 1,  setDelta: 0,  muscleWeeklyCap: 24 },
+  beginner:     { setDelta: -1, muscleWeeklyCap: 16 },
+  intermediate: { setDelta: 0,  muscleWeeklyCap: 22 },
+  advanced:     { setDelta: 0,  muscleWeeklyCap: 30 },
 };
 
 // Which weekday keys are training days for N days/week (spread for recovery).
@@ -92,14 +125,21 @@ function equipmentAllowed(equip, ex) {
   return true; // full gym
 }
 
+// Pick exercises for one training day. For power/jump objectives, blends
+// plyometric drills with supporting compound movements instead of drawing
+// exclusively from the tiny plyo pool.
 function pickExercises(library, block, params, equip, wantPlyo) {
   let pool = library.filter(ex => block.groups.includes(ex.muscleGroup) && equipmentAllowed(equip, ex));
 
   if (wantPlyo) {
+    // Blend: pick plyometric drills first, then fill remaining slots with
+    // compound/isolation exercises from the block's muscle groups.
     const plyo = library.filter(ex => ex.category === 'plyometric' && equipmentAllowed(equip, ex));
-    pool = [...plyo, ...pool];
-  }
-  if (params.preferCompound) {
+    // Put plyo at the top, followed by compounds, then the rest.
+    const compounds = pool.filter(ex => ex.category === 'compound');
+    const rest = pool.filter(ex => ex.category !== 'compound' && ex.category !== 'plyometric');
+    pool = [...plyo, ...compounds, ...rest];
+  } else if (params.preferCompound) {
     pool = [...pool].sort((a, b) => (b.category === 'compound' ? 1 : 0) - (a.category === 'compound' ? 1 : 0));
   } else {
     pool = [...pool].sort(() => Math.random() - 0.5);
@@ -125,23 +165,56 @@ function pickExercises(library, block, params, equip, wantPlyo) {
   }));
 }
 
-// Trim isolation work from the busiest days until no muscle exceeds its weekly cap.
+// Enforce recovery by capping weekly sets per muscle group.
+// Strategy (less aggressive than before):
+//   1. First pass — reduce sets per exercise (4→3, 3→2) on isolation work.
+//   2. Second pass — only remove entire exercises as a last resort,
+//      and never drop a day below a hard floor of 4 exercises.
+// Protected categories: compound and plyometric exercises are never reduced
+// or removed — they are the primary training stimulus.
 function enforceRecovery(weeklySchedule, cap) {
   const setsFor = (mg) => Object.values(weeklySchedule).reduce((sum, day) =>
     sum + (day.exercises || []).filter(e => e.muscleGroup === mg).reduce((s, e) => s + (Number(e.sets) || 0), 0), 0);
 
   const muscles = [...new Set(Object.values(weeklySchedule).flatMap(d => (d.exercises || []).map(e => e.muscleGroup)))];
+  const MIN_EXERCISES_PER_DAY = 4; // NSCA minimum for any session type
+  const PROTECTED = ['compound', 'plyometric']; // never trim these
 
   for (const mg of muscles) {
+    // ── Pass 1: reduce sets on non-protected exercises for this muscle ──
     let guard = 0;
-    while (setsFor(mg) > cap && guard++ < 30) {
-      // find the training day with the most of this muscle and drop one exercise
-      // (prefer isolation/accessory work, keep compounds).
-      let bestKey = null; let bestIdx = -1; let bestScore = -1;
+    while (setsFor(mg) > cap && guard++ < 40) {
+      let reduced = false;
+      // Find the exercise with the most sets that is isolation/accessory/core
+      let bestKey = null; let bestIdx = -1; let bestSets = 0;
       for (const [key, day] of Object.entries(weeklySchedule)) {
         (day.exercises || []).forEach((e, idx) => {
           if (e.muscleGroup !== mg) return;
-          const score = (e.category === 'compound' ? 0 : 2) + (day.exercises.length); // prefer isolation, busier days
+          const s = Number(e.sets) || 0;
+          if (s > 2 && !PROTECTED.includes(e.category) && s > bestSets) {
+            bestSets = s; bestKey = key; bestIdx = idx;
+          }
+        });
+      }
+      if (bestKey != null) {
+        weeklySchedule[bestKey].exercises[bestIdx].sets = bestSets - 1;
+        reduced = true;
+      }
+      if (!reduced) break; // nothing left to reduce
+    }
+
+    // ── Pass 2: remove non-protected exercises only if still over cap ──
+    guard = 0;
+    while (setsFor(mg) > cap && guard++ < 20) {
+      let bestKey = null; let bestIdx = -1; let bestScore = -1;
+      for (const [key, day] of Object.entries(weeklySchedule)) {
+        // Never drop a day below the minimum exercise count
+        if ((day.exercises || []).length <= MIN_EXERCISES_PER_DAY) continue;
+        (day.exercises || []).forEach((e, idx) => {
+          if (e.muscleGroup !== mg) return;
+          // Never remove compounds or plyometric exercises.
+          if (PROTECTED.includes(e.category)) return;
+          const score = (e.category === 'isolation' ? 3 : 1) + (day.exercises.length);
           if (score > bestScore) { bestScore = score; bestKey = key; bestIdx = idx; }
         });
       }
@@ -157,12 +230,13 @@ export function generatePlan(goals, library) {
     ? goals.objectives
     : [goals.objective || 'general'];
   const days = Math.min(6, Math.max(3, Number(goals.daysPerWeek) || 4));
-  const exp = EXPERIENCE[goals.experience] || EXPERIENCE.intermediate;
+  const experience = goals.experience || 'intermediate';
+  const exp = EXPERIENCE[experience] || EXPERIENCE.intermediate;
   const slots = DAY_SLOTS[days];
   // Resolve the split: explicit choice, or the recommended one when 'auto'.
   const split = (goals.split && goals.split !== 'auto')
     ? goals.split
-    : recommendSplit(objectives, days, goals.experience).split;
+    : recommendSplit(objectives, days, experience).split;
   const blocks = buildBlocks(split, days, goals.armsDay);
   const hybrid = objectives.length > 1;
   const includesJump = objectives.includes('jump');
@@ -182,9 +256,13 @@ export function generatePlan(goals, library) {
     // Cycle the chosen objectives across training days for a true hybrid.
     const dayObjective = objectives[i % objectives.length];
     const base = OBJECTIVE_PARAMS[dayObjective] || OBJECTIVE_PARAMS.general;
+    // Resolve per-experience exercise count directly — no more exDelta.
+    const targetCount = (typeof base.count === 'object')
+      ? (base.count[experience] || base.count.intermediate || 5)
+      : (base.count || 5);
     const params = {
       ...base,
-      count: Math.max(3, base.count + exp.exDelta),
+      count: Math.max(4, targetCount),  // NSCA floor: never below 4
       sets: Math.max(2, base.sets + exp.setDelta),
     };
     const wantPlyo = (dayObjective === 'jump' || includesJump) && block.groups.includes('legs');
